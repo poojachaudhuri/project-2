@@ -1,0 +1,384 @@
+level_0,index,incident_id,incident_date,state,city_or_country,address,killed,injured,incident_url,year,month-year
+0,0,740447,2016-12-31,Georgia,Lenox (El Dorado),27 Briarwood Ct,2,2,https://www.gunviolencearchive.org/incident/740447,2016,12-2016
+1,1,738749,2016-12-31,Texas,Houston,3704 Fannin Street,1,3,https://www.gunviolencearchive.org/incident/738749,2016,12-2016
+2,2,738041,2016-12-30,Ohio,Mansfield,3230 Possum Run Rd,0,5,https://www.gunviolencearchive.org/incident/738041,2016,12-2016
+3,3,738576,2016-12-30,Connecticut,Wallingford,95 S Turnpike Rd,2,3,https://www.gunviolencearchive.org/incident/738576,2016,12-2016
+4,4,736690,2016-12-28,Georgia,Columbus,2914 10th Street,1,4,https://www.gunviolencearchive.org/incident/736690,2016,12-2016
+5,5,734157,2016-12-25,Illinois,Chicago,8600 block of S Maryland Ave,3,4,https://www.gunviolencearchive.org/incident/734157,2016,12-2016
+6,6,735947,2016-12-25,Alabama,Ozark,858 US-231,0,4,https://www.gunviolencearchive.org/incident/735947,2016,12-2016
+7,7,733599,2016-12-25,New York,Mount Vernon,4 North 3rd Avenue,1,5,https://www.gunviolencearchive.org/incident/733599,2016,12-2016
+8,8,732927,2016-12-24,North Carolina,Madison,490 K Ford Rd,0,7,https://www.gunviolencearchive.org/incident/732927,2016,12-2016
+9,9,733176,2016-12-24,North Carolina,Wilson,2241 Banks Lane East,4,0,https://www.gunviolencearchive.org/incident/733176,2016,12-2016
+10,10,732263,2016-12-23,Alabama,Birmingham,3813 Richard Arrington Boulevard North,1,3,https://www.gunviolencearchive.org/incident/732263,2016,12-2016
+11,11,732574,2016-12-23,Illinois,Chicago,4900 block of W Hubbard,0,4,https://www.gunviolencearchive.org/incident/732574,2016,12-2016
+12,12,727759,2016-12-17,Illinois,Chicago (Roseland),100 block of W 105th St,5,0,https://www.gunviolencearchive.org/incident/727759,2016,12-2016
+13,13,728286,2016-12-17,North Carolina,Charlotte,4115 N. Tryon Street,0,4,https://www.gunviolencearchive.org/incident/728286,2016,12-2016
+14,14,727555,2016-12-16,Illinois,Chicago,13th and South Kedzie,0,4,https://www.gunviolencearchive.org/incident/727555,2016,12-2016
+15,15,727544,2016-12-16,Illinois,Chicago,4300 block of South Rockwell,2,2,https://www.gunviolencearchive.org/incident/727544,2016,12-2016
+16,16,724667,2016-12-12,California,Sacramento,4800 block of Myrtle Avenue,1,3,https://www.gunviolencearchive.org/incident/724667,2016,12-2016
+17,17,723649,2016-12-11,New York,Brooklyn,192 Knickerbocker Ave,0,4,https://www.gunviolencearchive.org/incident/723649,2016,12-2016
+18,18,723643,2016-12-11,Florida,Orlando (Pine Hills),4305 N Pine Hills Rd,1,4,https://www.gunviolencearchive.org/incident/723643,2016,12-2016
+19,19,723292,2016-12-11,Maryland,Baltimore,3916 South Hanover Street,0,5,https://www.gunviolencearchive.org/incident/723292,2016,12-2016
+20,20,725338,2016-12-11,North Carolina,Rocky Mount,1200 block of East Highland Ave,0,4,https://www.gunviolencearchive.org/incident/725338,2016,12-2016
+21,21,725323,2016-12-09,Texas,Channelview,15300 block of Market,4,0,https://www.gunviolencearchive.org/incident/725323,2016,12-2016
+22,22,722452,2016-12-09,California,Fresno,842 Fresno Street,0,4,https://www.gunviolencearchive.org/incident/722452,2016,12-2016
+23,23,719128,2016-12-05,New Mexico,Albuquerque,1532 Stagecoach Lane,4,1,https://www.gunviolencearchive.org/incident/719128,2016,12-2016
+24,24,717873,2016-12-03,California,Los Angeles,91st Street and Western Avenue,0,6,https://www.gunviolencearchive.org/incident/717873,2016,12-2016
+25,25,717616,2016-12-02,New Jersey,Bloomfield,3 1st Ave,0,6,https://www.gunviolencearchive.org/incident/717616,2016,12-2016
+26,26,716001,2016-12-01,California,Clearlake Oaks,Pomo Rd,1,3,https://www.gunviolencearchive.org/incident/716001,2016,12-2016
+27,27,715101,2016-11-30,Maryland,Baltimore,2901 Garrison Blvd,2,4,https://www.gunviolencearchive.org/incident/715101,2016,11-2016
+28,28,712796,2016-11-28,Texas,Mission (Palmview),1840 West Palma Vista Drive,1,3,https://www.gunviolencearchive.org/incident/712796,2016,11-2016
+29,29,712776,2016-11-28,California,Wilmington,1067 McDonald Avenue,0,4,https://www.gunviolencearchive.org/incident/712776,2016,11-2016
+30,30,713445,2016-11-28,California,San Pedro,300 block of West 2nd Street,0,4,https://www.gunviolencearchive.org/incident/713445,2016,11-2016
+31,31,711597,2016-11-27,Louisiana,New Orleans,100 block of Bourbon Street,1,9,https://www.gunviolencearchive.org/incident/711597,2016,11-2016
+32,32,711744,2016-11-27,Missouri,Kansas City,Gregory and Prospect,0,7,https://www.gunviolencearchive.org/incident/711744,2016,11-2016
+33,33,710732,2016-11-26,Illinois,Chicago,8800 block of S Exchange Ave,1,5,https://www.gunviolencearchive.org/incident/710732,2016,11-2016
+34,34,710467,2016-11-25,Louisiana,New Orleans,Magnolia St and Felicity St,0,4,https://www.gunviolencearchive.org/incident/710467,2016,11-2016
+35,35,709370,2016-11-24,Kentucky,Louisville,4501 W Broadway,2,4,https://www.gunviolencearchive.org/incident/709370,2016,11-2016
+36,36,709276,2016-11-24,New York,Albany,77 Central Ave,1,3,https://www.gunviolencearchive.org/incident/709276,2016,11-2016
+37,37,708777,2016-11-23,Mississippi,Olive Branch,928 Cross Road,0,4,https://www.gunviolencearchive.org/incident/708777,2016,11-2016
+38,38,708392,2016-11-22,Florida,Clewiston,1068 Harlem Academy Ave,1,4,https://www.gunviolencearchive.org/incident/708392,2016,11-2016
+39,39,704568,2016-11-18,Illinois,Chicago,5000 block of W Wabansia,0,4,https://www.gunviolencearchive.org/incident/704568,2016,11-2016
+40,40,703245,2016-11-17,Tennessee,Dyersburg,160 Longfellow,1,7,https://www.gunviolencearchive.org/incident/703245,2016,11-2016
+41,41,699605,2016-11-13,Florida,Jacksonville,5105 Cleveland Rd,3,2,https://www.gunviolencearchive.org/incident/699605,2016,11-2016
+42,42,699332,2016-11-13,Texas,San Antonio,8000 Midcrown,0,4,https://www.gunviolencearchive.org/incident/699332,2016,11-2016
+43,43,700232,2016-11-13,California,San Diego,3800 block of Marlborough Avenue,3,2,https://www.gunviolencearchive.org/incident/700232,2016,11-2016
+44,44,699316,2016-11-13,Florida,Orlando,Conley Street and South Ivey Lane,0,4,https://www.gunviolencearchive.org/incident/699316,2016,11-2016
+45,45,699033,2016-11-12,California,Sacramento,8600 block of Ardith Drive,1,5,https://www.gunviolencearchive.org/incident/699033,2016,11-2016
+46,46,700363,2016-11-12,Missouri,Kansas City,21st St and Cleveland Ave,1,3,https://www.gunviolencearchive.org/incident/700363,2016,11-2016
+47,47,699303,2016-11-12,Connecticut,Bridgeport,2500 Park Avenue,0,5,https://www.gunviolencearchive.org/incident/699303,2016,11-2016
+48,48,699863,2016-11-11,Texas,Houston,7705 Channelside Street,0,4,https://www.gunviolencearchive.org/incident/699863,2016,11-2016
+49,49,698383,2016-11-10,Texas,Houston,6610 S Sam Houston Pkwy W,1,3,https://www.gunviolencearchive.org/incident/698383,2016,11-2016
+50,50,696917,2016-11-09,Washington,Seattle,1524 3rd Ave,0,5,https://www.gunviolencearchive.org/incident/696917,2016,11-2016
+51,51,697377,2016-11-09,Illinois,Chicago,3400 block of W Monroe,1,3,https://www.gunviolencearchive.org/incident/697377,2016,11-2016
+52,52,696352,2016-11-09,Tennessee,Memphis,1800 block of East Brooks Road,0,4,https://www.gunviolencearchive.org/incident/696352,2016,11-2016
+53,53,693438,2016-11-05,Texas,San Antonio,10726 Perrin Beitel Rd,0,4,https://www.gunviolencearchive.org/incident/693438,2016,11-2016
+54,54,693401,2016-11-05,South Carolina,Myrtle Beach,803 Main St,0,5,https://www.gunviolencearchive.org/incident/693401,2016,11-2016
+55,55,693624,2016-11-05,Florida,Fort Lauderdale (Lauderhill),3135 W Broward Blvd,1,3,https://www.gunviolencearchive.org/incident/693624,2016,11-2016
+56,56,693374,2016-11-05,California,Oakland,420 14th Street,0,8,https://www.gunviolencearchive.org/incident/693374,2016,11-2016
+57,57,693290,2016-11-05,Illinois,Chicago,4800 block of North Winthrop,0,5,https://www.gunviolencearchive.org/incident/693290,2016,11-2016
+58,58,693307,2016-11-04,Pennsylvania,Philadelphia,5451 Springfield Ave,0,4,https://www.gunviolencearchive.org/incident/693307,2016,11-2016
+59,59,692020,2016-11-03,Illinois,Chicago,8000 block of S Shore Dr,2,2,https://www.gunviolencearchive.org/incident/692020,2016,11-2016
+60,60,692315,2016-11-03,New Jersey,Orange,234 Cleveland Street,2,2,https://www.gunviolencearchive.org/incident/692315,2016,11-2016
+61,61,692025,2016-11-02,Arkansas,Little Rock,2111 Bragg Street,1,4,https://www.gunviolencearchive.org/incident/692025,2016,11-2016
+62,62,691113,2016-11-01,Tennessee,Memphis,5200 block of Zodiac Rd,1,5,https://www.gunviolencearchive.org/incident/691113,2016,11-2016
+63,63,689518,2016-10-31,Louisiana,Shreveport,700 Block of W 68th St,0,4,https://www.gunviolencearchive.org/incident/689518,2016,10-2016
+64,64,688979,2016-10-30,Ohio,Toledo,742 Junction Ave,0,4,https://www.gunviolencearchive.org/incident/688979,2016,10-2016
+65,65,689020,2016-10-30,Maryland,Capitol Heights,6862 Walker Mill Rd,3,3,https://www.gunviolencearchive.org/incident/689020,2016,10-2016
+66,66,688841,2016-10-30,New York,New York (Manhattan),135 Ridge Street,0,4,https://www.gunviolencearchive.org/incident/688841,2016,10-2016
+67,67,688577,2016-10-30,New York,Newburgh,119 First Street,2,5,https://www.gunviolencearchive.org/incident/688577,2016,10-2016
+68,68,688592,2016-10-30,Texas,San Antonio,2900 block of Aspen Meadow,0,5,https://www.gunviolencearchive.org/incident/688592,2016,10-2016
+69,69,689009,2016-10-29,California,Los Angeles,1600 block of Century Boulevard,0,5,https://www.gunviolencearchive.org/incident/689009,2016,10-2016
+70,70,687940,2016-10-29,Ohio,Dayton,2010 Cornell Ridge Dr,1,3,https://www.gunviolencearchive.org/incident/687940,2016,10-2016
+71,71,688210,2016-10-29,California,Riverside,3500 block of Madison Street,0,4,https://www.gunviolencearchive.org/incident/688210,2016,10-2016
+72,72,688429,2016-10-28,Mississippi,Jackson,200 block of Lorenz Blvd,0,6,https://www.gunviolencearchive.org/incident/688429,2016,10-2016
+73,73,687375,2016-10-28,Florida,Miami Gardens,Northwest 173rd Terrace and 27th Avenue,0,4,https://www.gunviolencearchive.org/incident/687375,2016,10-2016
+74,74,686312,2016-10-27,Georgia,Jackson,600 block of Moccasin Gap Road,4,0,https://www.gunviolencearchive.org/incident/686312,2016,10-2016
+75,75,685379,2016-10-25,Ohio,Dayton,3300 block of Riverside Dr,1,3,https://www.gunviolencearchive.org/incident/685379,2016,10-2016
+76,76,684130,2016-10-25,Virginia,Roanoke,830 Campbell Avenue Southeast,2,3,https://www.gunviolencearchive.org/incident/684130,2016,10-2016
+77,77,683142,2016-10-23,Oklahoma,Wellston,Highway 66 and N 3310 Rd,1,5,https://www.gunviolencearchive.org/incident/683142,2016,10-2016
+78,78,682298,2016-10-22,California,Oakland,77th and Bancroft Avenues,0,7,https://www.gunviolencearchive.org/incident/682298,2016,10-2016
+79,79,679290,2016-10-18,California,San Francisco,325 La Grande Ave,0,4,https://www.gunviolencearchive.org/incident/679290,2016,10-2016
+80,80,678438,2016-10-17,Illinois,Chicago (Englewood),6700 block of South Winchester,1,4,https://www.gunviolencearchive.org/incident/678438,2016,10-2016
+81,81,677293,2016-10-15,Alabama,Mobile,1800 block of St Stephens Road,0,5,https://www.gunviolencearchive.org/incident/677293,2016,10-2016
+82,82,676686,2016-10-15,Illinois,Rockford,7801 East State St,1,5,https://www.gunviolencearchive.org/incident/676686,2016,10-2016
+83,83,676663,2016-10-15,California,Los Angeles,2918 Rimpau Blvd,4,11,https://www.gunviolencearchive.org/incident/676663,2016,10-2016
+84,84,676376,2016-10-14,Illinois,Chicago,3300 block of W Maypole Ave,1,6,https://www.gunviolencearchive.org/incident/676376,2016,10-2016
+85,85,675993,2016-10-13,Illinois,Chicago,2700 block of West Lexington,0,4,https://www.gunviolencearchive.org/incident/675993,2016,10-2016
+86,86,672203,2016-10-09,Michigan,Grand Rapids,1850 28th Street SE,1,8,https://www.gunviolencearchive.org/incident/672203,2016,10-2016
+87,87,672217,2016-10-09,California,Sacramento,1696 Arden Way,1,3,https://www.gunviolencearchive.org/incident/672217,2016,10-2016
+88,88,671717,2016-10-08,New York,Brooklyn,7301 3rd Ave,0,4,https://www.gunviolencearchive.org/incident/671717,2016,10-2016
+89,89,669777,2016-10-04,Louisiana,New Orleans,3727 Ulloa Street,3,2,https://www.gunviolencearchive.org/incident/669777,2016,10-2016
+90,90,668407,2016-10-03,Minnesota,Minneapolis,Fourth St and Hennepin Ave,0,4,https://www.gunviolencearchive.org/incident/668407,2016,10-2016
+91,91,667984,2016-10-02,Texas,San Antonio,2600 South Flores Street,1,4,https://www.gunviolencearchive.org/incident/667984,2016,10-2016
+92,92,668279,2016-10-01,Illinois,Pembroke Township,S 17250 East Rd,4,0,https://www.gunviolencearchive.org/incident/668279,2016,10-2016
+93,93,668352,2016-10-01,California,Fresno,3200 block of East Clay Avenue,0,4,https://www.gunviolencearchive.org/incident/668352,2016,10-2016
+94,94,665995,2016-09-29,California,San Francisco,400 block of Ellis St,1,3,https://www.gunviolencearchive.org/incident/665995,2016,09-2016
+95,95,663624,2016-09-26,North Carolina,Winston Salem (Winston-salem),100 block of 5 Royales Dr,0,4,https://www.gunviolencearchive.org/incident/663624,2016,09-2016
+96,96,663789,2016-09-26,Texas,Humble,21219 Grand Linden Ct,0,4,https://www.gunviolencearchive.org/incident/663789,2016,09-2016
+97,97,663106,2016-09-26,Texas,Houston,5450 Weslayan St,1,6,https://www.gunviolencearchive.org/incident/663106,2016,09-2016
+98,98,662548,2016-09-25,Illinois,Champaign,300 block of E. Green St,1,3,https://www.gunviolencearchive.org/incident/662548,2016,09-2016
+99,99,662342,2016-09-24,Maryland,Baltimore,Greenmount Ave and Preston St,0,8,https://www.gunviolencearchive.org/incident/662342,2016,09-2016
+100,100,661703,2016-09-23,Washington,Burlington,201 Cascade Mall Dr,5,0,https://www.gunviolencearchive.org/incident/661703,2016,09-2016
+101,101,657854,2016-09-18,Pennsylvania,Philadelphia,3001 Castor Avenue,0,4,https://www.gunviolencearchive.org/incident/657854,2016,09-2016
+102,102,658226,2016-09-18,Pennsylvania,Pittsburgh,1700 block of Brighton Pl,0,4,https://www.gunviolencearchive.org/incident/658226,2016,09-2016
+103,103,657863,2016-09-18,Virginia,Lynchburg,421 Rivermont Ave,1,3,https://www.gunviolencearchive.org/incident/657863,2016,09-2016
+104,104,657634,2016-09-17,District of Columbia,Washington,2600 block of Birney Pl SE,2,7,https://www.gunviolencearchive.org/incident/657634,2016,09-2016
+105,105,659289,2016-09-17,Florida,Miami,20582 SW 119th Ave,0,6,https://www.gunviolencearchive.org/incident/659289,2016,09-2016
+106,106,657136,2016-09-17,Florida,Orlando,3918 Columbia St,1,6,https://www.gunviolencearchive.org/incident/657136,2016,09-2016
+107,107,657151,2016-09-17,Indiana,Indianapolis,2016 West 76th Street,2,2,https://www.gunviolencearchive.org/incident/657151,2016,09-2016
+108,108,656991,2016-09-16,California,Los Angeles (Hollywood),555 N Heliotrope Dr,2,2,https://www.gunviolencearchive.org/incident/656991,2016,09-2016
+109,109,657023,2016-09-16,Pennsylvania,Philadelphia,5100 block of Sansom St,2,5,https://www.gunviolencearchive.org/incident/657023,2016,09-2016
+110,110,655512,2016-09-14,Texas,Humble,16000 block of Saybrook,1,3,https://www.gunviolencearchive.org/incident/655512,2016,09-2016
+111,111,654087,2016-09-13,Indiana,Fort Wayne,1723 E Wayne St,3,2,https://www.gunviolencearchive.org/incident/654087,2016,09-2016
+112,112,653077,2016-09-11,Louisiana,New Orleans,2349 S Claiborne Ave,1,5,https://www.gunviolencearchive.org/incident/653077,2016,09-2016
+113,113,652584,2016-09-11,Missouri,Kansas City,500 block of Westport Rd,0,6,https://www.gunviolencearchive.org/incident/652584,2016,09-2016
+114,114,652561,2016-09-11,Michigan,Saginaw,2207 Pierce Road,0,5,https://www.gunviolencearchive.org/incident/652561,2016,09-2016
+115,115,652606,2016-09-11,North Carolina,New Bern,1100 block of Highway 70,0,5,https://www.gunviolencearchive.org/incident/652606,2016,09-2016
+116,116,652642,2016-09-11,Indiana,Fort Wayne,3006 Holton Avenue,3,1,https://www.gunviolencearchive.org/incident/652642,2016,09-2016
+117,117,652759,2016-09-11,New Jersey,Jersey City,87 Van Wagenen Ave,1,3,https://www.gunviolencearchive.org/incident/652759,2016,09-2016
+118,118,652175,2016-09-10,Florida,Miami,3451 Northwest 36 Street,1,3,https://www.gunviolencearchive.org/incident/652175,2016,09-2016
+119,119,651957,2016-09-08,Texas,Del Valle,8330 Linden Rd,4,0,https://www.gunviolencearchive.org/incident/651957,2016,09-2016
+120,120,651434,2016-09-08,Arkansas,Hot Springs National Park (Hot Springs),300 block of Lacey St,1,4,https://www.gunviolencearchive.org/incident/651434,2016,09-2016
+121,121,648884,2016-09-05,Illinois,Chicago,2700 block of W Lexington Ave,2,3,https://www.gunviolencearchive.org/incident/648884,2016,09-2016
+122,122,648490,2016-09-05,Pennsylvania,Reading,600 block of Moss Street,0,4,https://www.gunviolencearchive.org/incident/648490,2016,09-2016
+123,123,647865,2016-09-04,Virginia,Roanoke,1020 Orange Ave NE,1,10,https://www.gunviolencearchive.org/incident/647865,2016,09-2016
+124,124,646995,2016-09-03,North Carolina,Wilmington,600 block of North 30th St,1,3,https://www.gunviolencearchive.org/incident/646995,2016,09-2016
+125,125,646855,2016-09-03,Illinois,Chicago,100 block of North Seeley Avenue,0,4,https://www.gunviolencearchive.org/incident/646855,2016,09-2016
+126,126,644723,2016-08-30,Georgia,Atlanta,400 Merritts Avenue NE,0,4,https://www.gunviolencearchive.org/incident/644723,2016,08-2016
+127,127,643824,2016-08-30,Illinois,Chicago (Englewood),6800 block of South Ashland,0,4,https://www.gunviolencearchive.org/incident/643824,2016,08-2016
+128,128,641732,2016-08-29,New Jersey,Egg Harbor City,907 White Horse Pike,1,5,https://www.gunviolencearchive.org/incident/641732,2016,08-2016
+129,129,641419,2016-08-28,Texas,Lubbock,2200 block of 17th St,0,6,https://www.gunviolencearchive.org/incident/641419,2016,08-2016
+130,130,640677,2016-08-28,New York,Bronx,514 E 156th St,0,4,https://www.gunviolencearchive.org/incident/640677,2016,08-2016
+131,131,640689,2016-08-28,Missouri,Saint Louis,S Grand Blvd and Montana St,2,2,https://www.gunviolencearchive.org/incident/640689,2016,08-2016
+132,132,640861,2016-08-28,Alabama,Dadeville,512 E Columbus St,0,5,https://www.gunviolencearchive.org/incident/640861,2016,08-2016
+133,133,640500,2016-08-27,Alabama,Bessemer (Brighton),3810 7th Ave,1,6,https://www.gunviolencearchive.org/incident/640500,2016,08-2016
+134,134,640203,2016-08-27,Florida,Miami,1900 block of NW 83rd Terr,2,4,https://www.gunviolencearchive.org/incident/640203,2016,08-2016
+135,135,640901,2016-08-25,New Jersey,Bridgeton,Marion Street,0,5,https://www.gunviolencearchive.org/incident/640901,2016,08-2016
+136,136,634889,2016-08-21,Massachusetts,Boston,Westview and Stratton Street,0,4,https://www.gunviolencearchive.org/incident/634889,2016,08-2016
+137,137,634787,2016-08-21,Connecticut,Bridgeport,19 Plymouth St,0,13,https://www.gunviolencearchive.org/incident/634787,2016,08-2016
+138,138,634238,2016-08-20,Connecticut,Hamden,903 Dixwell Ave,0,4,https://www.gunviolencearchive.org/incident/634238,2016,08-2016
+139,139,634731,2016-08-20,Washington,Tacoma,900 block of Pacific Avenue,0,5,https://www.gunviolencearchive.org/incident/634731,2016,08-2016
+140,140,634819,2016-08-20,Alabama,Citronelle,Jim Platt Road,5,0,https://www.gunviolencearchive.org/incident/634819,2016,08-2016
+141,141,632747,2016-08-18,Connecticut,Waterbury,402 E Main Street,0,4,https://www.gunviolencearchive.org/incident/632747,2016,08-2016
+142,142,632753,2016-08-17,California,Oakland,Mandela Parkway,0,4,https://www.gunviolencearchive.org/incident/632753,2016,08-2016
+143,143,630007,2016-08-14,Virginia,Norfolk,1600 block of Selden Avenue,0,4,https://www.gunviolencearchive.org/incident/630007,2016,08-2016
+144,144,629415,2016-08-14,Minnesota,Minneapolis,1717 Plymouth Ave N,0,5,https://www.gunviolencearchive.org/incident/629415,2016,08-2016
+145,145,629663,2016-08-13,California,Los Angeles,6300 block of 11th Avenue,0,4,https://www.gunviolencearchive.org/incident/629663,2016,08-2016
+146,146,628570,2016-08-13,Wisconsin,Milwaukee,4001 West Fond Du Lac Ave,2,2,https://www.gunviolencearchive.org/incident/628570,2016,08-2016
+147,147,628623,2016-08-13,New York,Richmond Hill,Jamaica Ave and 105th St,0,4,https://www.gunviolencearchive.org/incident/628623,2016,08-2016
+148,148,628635,2016-08-13,Missouri,Joplin,1800 Connecticut Ave,0,4,https://www.gunviolencearchive.org/incident/628635,2016,08-2016
+149,149,628178,2016-08-12,Florida,Jacksonville,100 block of West 38th Street,1,3,https://www.gunviolencearchive.org/incident/628178,2016,08-2016
+150,150,627519,2016-08-12,Texas,Dallas,10921 Estate Ln,1,3,https://www.gunviolencearchive.org/incident/627519,2016,08-2016
+151,151,627757,2016-08-11,Pennsylvania,Philadelphia,500 block of E Ashmead St,0,4,https://www.gunviolencearchive.org/incident/627757,2016,08-2016
+152,152,626153,2016-08-10,Illinois,Evanston,Foster Street and Jackson Avenue,0,4,https://www.gunviolencearchive.org/incident/626153,2016,08-2016
+153,153,626960,2016-08-10,California,Sacramento,4000 Green Tree Drive,1,3,https://www.gunviolencearchive.org/incident/626960,2016,08-2016
+154,154,624273,2016-08-08,Florida,Jacksonville,1214 Labelle St,0,7,https://www.gunviolencearchive.org/incident/624273,2016,08-2016
+155,155,625735,2016-08-08,New Mexico,Albuquerque,341 General Marshall Street NE,2,2,https://www.gunviolencearchive.org/incident/625735,2016,08-2016
+156,156,624156,2016-08-07,California,Los Angeles,5925 South Figueroa Street,1,3,https://www.gunviolencearchive.org/incident/624156,2016,08-2016
+157,157,623523,2016-08-07,Colorado,Arvada,5400 block of Sheridan Boulevard,2,2,https://www.gunviolencearchive.org/incident/623523,2016,08-2016
+158,158,624046,2016-08-07,Mississippi,Vicksburg,4460 Clay St,1,3,https://www.gunviolencearchive.org/incident/624046,2016,08-2016
+159,159,623439,2016-08-07,Illinois,Chicago,100 block of South Springfield,0,4,https://www.gunviolencearchive.org/incident/623439,2016,08-2016
+160,160,623195,2016-08-06,Pennsylvania,Reading (Sinking Spring),51 Winding Brook Drive,5,0,https://www.gunviolencearchive.org/incident/623195,2016,08-2016
+161,161,624057,2016-08-05,Michigan,Pontiac,70 block of Thorpe Street,1,3,https://www.gunviolencearchive.org/incident/624057,2016,08-2016
+162,162,622500,2016-08-05,California,Perris,21600 block of Rider St,2,2,https://www.gunviolencearchive.org/incident/622500,2016,08-2016
+163,163,621232,2016-08-04,Tennessee,Memphis,Ayers Street and Griffith Avenue,0,4,https://www.gunviolencearchive.org/incident/621232,2016,08-2016
+164,164,620247,2016-08-03,Georgia,Decatur,4110 Glenwood Road,1,3,https://www.gunviolencearchive.org/incident/620247,2016,08-2016
+165,165,619708,2016-08-02,Florida,Hollywood (West Park),5700 block of Hallandale Beach Blvd,0,4,https://www.gunviolencearchive.org/incident/619708,2016,08-2016
+166,166,619408,2016-08-01,Indiana,Evansville,South Bedford Avenue,0,4,https://www.gunviolencearchive.org/incident/619408,2016,08-2016
+167,167,617789,2016-07-31,Florida,Miami,Southwest 203rd Terrace and 115th Avenue,3,1,https://www.gunviolencearchive.org/incident/617789,2016,07-2016
+168,168,617607,2016-07-31,Texas,Austin,208 E 6th St,1,4,https://www.gunviolencearchive.org/incident/617607,2016,07-2016
+169,169,617712,2016-07-30,Missouri,Saint Louis,5000 block of Kensington Ave,0,5,https://www.gunviolencearchive.org/incident/617712,2016,07-2016
+170,170,616948,2016-07-30,Washington,Mukilteo,10009 Chennault Beach,3,1,https://www.gunviolencearchive.org/incident/616948,2016,07-2016
+171,171,618321,2016-07-30,Georgia,Townsend (Eulonia),14699 Highway 17,0,5,https://www.gunviolencearchive.org/incident/618321,2016,07-2016
+172,172,617334,2016-07-29,Georgia,Athens,Trail Creek St,0,7,https://www.gunviolencearchive.org/incident/617334,2016,07-2016
+173,173,615109,2016-07-28,New York,Elmira,303 College Ave,0,5,https://www.gunviolencearchive.org/incident/615109,2016,07-2016
+174,174,615328,2016-07-28,Maryland,Baltimore,Greenmount Avenue,0,4,https://www.gunviolencearchive.org/incident/615328,2016,07-2016
+175,175,615024,2016-07-28,Illinois,Chicago,800 block of West 50th Place,2,2,https://www.gunviolencearchive.org/incident/615024,2016,07-2016
+176,176,611479,2016-07-25,Florida,Fort Myers,3580 Evans Ave,2,19,https://www.gunviolencearchive.org/incident/611479,2016,07-2016
+177,177,610584,2016-07-24,Ohio,Hamilton,1555 Main St,1,7,https://www.gunviolencearchive.org/incident/610584,2016,07-2016
+178,178,610756,2016-07-23,South Carolina,North Charleston,3630 Ashley Phosphate Road,0,4,https://www.gunviolencearchive.org/incident/610756,2016,07-2016
+179,179,610093,2016-07-23,Ohio,Cincinnati,3400 block of Beekman St,2,2,https://www.gunviolencearchive.org/incident/610093,2016,07-2016
+180,180,613805,2016-07-23,New York,Brooklyn,Fountain Avenue,0,4,https://www.gunviolencearchive.org/incident/613805,2016,07-2016
+181,181,610379,2016-07-23,Texas,Bastrop,202 Childers Drive,4,1,https://www.gunviolencearchive.org/incident/610379,2016,07-2016
+182,182,610402,2016-07-22,Illinois,Kankakee,300 block of North Wildwood Avenue,0,5,https://www.gunviolencearchive.org/incident/610402,2016,07-2016
+183,183,609402,2016-07-21,Illinois,Chicago,4400 block of South Leamington,0,5,https://www.gunviolencearchive.org/incident/609402,2016,07-2016
+184,184,608787,2016-07-20,California,Fresno,5100 block of E Hedges Ave,0,4,https://www.gunviolencearchive.org/incident/608787,2016,07-2016
+185,185,607265,2016-07-19,Arkansas,West Memphis,13th Street and Tyler Avenue,0,4,https://www.gunviolencearchive.org/incident/607265,2016,07-2016
+186,186,604762,2016-07-17,Louisiana,Baton Rouge,9611 Airline Hwy,5,2,https://www.gunviolencearchive.org/incident/604762,2016,07-2016
+187,187,605367,2016-07-17,Michigan,Detroit,Grand River and McGraw avenue,0,4,https://www.gunviolencearchive.org/incident/605367,2016,07-2016
+188,188,605475,2016-07-17,Texas,Houston,Tidwell Rd and Homestead Rd,1,3,https://www.gunviolencearchive.org/incident/605475,2016,07-2016
+189,189,604459,2016-07-16,Texas,Dallas,6300 block of Benavides Drive,0,5,https://www.gunviolencearchive.org/incident/604459,2016,07-2016
+190,190,604275,2016-07-16,Ohio,Cleveland,5000 block of Euclid Avenue,0,5,https://www.gunviolencearchive.org/incident/604275,2016,07-2016
+191,191,604233,2016-07-16,California,Bakersfield,621 Stephens Dr,1,14,https://www.gunviolencearchive.org/incident/604233,2016,07-2016
+192,192,605005,2016-07-16,California,San Bernardino,1200 block of West 25th Street,0,4,https://www.gunviolencearchive.org/incident/605005,2016,07-2016
+193,193,604175,2016-07-16,Tennessee,Clarksville,1348 College Street,0,6,https://www.gunviolencearchive.org/incident/604175,2016,07-2016
+194,194,604207,2016-07-15,Washington,Woodland,4006 NW 417th Street,3,1,https://www.gunviolencearchive.org/incident/604207,2016,07-2016
+195,195,603475,2016-07-14,Texas,Crosby,400 block of Pecan Avenue,3,1,https://www.gunviolencearchive.org/incident/603475,2016,07-2016
+196,196,603733,2016-07-14,California,Oakland,1600 block of 7th Street,0,4,https://www.gunviolencearchive.org/incident/603733,2016,07-2016
+197,197,603738,2016-07-14,Ohio,Akron,900 block of Moeller Avenue,1,3,https://www.gunviolencearchive.org/incident/603738,2016,07-2016
+198,198,602810,2016-07-13,Georgia,Warner Robins,105 Magnolia Avenue,0,5,https://www.gunviolencearchive.org/incident/602810,2016,07-2016
+199,199,602765,2016-07-13,Missouri,Saint Louis,3000 block of Miami St,2,2,https://www.gunviolencearchive.org/incident/602765,2016,07-2016
+200,200,600798,2016-07-11,Maryland,Baltimore,1800 block of W. North Avenue,0,5,https://www.gunviolencearchive.org/incident/600798,2016,07-2016
+201,201,601119,2016-07-11,Michigan,Jackson,500 block of Summit Avenue,0,4,https://www.gunviolencearchive.org/incident/601119,2016,07-2016
+202,202,600398,2016-07-11,Michigan,Saint Joseph,811 Port St,3,2,https://www.gunviolencearchive.org/incident/600398,2016,07-2016
+203,203,601512,2016-07-11,District of Columbia,Washington,5100 block of Call Pl SE,0,4,https://www.gunviolencearchive.org/incident/601512,2016,07-2016
+204,204,597366,2016-07-07,Louisiana,Baton Rouge,2136 North Lobdell Avenue,0,4,https://www.gunviolencearchive.org/incident/597366,2016,07-2016
+205,205,597756,2016-07-07,Texas,Dallas,800 Main St,5,9,https://www.gunviolencearchive.org/incident/597756,2016,07-2016
+206,206,597176,2016-07-07,Tennessee,Bristol,536 Volunteer Pkwy,1,4,https://www.gunviolencearchive.org/incident/597176,2016,07-2016
+207,207,595557,2016-07-05,California,Los Angeles,56th Street and Naomi Avenue,0,4,https://www.gunviolencearchive.org/incident/595557,2016,07-2016
+208,208,595166,2016-07-04,New York,Brooklyn,419 Chauncey St,0,7,https://www.gunviolencearchive.org/incident/595166,2016,07-2016
+209,209,595069,2016-07-04,Texas,Houston,1312 Robin,3,2,https://www.gunviolencearchive.org/incident/595069,2016,07-2016
+210,210,595048,2016-07-04,Pennsylvania,Pittsburgh,Seventh  Ave and Liberty Ave,0,4,https://www.gunviolencearchive.org/incident/595048,2016,07-2016
+211,211,595279,2016-07-04,Illinois,Chicago (Englewood),5500 block of South Hermitage Avenue,0,4,https://www.gunviolencearchive.org/incident/595279,2016,07-2016
+212,212,596159,2016-07-04,Ohio,Cleveland,1400 block of W. 107 Street,0,4,https://www.gunviolencearchive.org/incident/596159,2016,07-2016
+213,213,595482,2016-07-04,Arizona,Phoenix,4000 block of West Southern Avenue,2,6,https://www.gunviolencearchive.org/incident/595482,2016,07-2016
+214,214,594051,2016-07-03,Louisiana,Monroe,401 Lea Joyner Memorial Expy,2,3,https://www.gunviolencearchive.org/incident/594051,2016,07-2016
+215,215,594480,2016-07-03,Tennessee,Chattanooga,2300 block of Daisy Street,0,4,https://www.gunviolencearchive.org/incident/594480,2016,07-2016
+216,216,592724,2016-06-30,Illinois,Chicago,9500 block of South Loomis Street,1,4,https://www.gunviolencearchive.org/incident/592724,2016,06-2016
+217,217,592207,2016-06-29,Nevada,Las Vegas,6100 block of West Lake Mead Boulevard,5,0,https://www.gunviolencearchive.org/incident/592207,2016,06-2016
+218,218,591975,2016-06-28,California,Los Angeles,13800 block of S Avalon Boulevard,1,3,https://www.gunviolencearchive.org/incident/591975,2016,06-2016
+219,219,591294,2016-06-28,Illinois,Chicago,1600 block of South Christiana,0,4,https://www.gunviolencearchive.org/incident/591294,2016,06-2016
+220,220,589488,2016-06-27,Oregon,Woodburn,13436 Killiam Loop NE,3,1,https://www.gunviolencearchive.org/incident/589488,2016,06-2016
+221,221,590233,2016-06-26,South Carolina,Bennettsville,Highway 38 N,0,4,https://www.gunviolencearchive.org/incident/590233,2016,06-2016
+222,222,589159,2016-06-26,North Carolina,Charlotte,2240 Camp Greene St,0,5,https://www.gunviolencearchive.org/incident/589159,2016,06-2016
+223,223,588867,2016-06-26,Georgia,Atlanta,1500 block of Moreland Avenue SE,1,4,https://www.gunviolencearchive.org/incident/588867,2016,06-2016
+224,224,589165,2016-06-26,Texas,Houston,6000 block of Elm Street,1,3,https://www.gunviolencearchive.org/incident/589165,2016,06-2016
+225,225,588918,2016-06-26,Texas,Corpus Christi,Baldwin Blvd  and Lamar,0,4,https://www.gunviolencearchive.org/incident/588918,2016,06-2016
+226,226,587755,2016-06-25,Texas,Fort Worth,2466 East Lancaster Avenue,2,5,https://www.gunviolencearchive.org/incident/587755,2016,06-2016
+227,227,589470,2016-06-25,Virginia,Norfolk,700 block of Craig Street,0,4,https://www.gunviolencearchive.org/incident/589470,2016,06-2016
+228,228,587983,2016-06-25,Illinois,Chicago,1400 block of W. 114th Place,0,4,https://www.gunviolencearchive.org/incident/587983,2016,06-2016
+229,229,589046,2016-06-24,Kansas,Kansas City,N. 3rd and Walker,0,4,https://www.gunviolencearchive.org/incident/589046,2016,06-2016
+230,230,587735,2016-06-24,Connecticut,Hartford,Brook and Winter Street,0,5,https://www.gunviolencearchive.org/incident/587735,2016,06-2016
+231,231,587769,2016-06-24,Maryland,District Heights,3100 block of Orleans Ave,3,2,https://www.gunviolencearchive.org/incident/587769,2016,06-2016
+232,232,586122,2016-06-22,Georgia,Stone Mountain,Lancashire Cir and Central Dr,1,3,https://www.gunviolencearchive.org/incident/586122,2016,06-2016
+233,233,585821,2016-06-22,Washington,Olympia,500 block of Dutterow Road SE,3,1,https://www.gunviolencearchive.org/incident/585821,2016,06-2016
+234,234,586058,2016-06-22,Illinois,Chicago,3100 block of West Warren,0,4,https://www.gunviolencearchive.org/incident/586058,2016,06-2016
+235,235,586044,2016-06-21,New Jersey,Willingboro,Mosshill Lane,0,4,https://www.gunviolencearchive.org/incident/586044,2016,06-2016
+236,236,585615,2016-06-21,Kentucky,Louisville,2802 Rodman Street,2,2,https://www.gunviolencearchive.org/incident/585615,2016,06-2016
+237,237,583631,2016-06-19,Virginia,Roanoke,2328 Melrose Avenue,0,4,https://www.gunviolencearchive.org/incident/583631,2016,06-2016
+238,238,583537,2016-06-18,Georgia,Waycross,2625 Arnold Ct,2,2,https://www.gunviolencearchive.org/incident/583537,2016,06-2016
+239,239,583584,2016-06-18,Virginia,Exmore,Frederick Douglass Rd,1,3,https://www.gunviolencearchive.org/incident/583584,2016,06-2016
+240,240,583362,2016-06-18,Illinois,Chicago,East 79th Street and South Escanaba Avenue,0,4,https://www.gunviolencearchive.org/incident/583362,2016,06-2016
+241,241,580791,2016-06-14,California,Oakland,1301 Franklin St,1,3,https://www.gunviolencearchive.org/incident/580791,2016,06-2016
+242,242,580848,2016-06-14,Delaware,Wilmington,South Van Buren and Elm streets,0,4,https://www.gunviolencearchive.org/incident/580848,2016,06-2016
+243,243,579517,2016-06-13,California,Fresno,East El Monte Way and Recreation Avenue,0,4,https://www.gunviolencearchive.org/incident/579517,2016,06-2016
+244,244,579786,2016-06-13,New York,Brooklyn,Avenue D and E. 57th,0,5,https://www.gunviolencearchive.org/incident/579786,2016,06-2016
+245,245,580279,2016-06-13,Illinois,Chicago,3200 block of West Congress,0,5,https://www.gunviolencearchive.org/incident/580279,2016,06-2016
+246,246,577157,2016-06-12,Florida,Orlando,1912 S Orange Ave,50,53,https://www.gunviolencearchive.org/incident/577157,2016,06-2016
+247,247,578238,2016-06-11,Minnesota,Webster,4000 block of Elmore Avenue,0,4,https://www.gunviolencearchive.org/incident/578238,2016,06-2016
+248,248,576774,2016-06-11,North Carolina,Charlotte,4000 block of Collegiate Avenue,1,3,https://www.gunviolencearchive.org/incident/576774,2016,06-2016
+249,249,577938,2016-06-11,California,Stockton,Alvarado Avenue,1,3,https://www.gunviolencearchive.org/incident/577938,2016,06-2016
+250,250,577574,2016-06-11,New Mexico,Roswell,2300 block of Davis Ave,5,0,https://www.gunviolencearchive.org/incident/577574,2016,06-2016
+251,251,577073,2016-06-11,California,Panorama City,8500 block of Cedros Avenue,3,2,https://www.gunviolencearchive.org/incident/577073,2016,06-2016
+252,252,575607,2016-06-09,Florida,Fort Walton Beach,Landview Drive,0,4,https://www.gunviolencearchive.org/incident/575607,2016,06-2016
+253,253,574850,2016-06-08,District of Columbia,Washington,1300 North Capitol St NW,0,4,https://www.gunviolencearchive.org/incident/574850,2016,06-2016
+254,254,574753,2016-06-08,Massachusetts,Boston,66 Washington St,1,3,https://www.gunviolencearchive.org/incident/574753,2016,06-2016
+255,255,573327,2016-06-06,California,Visalia,3360 S Fairway St,0,4,https://www.gunviolencearchive.org/incident/573327,2016,06-2016
+256,256,572766,2016-06-05,Arizona,Phoenix,8152 N Black Canyon Hwy,2,4,https://www.gunviolencearchive.org/incident/572766,2016,06-2016
+257,257,575061,2016-06-05,Minnesota,Minneapolis,8th and Humboldt Avenue N.,0,4,https://www.gunviolencearchive.org/incident/575061,2016,06-2016
+258,258,572696,2016-06-05,Florida,Cape Coral,2600 block of Skyline Boulevard S,3,3,https://www.gunviolencearchive.org/incident/572696,2016,06-2016
+259,259,572513,2016-06-05,New York,Brooklyn,Mermaid Ave and 16th St.,0,4,https://www.gunviolencearchive.org/incident/572513,2016,06-2016
+260,260,571859,2016-06-04,Colorado,Denver,3600 block of Hudson Street,3,1,https://www.gunviolencearchive.org/incident/571859,2016,06-2016
+261,261,569225,2016-05-31,Illinois,Chicago,3300 block of West Huron Street,0,4,https://www.gunviolencearchive.org/incident/569225,2016,05-2016
+262,262,569189,2016-05-31,Indiana,Fort Wayne,6600 block of Pawawna Drive,0,4,https://www.gunviolencearchive.org/incident/569189,2016,05-2016
+263,263,568528,2016-05-30,Maryland,Baltimore,500 block of East 43rd Street,0,5,https://www.gunviolencearchive.org/incident/568528,2016,05-2016
+264,264,568745,2016-05-30,California,Sacramento,3900 block of 44th,0,5,https://www.gunviolencearchive.org/incident/568745,2016,05-2016
+265,265,567788,2016-05-29,Nevada,Las Vegas,200 block of N 3rd St,0,4,https://www.gunviolencearchive.org/incident/567788,2016,05-2016
+266,266,567673,2016-05-29,New Jersey,Trenton,600 block of Martin Luther King Jr. Boulevard,0,6,https://www.gunviolencearchive.org/incident/567673,2016,05-2016
+267,267,567494,2016-05-29,Indiana,Indianapolis,300 block of South Meridian Street,0,4,https://www.gunviolencearchive.org/incident/567494,2016,05-2016
+268,268,567614,2016-05-29,Texas,Houston,13210 Memorial Dr,2,6,https://www.gunviolencearchive.org/incident/567614,2016,05-2016
+269,269,564470,2016-05-23,New Jersey,Newark,102 Isabella Avenue,0,5,https://www.gunviolencearchive.org/incident/564470,2016,05-2016
+270,270,563829,2016-05-22,Louisiana,New Orleans,8639 Apple St,0,4,https://www.gunviolencearchive.org/incident/563829,2016,05-2016
+271,271,563514,2016-05-22,California,Stockton,Poplar and Sutter Streets,1,3,https://www.gunviolencearchive.org/incident/563514,2016,05-2016
+272,272,563751,2016-05-22,Tennessee,Nashville,100 block of Rains Avenue,0,4,https://www.gunviolencearchive.org/incident/563751,2016,05-2016
+273,273,563630,2016-05-21,Georgia,Jackson,Levi Barnes Road,1,3,https://www.gunviolencearchive.org/incident/563630,2016,05-2016
+274,274,561912,2016-05-18,Indiana,Indianapolis,34th Street and North Keystone Avenue,0,4,https://www.gunviolencearchive.org/incident/561912,2016,05-2016
+275,275,560782,2016-05-17,South Carolina,Ravenel,5360 Savannah Highway,3,1,https://www.gunviolencearchive.org/incident/560782,2016,05-2016
+276,276,565244,2016-05-15,Georgia,Moultrie,Rossman Dairy Road,5,0,https://www.gunviolencearchive.org/incident/565244,2016,05-2016
+277,277,559194,2016-05-15,Indiana,Evansville,420 North Garvin Street,0,4,https://www.gunviolencearchive.org/incident/559194,2016,05-2016
+278,278,559042,2016-05-14,Georgia,Atlanta,Cordova and Peoples Street,0,5,https://www.gunviolencearchive.org/incident/559042,2016,05-2016
+279,279,558796,2016-05-14,West Virginia,Charleston,2337 Washington St W,1,3,https://www.gunviolencearchive.org/incident/558796,2016,05-2016
+280,280,557589,2016-05-11,Alabama,Birmingham,1400 block of 21st St N,1,4,https://www.gunviolencearchive.org/incident/557589,2016,05-2016
+281,281,557479,2016-05-11,Illinois,Chicago,7100 block of South State Street,0,5,https://www.gunviolencearchive.org/incident/557479,2016,05-2016
+282,282,555126,2016-05-08,Texas,Austin,8600 block of North Lamar,1,3,https://www.gunviolencearchive.org/incident/555126,2016,05-2016
+283,283,555873,2016-05-06,Michigan,Detroit,12300 block of Gratiot,1,4,https://www.gunviolencearchive.org/incident/555873,2016,05-2016
+284,284,555886,2016-05-06,Alabama,Montgomery,1300 block of Clay Street,1,3,https://www.gunviolencearchive.org/incident/555886,2016,05-2016
+285,285,554133,2016-05-06,Maryland,Bethesda,7101 Democracy Blvd,3,3,https://www.gunviolencearchive.org/incident/554133,2016,05-2016
+286,286,553803,2016-05-05,Louisiana,Shreveport,300 block of North Thomas Drive,2,6,https://www.gunviolencearchive.org/incident/553803,2016,05-2016
+287,287,554027,2016-05-05,Florida,Miami,2108 NW 19th Terrace,1,3,https://www.gunviolencearchive.org/incident/554027,2016,05-2016
+288,288,553570,2016-05-04,Minnesota,Minneapolis,16th Avenue North and Newton Avenue North,1,7,https://www.gunviolencearchive.org/incident/553570,2016,05-2016
+289,289,551053,2016-05-01,Tennessee,Murfreesboro,1955 Old Castle Drive,0,5,https://www.gunviolencearchive.org/incident/551053,2016,05-2016
+290,290,550619,2016-04-29,California,Oakland,3200 block of San Pablo Avenue,0,5,https://www.gunviolencearchive.org/incident/550619,2016,04-2016
+291,291,550445,2016-04-29,Missouri,Saint Louis (Ferguson),400 block of N Dade Ave,0,4,https://www.gunviolencearchive.org/incident/550445,2016,04-2016
+292,292,549507,2016-04-27,Louisiana,Baton Rouge,4300  Block of Kerrit Dr,2,2,https://www.gunviolencearchive.org/incident/549507,2016,04-2016
+293,293,549071,2016-04-27,Mississippi,Kilmichael,Pecan Drive,3,1,https://www.gunviolencearchive.org/incident/549071,2016,04-2016
+294,294,548333,2016-04-26,Maryland,District Heights (Forestville),6500 block of Hil-Mar Drive,1,4,https://www.gunviolencearchive.org/incident/548333,2016,04-2016
+295,295,547639,2016-04-25,Tennessee,Nashville,400 Charlotte Avenue,0,4,https://www.gunviolencearchive.org/incident/547639,2016,04-2016
+296,296,547827,2016-04-25,Florida,Miami,1506 Northwest 70th Street,0,5,https://www.gunviolencearchive.org/incident/547827,2016,04-2016
+297,297,546760,2016-04-24,Virginia,Halifax,1055 L P Bailey Memorial Hwy,0,5,https://www.gunviolencearchive.org/incident/546760,2016,04-2016
+298,298,547319,2016-04-24,Illinois,Chicago (Englewood),2000 block of West 68th Place,2,3,https://www.gunviolencearchive.org/incident/547319,2016,04-2016
+299,299,546818,2016-04-24,Colorado,Denver,1400 block of 14th Street,0,4,https://www.gunviolencearchive.org/incident/546818,2016,04-2016
+300,300,546581,2016-04-23,Nevada,Las Vegas,1650 South Hollywood Boulevard,1,3,https://www.gunviolencearchive.org/incident/546581,2016,04-2016
+301,301,546244,2016-04-23,Alabama,Auburn,1200 block of Lee Road 83,3,1,https://www.gunviolencearchive.org/incident/546244,2016,04-2016
+302,302,546258,2016-04-23,New York,New York (Manhattan),West 141st Street and Edgecombe Avenue,0,4,https://www.gunviolencearchive.org/incident/546258,2016,04-2016
+303,303,546550,2016-04-23,Kansas,Topeka,3732 SW Topeka Blvd,1,4,https://www.gunviolencearchive.org/incident/546550,2016,04-2016
+304,304,545525,2016-04-22,Ohio,Piketon,4077 Union Hill Rd,8,0,https://www.gunviolencearchive.org/incident/545525,2016,04-2016
+305,305,546022,2016-04-22,Georgia,Appling,3162 Johnson Drive,6,0,https://www.gunviolencearchive.org/incident/546022,2016,04-2016
+306,306,545501,2016-04-21,Maryland,Baltimore,4800 block of Frankford Avenue,0,4,https://www.gunviolencearchive.org/incident/545501,2016,04-2016
+307,307,543441,2016-04-19,Alabama,Blountsville,81551 US Highway 278,1,4,https://www.gunviolencearchive.org/incident/543441,2016,04-2016
+308,308,544080,2016-04-19,Illinois,Chicago,2700 block of West 53rd Street,1,3,https://www.gunviolencearchive.org/incident/544080,2016,04-2016
+309,309,543132,2016-04-19,Illinois,Chicago,1400 block of West 84th Street,1,4,https://www.gunviolencearchive.org/incident/543132,2016,04-2016
+310,310,543244,2016-04-18,California,Long Beach,1200 block of E. 17th Street,1,3,https://www.gunviolencearchive.org/incident/543244,2016,04-2016
+311,311,541996,2016-04-17,Pennsylvania,Philadelphia,600 block of Westmoreland Street,3,1,https://www.gunviolencearchive.org/incident/541996,2016,04-2016
+312,312,543102,2016-04-17,South Carolina,Pelzer,200 block of Eastview Road,1,3,https://www.gunviolencearchive.org/incident/543102,2016,04-2016
+313,313,543108,2016-04-17,Texas,Edinburg,5021 W St Hwy 107,1,6,https://www.gunviolencearchive.org/incident/543108,2016,04-2016
+314,314,542259,2016-04-16,Michigan,Detroit,9500 block of Oakland,1,4,https://www.gunviolencearchive.org/incident/542259,2016,04-2016
+315,315,541987,2016-04-16,Florida,Orlando,1100 block of Conley Street,2,4,https://www.gunviolencearchive.org/incident/541987,2016,04-2016
+316,316,542362,2016-04-16,Alabama,Enterprise,Baxter Street,0,4,https://www.gunviolencearchive.org/incident/542362,2016,04-2016
+317,317,537825,2016-04-10,Wisconsin,Milwaukee,76th and Sheridan,1,3,https://www.gunviolencearchive.org/incident/537825,2016,04-2016
+318,318,537820,2016-04-10,California,Los Angeles,84th Street and Towne Avenue,0,4,https://www.gunviolencearchive.org/incident/537820,2016,04-2016
+319,319,537311,2016-04-09,Tennessee,Memphis,Mt Moriah Road and Ridgeway Road,0,4,https://www.gunviolencearchive.org/incident/537311,2016,04-2016
+320,320,539705,2016-04-09,Alabama,Anniston,West 15th Street and Crawford Avenue,0,4,https://www.gunviolencearchive.org/incident/539705,2016,04-2016
+321,321,537085,2016-04-09,New Mexico,Albuquerque,2600 block of Mesa Drive SE,0,4,https://www.gunviolencearchive.org/incident/537085,2016,04-2016
+322,322,535927,2016-04-07,Illinois,Chicago,2200 block of East 70th Place,0,4,https://www.gunviolencearchive.org/incident/535927,2016,04-2016
+323,323,532604,2016-03-31,Illinois,Chicago (Englewood),6800 block of South Throop,0,4,https://www.gunviolencearchive.org/incident/532604,2016,03-2016
+324,324,530049,2016-03-27,Louisiana,Shreveport,Hearne Ave and Hollywood Ave,0,4,https://www.gunviolencearchive.org/incident/530049,2016,03-2016
+325,325,528614,2016-03-25,Illinois,Chicago,4500 block of West West End Avenue,0,4,https://www.gunviolencearchive.org/incident/528614,2016,03-2016
+326,326,529488,2016-03-25,Colorado,Denver,8501 E. Alameda Avenue,0,4,https://www.gunviolencearchive.org/incident/529488,2016,03-2016
+327,327,526380,2016-03-21,Illinois,Chicago,5700 block of West Washington Boulevard,0,4,https://www.gunviolencearchive.org/incident/526380,2016,03-2016
+328,328,525464,2016-03-19,Florida,Plantation,12050 NW 4th Court,1,4,https://www.gunviolencearchive.org/incident/525464,2016,03-2016
+329,329,525301,2016-03-19,Alabama,Wetumpka,South Shelby Street,2,2,https://www.gunviolencearchive.org/incident/525301,2016,03-2016
+330,330,523044,2016-03-15,Georgia,Atlanta,Donald Lee Hollowell Drive,0,5,https://www.gunviolencearchive.org/incident/523044,2016,03-2016
+331,331,522122,2016-03-13,Florida,Fort Myers,50 South Road,0,4,https://www.gunviolencearchive.org/incident/522122,2016,03-2016
+332,332,521821,2016-03-12,Oregon,Portland,16126 S.E. Stark St.,0,4,https://www.gunviolencearchive.org/incident/521821,2016,03-2016
+333,333,521074,2016-03-12,California,Oakland,I-880 and I-80,0,4,https://www.gunviolencearchive.org/incident/521074,2016,03-2016
+334,334,520767,2016-03-11,Michigan,Detroit,2600 block of Hazelwood,2,2,https://www.gunviolencearchive.org/incident/520767,2016,03-2016
+335,335,520290,2016-03-11,New Jersey,Trenton,Oliver Avenue,0,5,https://www.gunviolencearchive.org/incident/520290,2016,03-2016
+336,336,519541,2016-03-09,Pennsylvania,Pittsburgh (Wilkinsburg),1304 Franklin Ave,6,2,https://www.gunviolencearchive.org/incident/519541,2016,03-2016
+337,337,518266,2016-03-08,Texas,San Antonio,Sherman St,2,3,https://www.gunviolencearchive.org/incident/518266,2016,03-2016
+338,338,517895,2016-03-07,Louisiana,Lafayette,800 block of Martin Luther King Jr. Drive,0,4,https://www.gunviolencearchive.org/incident/517895,2016,03-2016
+339,339,518436,2016-03-07,Kansas,Kansas City,3000 block of South 36th Street,5,0,https://www.gunviolencearchive.org/incident/518436,2016,03-2016
+340,340,517058,2016-03-06,Massachusetts,Chelsea,120 Washington Avenue,1,6,https://www.gunviolencearchive.org/incident/517058,2016,03-2016
+341,341,517114,2016-03-06,Georgia,Roswell,890 Atlanta St,0,4,https://www.gunviolencearchive.org/incident/517114,2016,03-2016
+342,342,517073,2016-03-06,California,Compton,900 block of West Victoria Street,1,8,https://www.gunviolencearchive.org/incident/517073,2016,03-2016
+343,343,516758,2016-03-05,Kansas,Wichita,116 North Mead,0,4,https://www.gunviolencearchive.org/incident/516758,2016,03-2016
+344,344,516341,2016-03-04,Ohio,Columbus,900 E 5th Ave,1,3,https://www.gunviolencearchive.org/incident/516341,2016,03-2016
+345,345,513640,2016-02-28,California,Mira Loma,5500 block of Etiwanda Ave,1,3,https://www.gunviolencearchive.org/incident/513640,2016,02-2016
+346,346,513549,2016-02-28,Michigan,Detroit,8800 block of Livernois,0,5,https://www.gunviolencearchive.org/incident/513549,2016,02-2016
+347,347,512880,2016-02-27,Virginia,Woodbridge (Lake Ridge),13051 Lashmere Ct,2,2,https://www.gunviolencearchive.org/incident/512880,2016,02-2016
+348,348,512073,2016-02-26,Washington,Belfair,300 block of Horseshoe Rd,5,0,https://www.gunviolencearchive.org/incident/512073,2016,02-2016
+349,349,511436,2016-02-25,Kansas,Hesston,200 S Ridge Rd,4,14,https://www.gunviolencearchive.org/incident/511436,2016,02-2016
+350,350,509897,2016-02-23,Arizona,Glendale,4812 West Sunnyside Ave,5,0,https://www.gunviolencearchive.org/incident/509897,2016,02-2016
+351,351,510769,2016-02-23,Florida,Daytona Beach,1042 Sheridan Road,0,4,https://www.gunviolencearchive.org/incident/510769,2016,02-2016
+352,352,509707,2016-02-21,Texas,Houston,5100 block of Idaho Street,0,5,https://www.gunviolencearchive.org/incident/509707,2016,02-2016
+353,353,508879,2016-02-21,Missouri,Hazelwood,7217 N Lindbergh Blvd,1,3,https://www.gunviolencearchive.org/incident/508879,2016,02-2016
+354,354,508341,2016-02-20,Florida,Tampa,2810 E. Bearss Ave,1,3,https://www.gunviolencearchive.org/incident/508341,2016,02-2016
+355,355,508640,2016-02-20,Michigan,Kalamazoo,5581 Cracker Barrel Blvd,6,2,https://www.gunviolencearchive.org/incident/508640,2016,02-2016
+356,356,508356,2016-02-20,Alabama,Bessemer,200 block of Elm Street,1,3,https://www.gunviolencearchive.org/incident/508356,2016,02-2016
+357,357,508510,2016-02-20,Florida,Orlando,446 S Parramore Ave,0,4,https://www.gunviolencearchive.org/incident/508510,2016,02-2016
+358,358,508113,2016-02-20,Mississippi,Iuka,231 Co Rd 201,2,3,https://www.gunviolencearchive.org/incident/508113,2016,02-2016
+359,359,590221,2016-02-19,Missouri,Edgerton,4100 block of Buena Vista Road,4,0,https://www.gunviolencearchive.org/incident/590221,2016,02-2016
+360,360,507998,2016-02-19,California,Vallejo,509 Porter Street,1,3,https://www.gunviolencearchive.org/incident/507998,2016,02-2016
+361,361,504879,2016-02-14,Texas,Houston,8449 Gulf Freeway,1,3,https://www.gunviolencearchive.org/incident/504879,2016,02-2016
+362,362,505420,2016-02-14,Alabama,Eutaw,50 Earnest Friday Rd,0,5,https://www.gunviolencearchive.org/incident/505420,2016,02-2016
+363,363,504996,2016-02-13,Louisiana,Marrero,5425 Lapalco Boulevard,0,4,https://www.gunviolencearchive.org/incident/504996,2016,02-2016
+364,364,501256,2016-02-07,Mississippi,Pass Christian,Davis Avenue,2,4,https://www.gunviolencearchive.org/incident/501256,2016,02-2016
+365,365,501233,2016-02-07,Florida,Orlando,7432 Universal Blvd,2,10,https://www.gunviolencearchive.org/incident/501233,2016,02-2016
+366,366,501168,2016-02-07,New York,Rochester,547 State St,1,7,https://www.gunviolencearchive.org/incident/501168,2016,02-2016
+367,367,501349,2016-02-07,Illinois,Chicago (Englewood),6500 block of South Green Street,0,4,https://www.gunviolencearchive.org/incident/501349,2016,02-2016
+368,368,501267,2016-02-06,California,Los Angeles,12800 block of Cook Street,1,3,https://www.gunviolencearchive.org/incident/501267,2016,02-2016
+369,369,500629,2016-02-06,Florida,Apopka,10th Street,0,4,https://www.gunviolencearchive.org/incident/500629,2016,02-2016
+370,370,500556,2016-02-06,Florida,Tampa,8123 N Nebraska Ave,2,6,https://www.gunviolencearchive.org/incident/500556,2016,02-2016
+371,371,499422,2016-02-03,District of Columbia,Washington,1500 block of Butler St SE,0,4,https://www.gunviolencearchive.org/incident/499422,2016,02-2016
+372,372,495940,2016-01-30,Arizona,Glendale,67th and Missouri Avenue,3,5,https://www.gunviolencearchive.org/incident/495940,2016,01-2016
+373,373,494378,2016-01-27,Virginia,Chesapeake,1401 N. George Washington Hwy,6,0,https://www.gunviolencearchive.org/incident/494378,2016,01-2016
+374,374,493536,2016-01-26,Washington,Seattle,Airport Way S. and S. Atlantic St.,2,3,https://www.gunviolencearchive.org/incident/493536,2016,01-2016
+375,375,493085,2016-01-25,California,Perris,140 S. D Street,1,4,https://www.gunviolencearchive.org/incident/493085,2016,01-2016
+376,376,491312,2016-01-23,California,Los Angeles,8105 Avalon Blvd,2,2,https://www.gunviolencearchive.org/incident/491312,2016,01-2016
+377,377,486728,2016-01-17,Virginia,Gloucester,Ditchley Dr and Gill Ln,1,3,https://www.gunviolencearchive.org/incident/486728,2016,01-2016
+378,378,483750,2016-01-11,Delaware,Wilmington,900 block of Brown Street,1,4,https://www.gunviolencearchive.org/incident/483750,2016,01-2016
+379,379,481849,2016-01-08,District of Columbia,Washington,1700 E Capitol St NE,0,4,https://www.gunviolencearchive.org/incident/481849,2016,01-2016
+380,380,481900,2016-01-08,Illinois,Chicago,1500 block of South Kedzie,1,4,https://www.gunviolencearchive.org/incident/481900,2016,01-2016
+381,381,481429,2016-01-07,Tennessee,Memphis,3800 block of Kerwood Avenue,1,3,https://www.gunviolencearchive.org/incident/481429,2016,01-2016
+382,382,479613,2016-01-06,Florida,Lakeland,2312 East Magnolia Street,3,1,https://www.gunviolencearchive.org/incident/479613,2016,01-2016

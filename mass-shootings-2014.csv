@@ -1,0 +1,274 @@
+level_0,index,incident_id,incident_date,state,city_or_country,address,killed,injured,incident_url,year,month-year
+0,0,271363,2014-12-29,Louisiana,New Orleans,Poydras and Bolivar,0,4,https://www.gunviolencearchive.org/incident/271363,2014,12-2014
+1,1,269679,2014-12-27,California,Los Angeles,8800 block of South Figueroa Street,1,3,https://www.gunviolencearchive.org/incident/269679,2014,12-2014
+2,2,270036,2014-12-27,California,Sacramento,4000 block of May Street,0,4,https://www.gunviolencearchive.org/incident/270036,2014,12-2014
+3,3,269167,2014-12-26,Illinois,East St. Louis,2500 block of Summit Avenue,1,3,https://www.gunviolencearchive.org/incident/269167,2014,12-2014
+4,4,268598,2014-12-24,Missouri,Saint Louis,18th and Pine,1,3,https://www.gunviolencearchive.org/incident/268598,2014,12-2014
+5,5,267792,2014-12-23,Kentucky,Winchester,260 Oxford Drive,1,3,https://www.gunviolencearchive.org/incident/267792,2014,12-2014
+6,6,268282,2014-12-22,Michigan,Detroit,Charlevoix and Philip,1,3,https://www.gunviolencearchive.org/incident/268282,2014,12-2014
+7,7,282186,2014-12-22,New York,Webster,191 Lake Rd,4,2,https://www.gunviolencearchive.org/incident/282186,2014,12-2014
+8,8,267721,2014-12-22,Illinois,Chicago,5700 block of South Green Street,0,5,https://www.gunviolencearchive.org/incident/267721,2014,12-2014
+9,9,266570,2014-12-21,Florida,Sarasota,4034 N Washington Blvd,2,2,https://www.gunviolencearchive.org/incident/266570,2014,12-2014
+10,10,268910,2014-12-21,Mississippi,Waynesboro,Central Avenue,1,4,https://www.gunviolencearchive.org/incident/268910,2014,12-2014
+11,11,266424,2014-12-21,Illinois,Calumet City,600 block of Escanba,1,8,https://www.gunviolencearchive.org/incident/266424,2014,12-2014
+12,12,266407,2014-12-20,Illinois,Rockford,3200 block of Montrose Avenue,4,0,https://www.gunviolencearchive.org/incident/266407,2014,12-2014
+13,13,264901,2014-12-16,New Jersey,Elizabeth,Anna Street,0,4,https://www.gunviolencearchive.org/incident/264901,2014,12-2014
+14,14,263556,2014-12-15,Pennsylvania,Lansdale,100 block of West 5th St,7,0,https://www.gunviolencearchive.org/incident/263556,2014,12-2014
+15,15,263376,2014-12-14,Florida,Miami,1311 Northwest 2nd Avenue,1,4,https://www.gunviolencearchive.org/incident/263376,2014,12-2014
+16,16,263382,2014-12-13,Florida,Tampa,810 E. Skagway Ave.,0,5,https://www.gunviolencearchive.org/incident/263382,2014,12-2014
+17,17,262202,2014-12-12,Oregon,Portland,717 North Killingsworth Court,0,4,https://www.gunviolencearchive.org/incident/262202,2014,12-2014
+18,18,259935,2014-12-07,Indiana,South Bend,16000 block of Roosevelt Road,0,4,https://www.gunviolencearchive.org/incident/259935,2014,12-2014
+19,19,227011,2014-12-02,Missouri,Saint Louis,6000 block of Virginia Avenue,1,5,https://www.gunviolencearchive.org/incident/227011,2014,12-2014
+20,20,226983,2014-12-02,Virginia,Newport News,6128 Jefferson Ave ,0,5,https://www.gunviolencearchive.org/incident/226983,2014,12-2014
+21,21,226388,2014-11-30,New York,Brooklyn,375 Remsen Avenue,0,4,https://www.gunviolencearchive.org/incident/226388,2014,11-2014
+22,22,226534,2014-11-30,Tennessee,Chattanooga,2412 East 13th Street ,0,5,https://www.gunviolencearchive.org/incident/226534,2014,11-2014
+23,23,225903,2014-11-29,Georgia,Atlanta,1600 block of Richmond Avenue,3,2,https://www.gunviolencearchive.org/incident/225903,2014,11-2014
+24,24,226150,2014-11-29,New Jersey,Newark,348 S Orange Ave,1,3,https://www.gunviolencearchive.org/incident/226150,2014,11-2014
+25,25,225830,2014-11-28,Tennessee,Memphis,1849 East Brooks Road ,0,4,https://www.gunviolencearchive.org/incident/225830,2014,11-2014
+26,26,226018,2014-11-27,Texas,Georgetown,Pvt Rd 934,2,3,https://www.gunviolencearchive.org/incident/226018,2014,11-2014
+27,27,225036,2014-11-26,California,San Francisco,Mission and 13th streets,0,6,https://www.gunviolencearchive.org/incident/225036,2014,11-2014
+28,28,224362,2014-11-23,Virginia,Parksley,Parksley Road,0,4,https://www.gunviolencearchive.org/incident/224362,2014,11-2014
+29,29,224131,2014-11-23,Colorado,Denver,Federal Boulevard and 16th Avenue,1,4,https://www.gunviolencearchive.org/incident/224131,2014,11-2014
+30,30,223651,2014-11-22,Ohio,Cleveland,1443 E 92nd St,4,1,https://www.gunviolencearchive.org/incident/223651,2014,11-2014
+31,31,223799,2014-11-22,South Dakota,Sisseton,Fourth Avenue,4,1,https://www.gunviolencearchive.org/incident/223799,2014,11-2014
+32,32,223729,2014-11-22,Ohio,Springfield,Clifton Avenue and Rice Street,1,3,https://www.gunviolencearchive.org/incident/223729,2014,11-2014
+33,33,223582,2014-11-21,Pennsylvania,Pittsburgh,600 block of Miller Avenue,0,6,https://www.gunviolencearchive.org/incident/223582,2014,11-2014
+34,34,222792,2014-11-19,Illinois,Chicago,700 block of North St. Louis Avenue,1,3,https://www.gunviolencearchive.org/incident/222792,2014,11-2014
+35,35,222393,2014-11-18,Nevada,North Las Vegas,Englestad Street,0,4,https://www.gunviolencearchive.org/incident/222393,2014,11-2014
+36,36,221554,2014-11-16,Ohio,Akron,1891 E Market St,1,4,https://www.gunviolencearchive.org/incident/221554,2014,11-2014
+37,37,224746,2014-11-16,Texas,El Paso,115 S. Durango,0,6,https://www.gunviolencearchive.org/incident/224746,2014,11-2014
+38,38,221347,2014-11-15,Missouri,Springfield,2555 N. Glenstone,4,0,https://www.gunviolencearchive.org/incident/221347,2014,11-2014
+39,39,221577,2014-11-15,Florida,Miami,NW 55th and 12th,1,3,https://www.gunviolencearchive.org/incident/221577,2014,11-2014
+40,40,217831,2014-11-08,California,Pomona,499 E. Arrow Highway,0,5,https://www.gunviolencearchive.org/incident/217831,2014,11-2014
+41,41,217401,2014-11-07,California,Compton,136th Street ,0,4,https://www.gunviolencearchive.org/incident/217401,2014,11-2014
+42,42,218054,2014-11-07,California,Los Angeles,East 126th Street and North Compton Avenue,0,4,https://www.gunviolencearchive.org/incident/218054,2014,11-2014
+43,43,216533,2014-11-05,California,San Francisco,1100 block of Alabama Street ,0,4,https://www.gunviolencearchive.org/incident/216533,2014,11-2014
+44,44,212884,2014-10-29,Tennessee,Memphis,Yale Road and Ramill Road,0,5,https://www.gunviolencearchive.org/incident/212884,2014,10-2014
+45,45,211348,2014-10-26,Kentucky,Cadiz,1410 Old Dover Road,4,0,https://www.gunviolencearchive.org/incident/211348,2014,10-2014
+46,46,210363,2014-10-24,Washington,Marysville,5611 108th St NE,5,1,https://www.gunviolencearchive.org/incident/210363,2014,10-2014
+47,47,209134,2014-10-18,New York,Queens,33-02 Queens Blvd,0,4,https://www.gunviolencearchive.org/incident/209134,2014,10-2014
+48,48,207145,2014-10-18,South Carolina,Graniteville,192 Breezy Hill Road,1,3,https://www.gunviolencearchive.org/incident/207145,2014,10-2014
+49,49,207687,2014-10-18,New York,Brooklyn,Lenox Road,0,4,https://www.gunviolencearchive.org/incident/207687,2014,10-2014
+50,50,206303,2014-10-16,Michigan,Detroit,Mogul Street,1,3,https://www.gunviolencearchive.org/incident/206303,2014,10-2014
+51,51,205726,2014-10-14,Georgia,Peachtree Corners,6505 Bannor Lane,3,2,https://www.gunviolencearchive.org/incident/205726,2014,10-2014
+52,52,205298,2014-10-13,Georgia,Atlanta,85 Mount Zion Road,0,4,https://www.gunviolencearchive.org/incident/205298,2014,10-2014
+53,53,204477,2014-10-12,Georgia,Atlanta,Arthur Langford Jr Place,1,3,https://www.gunviolencearchive.org/incident/204477,2014,10-2014
+54,54,204310,2014-10-12,California,Stockton,1100 block of East March Lane,3,1,https://www.gunviolencearchive.org/incident/204310,2014,10-2014
+55,55,204236,2014-10-11,New York,Utica,222 Bleecker Street,0,5,https://www.gunviolencearchive.org/incident/204236,2014,10-2014
+56,56,202981,2014-10-08,Georgia,Atlanta,Auburn Avenue and Edgewood Avenue,0,4,https://www.gunviolencearchive.org/incident/202981,2014,10-2014
+57,57,204254,2014-10-08,New York,Guilderland,1846 Western Ave,4,0,https://www.gunviolencearchive.org/incident/204254,2014,10-2014
+58,58,201630,2014-10-05,Florida,Jacksonville,7300 block of Linda Drive,3,1,https://www.gunviolencearchive.org/incident/201630,2014,10-2014
+59,59,201052,2014-10-05,Michigan,Detroit,East 7 Mile Road and Sherwood Street,1,5,https://www.gunviolencearchive.org/incident/201052,2014,10-2014
+60,60,201648,2014-10-04,Tennessee,Memphis,1400 block of Gherald Street,2,2,https://www.gunviolencearchive.org/incident/201648,2014,10-2014
+61,61,201502,2014-10-04,California,Pomona,1925 West Holt Avenue ,0,4,https://www.gunviolencearchive.org/incident/201502,2014,10-2014
+62,62,198051,2014-09-29,South Carolina,Walterboro,29 Sandy Dam Lane,1,7,https://www.gunviolencearchive.org/incident/198051,2014,09-2014
+63,63,198527,2014-09-29,California,Fresno,2300 block of West Fountain Way ,0,4,https://www.gunviolencearchive.org/incident/198527,2014,09-2014
+64,64,197416,2014-09-28,Pennsylvania,Philadelphia,2800 block of Hope Street,0,4,https://www.gunviolencearchive.org/incident/197416,2014,09-2014
+65,65,197384,2014-09-28,Florida,Miami,NW 7th Ave and NW 64th St,0,15,https://www.gunviolencearchive.org/incident/197384,2014,09-2014
+66,66,197287,2014-09-27,Missouri,Saint Louis,2000 block East John Avenue,0,5,https://www.gunviolencearchive.org/incident/197287,2014,09-2014
+67,67,198064,2014-09-26,South Carolina,Florence,650 Turner Rd,1,4,https://www.gunviolencearchive.org/incident/198064,2014,09-2014
+68,68,194945,2014-09-21,Ohio,East Liverpool,440 First St,0,4,https://www.gunviolencearchive.org/incident/194945,2014,09-2014
+69,69,193960,2014-09-20,Mississippi,Batesville,8297 Curtis Rd,2,2,https://www.gunviolencearchive.org/incident/193960,2014,09-2014
+70,70,193570,2014-09-19,New York,Queens,32-14 106th St,0,4,https://www.gunviolencearchive.org/incident/193570,2014,09-2014
+71,71,192851,2014-09-18,Florida,Bell,2550 NW 29th Terrace,8,0,https://www.gunviolencearchive.org/incident/192851,2014,09-2014
+72,72,191416,2014-09-15,Louisiana,New Orleans,Chef Menteur Highway and Dale Street,0,5,https://www.gunviolencearchive.org/incident/191416,2014,09-2014
+73,73,190874,2014-09-14,Texas,Flour Bluff,229 Naval Air Station Drive,3,1,https://www.gunviolencearchive.org/incident/190874,2014,09-2014
+74,74,2172621,2014-09-14,Texas,Corpus Christi,229 NAS Dr,3,1,https://www.gunviolencearchive.org/incident/2172621,2014,09-2014
+75,75,190599,2014-09-14,Alaska,Anchorage,225 E Fifth,0,6,https://www.gunviolencearchive.org/incident/190599,2014,09-2014
+76,76,189562,2014-09-11,Michigan,Detroit,14000 block of Patton,1,7,https://www.gunviolencearchive.org/incident/189562,2014,09-2014
+77,77,188332,2014-09-06,Florida,Orlando,2015 Orange Blossom Trail,0,4,https://www.gunviolencearchive.org/incident/188332,2014,09-2014
+78,78,186488,2014-09-06,Georgia,Macon,576 Poplar Street,0,5,https://www.gunviolencearchive.org/incident/186488,2014,09-2014
+79,79,185393,2014-09-04,Michigan,Flint,2400 block of Martin Luther King Boulevard,0,5,https://www.gunviolencearchive.org/incident/185393,2014,09-2014
+80,80,185430,2014-09-03,California,Los Angeles,East 27th and Stanford ,0,6,https://www.gunviolencearchive.org/incident/185430,2014,09-2014
+81,81,184507,2014-09-02,California,Highland,25000 block of Fifth Street ,0,5,https://www.gunviolencearchive.org/incident/184507,2014,09-2014
+82,82,185196,2014-09-02,Mississippi,Jackson,3622 Medgar Evers Boulevard,2,3,https://www.gunviolencearchive.org/incident/185196,2014,09-2014
+83,83,183432,2014-08-31,California,Livermore,200 block of South Q Street ,0,5,https://www.gunviolencearchive.org/incident/183432,2014,08-2014
+84,84,182974,2014-08-29,Florida,Brooksville,820 Peach St,3,1,https://www.gunviolencearchive.org/incident/182974,2014,08-2014
+85,85,181947,2014-08-27,Michigan,Detroit,16600 block of Edmore,1,3,https://www.gunviolencearchive.org/incident/181947,2014,08-2014
+86,86,180007,2014-08-24,California,San Fernando,1400 block of Celis Street,4,5,https://www.gunviolencearchive.org/incident/180007,2014,08-2014
+87,87,180580,2014-08-24,Georgia,Augusta,1013 Carrie Street,1,3,https://www.gunviolencearchive.org/incident/180580,2014,08-2014
+88,88,180018,2014-08-24,Illinois,Chicago,8300 block of South Halsted Street,1,3,https://www.gunviolencearchive.org/incident/180018,2014,08-2014
+89,89,178425,2014-08-20,Tennessee,Memphis,1400 block of Briarcrest Lane,0,5,https://www.gunviolencearchive.org/incident/178425,2014,08-2014
+90,90,178006,2014-08-18,Louisiana,Saint Martinville,Main and Hyacinth streets,0,4,https://www.gunviolencearchive.org/incident/178006,2014,08-2014
+91,91,175943,2014-08-17,Massachusetts,Boston,Edinboro Street,0,4,https://www.gunviolencearchive.org/incident/175943,2014,08-2014
+92,92,177770,2014-08-17,California,East Palo Alto,Purdue Street and Georgetown Avenue,1,3,https://www.gunviolencearchive.org/incident/177770,2014,08-2014
+93,93,175839,2014-08-17,Nevada,Las Vegas,Owens Avenue and H Street,0,4,https://www.gunviolencearchive.org/incident/175839,2014,08-2014
+94,94,175911,2014-08-17,New York,Queens,153-38 118th Ave,0,4,https://www.gunviolencearchive.org/incident/175911,2014,08-2014
+95,95,175779,2014-08-16,New Jersey,Plainfield,West 3rd Street and Monroe Avenue,1,3,https://www.gunviolencearchive.org/incident/175779,2014,08-2014
+96,96,175788,2014-08-16,Utah,Salt Lake City,122 Pierpont Avenue,0,6,https://www.gunviolencearchive.org/incident/175788,2014,08-2014
+97,97,174560,2014-08-14,Tennessee,Memphis,797 Pope Street,1,3,https://www.gunviolencearchive.org/incident/174560,2014,08-2014
+98,98,174544,2014-08-13,Tennessee,Clarksville,Treeland Drive,0,4,https://www.gunviolencearchive.org/incident/174544,2014,08-2014
+99,99,175767,2014-08-13,Louisiana,New Orleans,New Orleans and North Rocheblave streets,0,4,https://www.gunviolencearchive.org/incident/175767,2014,08-2014
+100,100,173369,2014-08-12,New York,Buffalo,Oakmont Ave,1,3,https://www.gunviolencearchive.org/incident/173369,2014,08-2014
+101,101,173628,2014-08-12,Georgia,Cartersville,Brent Cir,2,3,https://www.gunviolencearchive.org/incident/173628,2014,08-2014
+102,102,172304,2014-08-10,Louisiana,New Orleans,5400 block of Burgundy St,2,5,https://www.gunviolencearchive.org/incident/172304,2014,08-2014
+103,103,172205,2014-08-10,District of Columbia,Washington,50 block of N St SW,0,6,https://www.gunviolencearchive.org/incident/172205,2014,08-2014
+104,104,172288,2014-08-10,Georgia,Wrightsville,2455 Idylwild Dr,0,6,https://www.gunviolencearchive.org/incident/172288,2014,08-2014
+105,105,172180,2014-08-10,California,Moreno Valley,16300 block of Heather Glen Road ,0,7,https://www.gunviolencearchive.org/incident/172180,2014,08-2014
+106,106,171802,2014-08-09,Minnesota,Minneapolis,400 3rd Ave N,1,8,https://www.gunviolencearchive.org/incident/171802,2014,08-2014
+107,107,173786,2014-08-08,District of Columbia,Washington,2nd St NE and Todd Pl NE,0,4,https://www.gunviolencearchive.org/incident/173786,2014,08-2014
+108,108,171778,2014-08-08,Wisconsin,Milwaukee,3000 block of N. 28th Street ,0,4,https://www.gunviolencearchive.org/incident/171778,2014,08-2014
+109,109,171823,2014-08-08,New Mexico,Albuquerque,3426 Vassar NE,1,3,https://www.gunviolencearchive.org/incident/171823,2014,08-2014
+110,110,170704,2014-08-06,California,Bakersfield,1700 block of Quincy Street ,3,1,https://www.gunviolencearchive.org/incident/170704,2014,08-2014
+111,111,169326,2014-08-04,Georgia,Atlanta,1100 block of Joseph E. Boone Boulevard NW,0,5,https://www.gunviolencearchive.org/incident/169326,2014,08-2014
+112,112,168844,2014-08-03,Virginia,Culpeper,14458 Rixeyville Rd,5,0,https://www.gunviolencearchive.org/incident/168844,2014,08-2014
+113,113,168551,2014-08-03,Texas,Humble,3403 FM 1960,0,7,https://www.gunviolencearchive.org/incident/168551,2014,08-2014
+114,114,168786,2014-08-03,Missouri,Saint Louis,5200 block of Thekla ,0,5,https://www.gunviolencearchive.org/incident/168786,2014,08-2014
+115,115,169024,2014-08-03,Tennessee,Columbia,East 9th Street and Bridge Street,0,5,https://www.gunviolencearchive.org/incident/169024,2014,08-2014
+116,116,167872,2014-08-02,Texas,Dallas,5125 Wynell Street,3,1,https://www.gunviolencearchive.org/incident/167872,2014,08-2014
+117,117,168307,2014-08-02,Pennsylvania,Pittsburgh,Penn Avenue and 29th Street,1,5,https://www.gunviolencearchive.org/incident/168307,2014,08-2014
+118,118,168169,2014-08-02,Massachusetts,New Bedford,Acushnet Avenue,0,7,https://www.gunviolencearchive.org/incident/168169,2014,08-2014
+119,119,167649,2014-08-01,Pennsylvania,Philadelphia,1500 block of South Etting Street,1,3,https://www.gunviolencearchive.org/incident/167649,2014,08-2014
+120,120,176329,2014-07-30,North Carolina,Hope Mills,5109 New Moon Dr,3,4,https://www.gunviolencearchive.org/incident/176329,2014,07-2014
+121,121,165856,2014-07-28,Pennsylvania,Philadelphia,4900 block of North Front Street,1,4,https://www.gunviolencearchive.org/incident/165856,2014,07-2014
+122,122,165089,2014-07-27,Missouri,Saint Louis,2000 block of East John Avenue,0,5,https://www.gunviolencearchive.org/incident/165089,2014,07-2014
+123,123,166970,2014-07-26,Arkansas,Pine Bluff,Third Ave and Redbud St,1,3,https://www.gunviolencearchive.org/incident/166970,2014,07-2014
+124,124,163930,2014-07-26,Georgia,Sylvester,Royal Street,0,8,https://www.gunviolencearchive.org/incident/163930,2014,07-2014
+125,125,164513,2014-07-26,Maine,Saco,35 Water Street,5,0,https://www.gunviolencearchive.org/incident/164513,2014,07-2014
+126,126,163874,2014-07-25,Illinois,Chicago,700 S California Ave,1,6,https://www.gunviolencearchive.org/incident/163874,2014,07-2014
+127,127,162687,2014-07-23,Pennsylvania,Braddock,700 block of Hickory St,0,4,https://www.gunviolencearchive.org/incident/162687,2014,07-2014
+128,128,161302,2014-07-21,New Jersey,Irvington,36 Welland Avenue,0,6,https://www.gunviolencearchive.org/incident/161302,2014,07-2014
+129,129,162008,2014-07-21,Tennessee,Memphis,300 block of Foote Park Lane,0,4,https://www.gunviolencearchive.org/incident/162008,2014,07-2014
+130,130,161063,2014-07-20,Nevada,Las Vegas,3400 block of N Rancho Dr,1,3,https://www.gunviolencearchive.org/incident/161063,2014,07-2014
+131,131,160998,2014-07-20,Illinois,East Saint Louis,5103 block of Bunkum Rd,1,3,https://www.gunviolencearchive.org/incident/160998,2014,07-2014
+132,132,160488,2014-07-19,Illinois,Chicago,1300 North Mason Avenue,0,4,https://www.gunviolencearchive.org/incident/160488,2014,07-2014
+133,133,158387,2014-07-14,California,Sacramento,Fulton Avenue ,1,4,https://www.gunviolencearchive.org/incident/158387,2014,07-2014
+134,134,159291,2014-07-13,District of Columbia,Washington,1700 block of Lincoln Rd NE,0,4,https://www.gunviolencearchive.org/incident/159291,2014,07-2014
+135,135,158589,2014-07-13,Connecticut,Stamford,84 West Park Place,0,5,https://www.gunviolencearchive.org/incident/158589,2014,07-2014
+136,136,158306,2014-07-13,Washington,Skyway,12600 Renton Avenue South ,0,5,https://www.gunviolencearchive.org/incident/158306,2014,07-2014
+137,137,157857,2014-07-12,California,Pasadena,1700 block of Summit Avenue,3,2,https://www.gunviolencearchive.org/incident/157857,2014,07-2014
+138,138,157580,2014-07-11,Illinois,Chicago,5200 West Quincy Street,1,3,https://www.gunviolencearchive.org/incident/157580,2014,07-2014
+139,139,156670,2014-07-09,Texas,Spring,711 Leaflet Ln,6,1,https://www.gunviolencearchive.org/incident/156670,2014,07-2014
+140,140,156468,2014-07-08,Rhode Island,Providence,35 March Street,0,5,https://www.gunviolencearchive.org/incident/156468,2014,07-2014
+141,141,162305,2014-07-07,Kentucky,Stopover,KY 194E,0,4,https://www.gunviolencearchive.org/incident/162305,2014,07-2014
+142,142,155943,2014-07-07,California,San Bernardino,312  E Baseline Street ,1,4,https://www.gunviolencearchive.org/incident/155943,2014,07-2014
+143,143,156125,2014-07-06,Florida,Miami,NW 20th Ave and NW 62nd St,2,2,https://www.gunviolencearchive.org/incident/156125,2014,07-2014
+144,144,155412,2014-07-06,Missouri,Saint Louis,4600 block of Natural Bridge Avenue,0,4,https://www.gunviolencearchive.org/incident/155412,2014,07-2014
+145,145,155755,2014-07-06,New York,Buffalo,100 block of Erb Street,0,4,https://www.gunviolencearchive.org/incident/155755,2014,07-2014
+146,146,154971,2014-07-05,Oregon,Portland,333 SE 122nd Ave,1,4,https://www.gunviolencearchive.org/incident/154971,2014,07-2014
+147,147,154834,2014-07-05,Virginia,Norfolk,861 W. 36th Street,0,7,https://www.gunviolencearchive.org/incident/154834,2014,07-2014
+148,148,154721,2014-07-05,Indiana,Indianapolis,Broad Ripple Avenue,0,7,https://www.gunviolencearchive.org/incident/154721,2014,07-2014
+149,149,158055,2014-07-05,Illinois,Centreville,4700 Piggott Avenue,0,5,https://www.gunviolencearchive.org/incident/158055,2014,07-2014
+150,150,154803,2014-07-05,Texas,Houston,1700 Almeda-Genoa,0,6,https://www.gunviolencearchive.org/incident/154803,2014,07-2014
+151,151,154844,2014-07-04,Virginia,Norfolk,1722 Thurgood Street,0,5,https://www.gunviolencearchive.org/incident/154844,2014,07-2014
+152,152,156834,2014-07-02,Pennsylvania,Chester,1400 block of West Congress Street,0,5,https://www.gunviolencearchive.org/incident/156834,2014,07-2014
+153,153,153275,2014-06-30,Kentucky,Lexington,Scottsdale Circle,1,3,https://www.gunviolencearchive.org/incident/153275,2014,06-2014
+154,154,152468,2014-06-29,Louisiana,New Orleans,700 block of Bourbon St,1,9,https://www.gunviolencearchive.org/incident/152468,2014,06-2014
+155,155,153648,2014-06-29,Missouri,Saint Louis,2800 block of Dayton,0,4,https://www.gunviolencearchive.org/incident/153648,2014,06-2014
+156,156,152693,2014-06-29,California,Los Angeles,1100 block of North Vermont Avenue,1,5,https://www.gunviolencearchive.org/incident/152693,2014,06-2014
+157,157,152960,2014-06-28,California,Antioch,5500 Cedar Point Way,0,7,https://www.gunviolencearchive.org/incident/152960,2014,06-2014
+158,158,153578,2014-06-28,New York,Manhattan,Fifth Avenue and West 139th Street,0,4,https://www.gunviolencearchive.org/incident/153578,2014,06-2014
+159,159,152722,2014-06-27,California,San Diego,1600 block of Cathy Street,1,3,https://www.gunviolencearchive.org/incident/152722,2014,06-2014
+160,160,151659,2014-06-26,Wisconsin,Milwaukee,24th and Locust,0,5,https://www.gunviolencearchive.org/incident/151659,2014,06-2014
+161,161,157018,2014-06-26,Michigan,Detroit,Grand St,2,2,https://www.gunviolencearchive.org/incident/157018,2014,06-2014
+162,162,151475,2014-06-25,Massachusetts,Lowell,Midland Street,0,5,https://www.gunviolencearchive.org/incident/151475,2014,06-2014
+163,163,150299,2014-06-24,Florida,Miami,Northwest 12th Avenue and 65th Street,2,7,https://www.gunviolencearchive.org/incident/150299,2014,06-2014
+164,164,154136,2014-06-22,California,Windsor,Windsor Avenue,1,3,https://www.gunviolencearchive.org/incident/154136,2014,06-2014
+165,165,150344,2014-06-21,Tennessee,Memphis,2119 East Alcy Road,0,5,https://www.gunviolencearchive.org/incident/150344,2014,06-2014
+166,166,149954,2014-06-21,District of Columbia,Washington,Florida Ave NW and U St NW,0,4,https://www.gunviolencearchive.org/incident/149954,2014,06-2014
+167,167,157013,2014-06-20,Maryland,Seat Pleasant,6600 block of Greig Street,0,4,https://www.gunviolencearchive.org/incident/157013,2014,06-2014
+168,168,146565,2014-06-15,Indiana,Kokomo,5100 Clinton Drive,0,4,https://www.gunviolencearchive.org/incident/146565,2014,06-2014
+169,169,146586,2014-06-15,Illinois,Park Forest,200 Berry Street,0,4,https://www.gunviolencearchive.org/incident/146586,2014,06-2014
+170,170,149706,2014-06-13,California,Los Angeles,8600 block of South Figueroa Street,3,1,https://www.gunviolencearchive.org/incident/149706,2014,06-2014
+171,171,156245,2014-06-09,New Jersey,Paterson,Rosa Parks Boulevard and Godwin Avenue,0,6,https://www.gunviolencearchive.org/incident/156245,2014,06-2014
+172,172,144524,2014-06-08,Florida,Fort Myers,17372 Phlox Drive,5,0,https://www.gunviolencearchive.org/incident/144524,2014,06-2014
+173,173,144565,2014-06-08,Alabama,Opp,611 Hardin Street,1,4,https://www.gunviolencearchive.org/incident/144565,2014,06-2014
+174,174,143723,2014-06-07,South Carolina,Moncks Corner,Tish Lane,1,5,https://www.gunviolencearchive.org/incident/143723,2014,06-2014
+175,175,143979,2014-06-07,Michigan,Oak Park,10811 W. Ten Mile Rd.,1,3,https://www.gunviolencearchive.org/incident/143979,2014,06-2014
+176,176,142822,2014-06-04,Illinois,Chicago,4900 West West End Avenue,1,3,https://www.gunviolencearchive.org/incident/142822,2014,06-2014
+177,177,142818,2014-06-03,Georgia,Atlanta,Auburn Avenue,1,4,https://www.gunviolencearchive.org/incident/142818,2014,06-2014
+178,178,142076,2014-06-02,Illinois,Chicago,2660 E. 79th St,0,7,https://www.gunviolencearchive.org/incident/142076,2014,06-2014
+179,179,141382,2014-06-01,Illinois,Chicago,West Ferdinand Street and North Lavergne Avenue ,1,5,https://www.gunviolencearchive.org/incident/141382,2014,06-2014
+180,180,141792,2014-06-01,California,Sacramento,6500 46th Street,0,4,https://www.gunviolencearchive.org/incident/141792,2014,06-2014
+181,181,153532,2014-05-31,California,San Bernardino,800 block of West Victoria St,1,3,https://www.gunviolencearchive.org/incident/153532,2014,05-2014
+182,182,139281,2014-05-25,Ohio,Toledo,2100 block of Joffre Avenue,1,3,https://www.gunviolencearchive.org/incident/139281,2014,05-2014
+183,183,138567,2014-05-24,Michigan,Detroit,Strathmoor St,0,4,https://www.gunviolencearchive.org/incident/138567,2014,05-2014
+184,184,138645,2014-05-24,South Carolina,Myrtle Beach,104 N Ocean Blvd,3,1,https://www.gunviolencearchive.org/incident/138645,2014,05-2014
+185,185,140185,2014-05-23,Louisiana,New Orleans,6200 block of Eads Street,1,7,https://www.gunviolencearchive.org/incident/140185,2014,05-2014
+186,186,138282,2014-05-23,California,Goleta,840 Embarcadero del Norte,4,7,https://www.gunviolencearchive.org/incident/138282,2014,05-2014
+187,187,138370,2014-05-23,California,Bellflower,9541 Flower Street,2,2,https://www.gunviolencearchive.org/incident/138370,2014,05-2014
+188,188,142123,2014-05-21,Texas,Dallas,4515 Village Fair Pl,1,3,https://www.gunviolencearchive.org/incident/142123,2014,05-2014
+189,189,135904,2014-05-18,Ohio,Sandusky,1643 Cleveland Rd,0,7,https://www.gunviolencearchive.org/incident/135904,2014,05-2014
+190,190,136567,2014-05-17,California,Coachella,84000 block of Pedro Drive,1,3,https://www.gunviolencearchive.org/incident/136567,2014,05-2014
+191,191,136163,2014-05-17,District of Columbia,Washington,2200 block of Adams Pl NE,0,5,https://www.gunviolencearchive.org/incident/136163,2014,05-2014
+192,192,134823,2014-05-13,Georgia,Atlanta,Panther Trail and Childress Drive,0,5,https://www.gunviolencearchive.org/incident/134823,2014,05-2014
+193,193,134591,2014-05-12,Illinois,Chicago,3400 West 24th Street,0,4,https://www.gunviolencearchive.org/incident/134591,2014,05-2014
+194,194,134238,2014-05-11,Tennessee,Memphis,2517 Shasta,0,7,https://www.gunviolencearchive.org/incident/134238,2014,05-2014
+195,195,156823,2014-05-10,California,Sacramento,3031 Guadalajara Way,1,6,https://www.gunviolencearchive.org/incident/156823,2014,05-2014
+196,196,134044,2014-05-10,Georgia,Stone Mountain,1100 To Lani Farm Road,1,3,https://www.gunviolencearchive.org/incident/134044,2014,05-2014
+197,197,134052,2014-05-10,Georgia,Decatur,Shamrock Dr,2,3,https://www.gunviolencearchive.org/incident/134052,2014,05-2014
+198,198,131697,2014-05-04,Illinois,Chicago,500 West Erie Street,1,3,https://www.gunviolencearchive.org/incident/131697,2014,05-2014
+199,199,132897,2014-05-04,Colorado,Wheat Ridge,12100 W 44th,0,4,https://www.gunviolencearchive.org/incident/132897,2014,05-2014
+200,200,131998,2014-05-03,Arkansas,Jonesboro,2201 Moore Rd,4,4,https://www.gunviolencearchive.org/incident/131998,2014,05-2014
+201,201,132405,2014-05-03,Texas,Houston,Gears Rd and Trickey Rd,0,6,https://www.gunviolencearchive.org/incident/132405,2014,05-2014
+202,202,130933,2014-04-30,Illinois,Chicago,7200 South Phillips Avenue,0,4,https://www.gunviolencearchive.org/incident/130933,2014,04-2014
+203,203,130232,2014-04-29,Georgia,Kennesaw,1675 Airport Road,1,6,https://www.gunviolencearchive.org/incident/130232,2014,04-2014
+204,204,129730,2014-04-27,New York,Troy,Fourth Street,0,5,https://www.gunviolencearchive.org/incident/129730,2014,04-2014
+205,205,128871,2014-04-25,Tennessee,Memphis,2000 Chelsea Avenue,2,3,https://www.gunviolencearchive.org/incident/128871,2014,04-2014
+206,206,173109,2014-04-22,California,Los Angeles,6419 Brynhurst Avenue,1,3,https://www.gunviolencearchive.org/incident/173109,2014,04-2014
+207,207,127045,2014-04-20,Illinois,Montgomery,1300 block of Jackson St,0,6,https://www.gunviolencearchive.org/incident/127045,2014,04-2014
+208,208,127381,2014-04-20,Florida,Tampa,2902 N. 32nd St.,2,2,https://www.gunviolencearchive.org/incident/127381,2014,04-2014
+209,209,127413,2014-04-20,Illinois,Chicago,6600 South Michigan Ave,0,5,https://www.gunviolencearchive.org/incident/127413,2014,04-2014
+210,210,156828,2014-04-14,District of Columbia,Washington,1909 19th St SE,0,4,https://www.gunviolencearchive.org/incident/156828,2014,04-2014
+211,211,125028,2014-04-12,Louisiana,New Orleans,2100 block of Pauger Street,1,3,https://www.gunviolencearchive.org/incident/125028,2014,04-2014
+212,212,124146,2014-04-11,Indiana,Richmond,North 15th and H Streets,0,4,https://www.gunviolencearchive.org/incident/124146,2014,04-2014
+213,213,124131,2014-04-09,Illinois,Rockford,300 N Sunset Ave,0,5,https://www.gunviolencearchive.org/incident/124131,2014,04-2014
+214,214,123891,2014-04-09,Tennessee,Lookout Valley,Kellys Ferry Road and Kellys Ferry Place,3,1,https://www.gunviolencearchive.org/incident/123891,2014,04-2014
+215,215,123008,2014-04-07,Louisiana,New Orleans,500 block of South Alexander Street,0,4,https://www.gunviolencearchive.org/incident/123008,2014,04-2014
+216,216,123666,2014-04-06,Massachusetts,Springfield,90 Worthington St.,0,4,https://www.gunviolencearchive.org/incident/123666,2014,04-2014
+217,217,125863,2014-04-06,Oklahoma,Oklahoma City,Northwest 29th Street and Portland Avenue,0,4,https://www.gunviolencearchive.org/incident/125863,2014,04-2014
+218,218,122136,2014-04-05,Illinois,Chicago,4300 W Wilcox Street,1,5,https://www.gunviolencearchive.org/incident/122136,2014,04-2014
+219,219,122612,2014-04-05,Arizona,Phoenix,5400 block of W Palm Ln,1,3,https://www.gunviolencearchive.org/incident/122612,2014,04-2014
+220,220,122672,2014-04-05,California,Fairfield,Orchid Street ,0,4,https://www.gunviolencearchive.org/incident/122672,2014,04-2014
+221,221,121031,2014-04-02,Texas,Fort Hood,Motor Pool Road and Tank Destroyer Boulevard,4,16,https://www.gunviolencearchive.org/incident/121031,2014,04-2014
+222,222,120621,2014-03-30,Mississippi,Starkville,2938 Rockhill Rd,0,5,https://www.gunviolencearchive.org/incident/120621,2014,03-2014
+223,223,120303,2014-03-30,North Carolina,Charlotte,4300 Sunset Road,0,5,https://www.gunviolencearchive.org/incident/120303,2014,03-2014
+224,224,117818,2014-03-23,Texas,Arlington,2700 Majesty Drive,1,3,https://www.gunviolencearchive.org/incident/117818,2014,03-2014
+225,225,117914,2014-03-23,California,San Francisco,Turk and Taylor,0,7,https://www.gunviolencearchive.org/incident/117914,2014,03-2014
+226,226,172722,2014-03-23,California,Long Beach,601 Long Beach Boulevard,1,3,https://www.gunviolencearchive.org/incident/172722,2014,03-2014
+227,227,117642,2014-03-21,South Carolina,North Charleston,7550 Dorchester Road,0,4,https://www.gunviolencearchive.org/incident/117642,2014,03-2014
+228,228,117591,2014-03-16,Texas,Beaumont,S 4th St,3,1,https://www.gunviolencearchive.org/incident/117591,2014,03-2014
+229,229,125855,2014-03-16,Georgia,Waynesboro,4960 Highway 80 West ,0,4,https://www.gunviolencearchive.org/incident/125855,2014,03-2014
+230,230,115012,2014-03-14,New York,Brooklyn,S. Second and Roebling Sts,0,4,https://www.gunviolencearchive.org/incident/115012,2014,03-2014
+231,231,113156,2014-03-09,Ohio,Fremont,531 W State St,3,1,https://www.gunviolencearchive.org/incident/113156,2014,03-2014
+232,232,113247,2014-03-09,Texas,Austin,4900 block of West Race Avenue,0,6,https://www.gunviolencearchive.org/incident/113247,2014,03-2014
+233,233,113255,2014-03-08,California,Richmond,1600 block of First Street,1,3,https://www.gunviolencearchive.org/incident/113255,2014,03-2014
+234,234,113214,2014-03-08,Illinois,Chicago,4900 West Race Ave,0,6,https://www.gunviolencearchive.org/incident/113214,2014,03-2014
+235,235,112415,2014-03-05,South Carolina,Pelzer,Law St,3,1,https://www.gunviolencearchive.org/incident/112415,2014,03-2014
+236,236,111095,2014-03-01,Pennsylvania,Pittsburgh,Hamilton Ave,1,4,https://www.gunviolencearchive.org/incident/111095,2014,03-2014
+237,237,111109,2014-03-01,Michigan,Detroit,7800 Gratiot Av.,0,4,https://www.gunviolencearchive.org/incident/111109,2014,03-2014
+238,238,109957,2014-02-25,Virginia,Glade Spring,33325 Graceland Ln,4,1,https://www.gunviolencearchive.org/incident/109957,2014,02-2014
+239,239,109142,2014-02-22,California,Wilmington,1200 block of W Papeete St,0,4,https://www.gunviolencearchive.org/incident/109142,2014,02-2014
+240,240,108691,2014-02-20,Indiana,Indianapolis,3400 block of South Parker,4,0,https://www.gunviolencearchive.org/incident/108691,2014,02-2014
+241,241,108649,2014-02-20,California,Alturas,300 W 1st St,4,2,https://www.gunviolencearchive.org/incident/108649,2014,02-2014
+242,242,107417,2014-02-16,Florida,Orlando (Pine Hills),4500 block of Charlene Terrace,1,6,https://www.gunviolencearchive.org/incident/107417,2014,02-2014
+243,243,107519,2014-02-16,Texas,Dallas,2600 block of South Harwood Street,1,7,https://www.gunviolencearchive.org/incident/107519,2014,02-2014
+244,244,107673,2014-02-16,Indiana,Fort Wayne,Lafayette Street and East Tillman Road,0,5,https://www.gunviolencearchive.org/incident/107673,2014,02-2014
+245,245,108659,2014-02-16,Texas,Fort Worth, 115 NW 25th St.,1,4,https://www.gunviolencearchive.org/incident/108659,2014,02-2014
+246,246,107433,2014-02-16,Florida,Jacksonville,1187 S. Edgewood Ave.,1,4,https://www.gunviolencearchive.org/incident/107433,2014,02-2014
+247,247,107403,2014-02-15,Nevada,Las Vegas,Sahara and Maryland ,0,5,https://www.gunviolencearchive.org/incident/107403,2014,02-2014
+248,248,106243,2014-02-12,California,Stockton,1101 E Lindsay St,1,3,https://www.gunviolencearchive.org/incident/106243,2014,02-2014
+249,249,106394,2014-02-12,Indiana,Gary,2220 block of Broadway,0,5,https://www.gunviolencearchive.org/incident/106394,2014,02-2014
+250,250,106481,2014-02-12,California,Oakland,37th and International ,1,3,https://www.gunviolencearchive.org/incident/106481,2014,02-2014
+251,251,104721,2014-02-07,Florida,Miami,Northwest 41st Street and 9th Avenue ,0,5,https://www.gunviolencearchive.org/incident/104721,2014,02-2014
+252,252,105010,2014-02-06,Louisiana,New Orleans,4600 block of Downman Road,0,4,https://www.gunviolencearchive.org/incident/105010,2014,02-2014
+253,253,104218,2014-02-05,Illinois,Chicago,6740 N Clark St,1,3,https://www.gunviolencearchive.org/incident/104218,2014,02-2014
+254,254,103698,2014-02-03,Indiana,Franklin,2100 block of Bridlewood Dr,3,2,https://www.gunviolencearchive.org/incident/103698,2014,02-2014
+255,255,140117,2014-01-30,Texas,Cypress,14015 Fosters Creek Dr,4,0,https://www.gunviolencearchive.org/incident/140117,2014,01-2014
+256,256,101301,2014-01-27,North Carolina,Rocky Mount,821 Word Plaza,0,4,https://www.gunviolencearchive.org/incident/101301,2014,01-2014
+257,257,113665,2014-01-27,Washington,Seattle,2nd Avenue South and South Main Street,1,4,https://www.gunviolencearchive.org/incident/113665,2014,01-2014
+258,258,100434,2014-01-25,Illinois,Chicago,S Union Ave and W 51st St,1,4,https://www.gunviolencearchive.org/incident/100434,2014,01-2014
+259,259,100568,2014-01-25,Florida,Belle Glade,600 block of Covenant Drive,0,4,https://www.gunviolencearchive.org/incident/100568,2014,01-2014
+260,260,98836,2014-01-21,New Jersey,Newark,Springfield Avenue ,2,3,https://www.gunviolencearchive.org/incident/98836,2014,01-2014
+261,261,104902,2014-01-20,Virginia,Manassas,8509 Rixlew Ln,0,4,https://www.gunviolencearchive.org/incident/104902,2014,01-2014
+262,262,97407,2014-01-16,Oklahoma,Ardmore,H St NE and Martin Luther King Blvd,2,4,https://www.gunviolencearchive.org/incident/97407,2014,01-2014
+263,263,97365,2014-01-16,Utah,Spanish Fork,37 N. 630 West,5,0,https://www.gunviolencearchive.org/incident/97365,2014,01-2014
+264,264,96792,2014-01-14,California,Los Angeles,West 86th Street,0,4,https://www.gunviolencearchive.org/incident/96792,2014,01-2014
+265,265,96185,2014-01-13,Michigan,Detroit,800 block of Calvert St,0,4,https://www.gunviolencearchive.org/incident/96185,2014,01-2014
+266,266,95579,2014-01-12,Illinois,Elgin,300 block of North St,0,5,https://www.gunviolencearchive.org/incident/95579,2014,01-2014
+267,267,95500,2014-01-12,Louisiana,Tallulah,3600 block of Highway 80 W,0,6,https://www.gunviolencearchive.org/incident/95500,2014,01-2014
+268,268,95550,2014-01-12,Alabama,Huntsville,University Drive,0,5,https://www.gunviolencearchive.org/incident/95550,2014,01-2014
+269,269,95146,2014-01-11,Mississippi,Jackson,3430 W. Capitol Street,0,4,https://www.gunviolencearchive.org/incident/95146,2014,01-2014
+270,270,94514,2014-01-05,Pennsylvania,Erie,829 Parade St,1,3,https://www.gunviolencearchive.org/incident/94514,2014,01-2014
+271,271,92704,2014-01-03,New York,Queens,Farmers Boulevard and 133rd Avenue,1,3,https://www.gunviolencearchive.org/incident/92704,2014,01-2014
+272,272,92194,2014-01-01,Virginia,Norfolk,Rockingham Street and Berkley Avenue Extended,2,2,https://www.gunviolencearchive.org/incident/92194,2014,01-2014

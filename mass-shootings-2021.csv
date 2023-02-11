@@ -1,0 +1,691 @@
+level_0,index,incident_id,incident_date,state,city_or_country,address,killed,injured,incident_url,year,month-year
+0,0,2201535,2021-12-31,Maryland,Capitol Heights,Cindy Ln,0,4,https://www.gunviolencearchive.org/incident/2201535,2021,12-2021
+1,1,2201716,2021-12-31,Mississippi,Gulfport,1200 block of Lewis Ave,4,3,https://www.gunviolencearchive.org/incident/2201716,2021,12-2021
+2,2,2201216,2021-12-31,California,Los Angeles,10211 S. Avalon Blvd,0,6,https://www.gunviolencearchive.org/incident/2201216,2021,12-2021
+3,3,2200968,2021-12-30,Pennsylvania,Philadelphia,5100 block of Germantown Ave,0,7,https://www.gunviolencearchive.org/incident/2200968,2021,12-2021
+4,4,2201052,2021-12-30,Missouri,Kirksville,700 block of E Dodson St,3,1,https://www.gunviolencearchive.org/incident/2201052,2021,12-2021
+5,5,2198521,2021-12-27,Colorado,Denver,56 Broadway,6,2,https://www.gunviolencearchive.org/incident/2198521,2021,12-2021
+6,6,2198014,2021-12-27,Ohio,Youngstown,2626 Tyrell Ave,1,3,https://www.gunviolencearchive.org/incident/2198014,2021,12-2021
+7,7,2200720,2021-12-27,Alabama,Mobile,3606 Moffett Rd,1,3,https://www.gunviolencearchive.org/incident/2200720,2021,12-2021
+8,8,2197178,2021-12-26,Virginia,Clear Brook,I-81 S and Visitor Center Loop,1,4,https://www.gunviolencearchive.org/incident/2197178,2021,12-2021
+9,9,2197391,2021-12-26,Texas,Garland,730 W Walnut St,3,1,https://www.gunviolencearchive.org/incident/2197391,2021,12-2021
+10,10,2198071,2021-12-26,New York,Buffalo,1300 block of Jefferson Ave,0,4,https://www.gunviolencearchive.org/incident/2198071,2021,12-2021
+11,11,2197421,2021-12-26,Mississippi,Fayette,225 Community Dr,1,6,https://www.gunviolencearchive.org/incident/2197421,2021,12-2021
+12,12,2197328,2021-12-26,Pennsylvania,Philadelphia,800 block of W Clearfield St,0,4,https://www.gunviolencearchive.org/incident/2197328,2021,12-2021
+13,13,2196827,2021-12-25,Louisiana,Lafayette,2100 block of NE Evangeline Thruway,0,4,https://www.gunviolencearchive.org/incident/2196827,2021,12-2021
+14,14,2196434,2021-12-24,Georgia,Roswell,401 Huntington Dr,1,3,https://www.gunviolencearchive.org/incident/2196434,2021,12-2021
+15,15,2196267,2021-12-24,Pennsylvania,Pittsburgh,7300 block of Schoyer St,0,6,https://www.gunviolencearchive.org/incident/2196267,2021,12-2021
+16,16,2196839,2021-12-24,New York,Brooklyn,1031 Nostrand Ave,0,4,https://www.gunviolencearchive.org/incident/2196839,2021,12-2021
+17,17,2193049,2021-12-19,Illinois,Lovejoy (Brooklyn),213 Madison St,1,3,https://www.gunviolencearchive.org/incident/2193049,2021,12-2021
+18,18,2191752,2021-12-17,Maryland,Baltimore,600 block of Laurens St,1,3,https://www.gunviolencearchive.org/incident/2191752,2021,12-2021
+19,19,2192046,2021-12-17,Maryland,Baltimore,1300 block of W North Ave,1,4,https://www.gunviolencearchive.org/incident/2192046,2021,12-2021
+20,20,2191683,2021-12-17,Virginia,Portsmouth,4105 Portsmouth Blvd,0,4,https://www.gunviolencearchive.org/incident/2191683,2021,12-2021
+21,21,2188999,2021-12-13,California,Fresno,E Normal Ave and Mayfair Dr S,0,4,https://www.gunviolencearchive.org/incident/2188999,2021,12-2021
+22,22,2188843,2021-12-13,Pennsylvania,Philadelphia,3400 block of Emerald St,0,4,https://www.gunviolencearchive.org/incident/2188843,2021,12-2021
+23,23,2188260,2021-12-13,North Carolina,Durham,Eugene St and Mathison St,2,4,https://www.gunviolencearchive.org/incident/2188260,2021,12-2021
+24,24,2187939,2021-12-12,Mississippi,Bolton,6171 W. Northside Dr,0,6,https://www.gunviolencearchive.org/incident/2187939,2021,12-2021
+25,25,2190367,2021-12-12,Florida,Tampa,Alaska Ave,0,5,https://www.gunviolencearchive.org/incident/2190367,2021,12-2021
+26,26,2187990,2021-12-12,Texas,Baytown,1403 N Market Loop,1,13,https://www.gunviolencearchive.org/incident/2187990,2021,12-2021
+27,27,2188066,2021-12-12,Virginia,Woodbridge,13989 Jefferson Davis Hwy,0,4,https://www.gunviolencearchive.org/incident/2188066,2021,12-2021
+28,28,2187027,2021-12-11,Illinois,River Grove,3111 River Rd,1,3,https://www.gunviolencearchive.org/incident/2187027,2021,12-2021
+29,29,2186517,2021-12-10,Michigan,Lansing,Miller Rd and Cedar St,1,3,https://www.gunviolencearchive.org/incident/2186517,2021,12-2021
+30,30,2187077,2021-12-10,Florida,Orlando,Jefferson St and Garden Ave,0,5,https://www.gunviolencearchive.org/incident/2187077,2021,12-2021
+31,31,2186696,2021-12-10,North Carolina,Charlotte,3100 block of Marney Ave,0,5,https://www.gunviolencearchive.org/incident/2186696,2021,12-2021
+32,32,2186858,2021-12-09,Maryland,Capitol Heights,6700 Walker Mill Rd,0,4,https://www.gunviolencearchive.org/incident/2186858,2021,12-2021
+33,33,2186246,2021-12-09,Wisconsin,Beloit,1900 block of Porter Ave,1,5,https://www.gunviolencearchive.org/incident/2186246,2021,12-2021
+34,34,2183667,2021-12-06,Pennsylvania,Philadelphia,1500 block of N 29th St,0,4,https://www.gunviolencearchive.org/incident/2183667,2021,12-2021
+35,35,2182789,2021-12-05,Michigan,Detroit,5200 block of Marlborough St,2,2,https://www.gunviolencearchive.org/incident/2182789,2021,12-2021
+36,36,2183120,2021-12-05,Texas,El Paso,2910 Tularosa Ave,1,3,https://www.gunviolencearchive.org/incident/2183120,2021,12-2021
+37,37,2181840,2021-12-03,Tennessee,Memphis,3885 Elvis Presley Blvd,2,2,https://www.gunviolencearchive.org/incident/2181840,2021,12-2021
+38,38,2181096,2021-12-02,North Carolina,Elizabeth City,Perry St and Jordan St,3,3,https://www.gunviolencearchive.org/incident/2181096,2021,12-2021
+39,39,2178487,2021-11-30,Michigan,Oxford,745 N Oxford Rd,4,7,https://www.gunviolencearchive.org/incident/2178487,2021,11-2021
+40,40,2179099,2021-11-30,Georgia,Rex,3600 block of Jervis Court,4,2,https://www.gunviolencearchive.org/incident/2179099,2021,11-2021
+41,41,2177268,2021-11-28,Pennsylvania,Philadelphia,1300 block of S 50th St,0,4,https://www.gunviolencearchive.org/incident/2177268,2021,11-2021
+42,42,2176922,2021-11-28,Maryland,Baltimore,1300 block of North Montford Ave,0,7,https://www.gunviolencearchive.org/incident/2176922,2021,11-2021
+43,43,2177300,2021-11-28,Illinois,Evanston,1950 Green Bay Rd,1,4,https://www.gunviolencearchive.org/incident/2177300,2021,11-2021
+44,44,2177416,2021-11-28,California,Lancaster,3500 block of Garnet Lane,5,0,https://www.gunviolencearchive.org/incident/2177416,2021,11-2021
+45,45,2176653,2021-11-28,Colorado,Aurora,1500 block of Dayton St,0,5,https://www.gunviolencearchive.org/incident/2176653,2021,11-2021
+46,46,2176667,2021-11-27,New Jersey,Newark,900 block of Bergen St,1,3,https://www.gunviolencearchive.org/incident/2176667,2021,11-2021
+47,47,2176058,2021-11-26,Tennessee,Nashville,2815 Torbett St,3,4,https://www.gunviolencearchive.org/incident/2176058,2021,11-2021
+48,48,2175329,2021-11-25,Texas,San Antonio,4000 block of Sunrise Creek Dr,3,1,https://www.gunviolencearchive.org/incident/2175329,2021,11-2021
+49,49,2175615,2021-11-25,South Carolina,Green Sea,Long Branch Swamp Rd,0,4,https://www.gunviolencearchive.org/incident/2175615,2021,11-2021
+50,50,2173531,2021-11-23,Florida,Lehigh Acres,Cervantes St,0,4,https://www.gunviolencearchive.org/incident/2173531,2021,11-2021
+51,51,2174033,2021-11-23,Texas,Marshall,700 block of Cross St,1,3,https://www.gunviolencearchive.org/incident/2174033,2021,11-2021
+52,52,2174685,2021-11-22,North Carolina,Warsaw,101 Matthews St,2,2,https://www.gunviolencearchive.org/incident/2174685,2021,11-2021
+53,53,2172178,2021-11-21,New Jersey,Passaic,Howe Ave and Lafayette Ave,0,5,https://www.gunviolencearchive.org/incident/2172178,2021,11-2021
+54,54,2172657,2021-11-21,Louisiana,Baton Rouge,4888 Plank Rd,1,4,https://www.gunviolencearchive.org/incident/2172657,2021,11-2021
+55,55,2171568,2021-11-20,California,Fresno,3665 N Pleasant Ave,2,2,https://www.gunviolencearchive.org/incident/2171568,2021,11-2021
+56,56,2172018,2021-11-20,Illinois,Berwyn,6802 W 26th St,0,4,https://www.gunviolencearchive.org/incident/2172018,2021,11-2021
+57,57,2170438,2021-11-18,Maryland,Cambridge,700 block of Greenwood Ave,1,3,https://www.gunviolencearchive.org/incident/2170438,2021,11-2021
+58,58,2169719,2021-11-17,Illinois,East Saint Louis,8300 block of State St,1,3,https://www.gunviolencearchive.org/incident/2169719,2021,11-2021
+59,59,2170140,2021-11-17,New York,Newburgh,William St and Carson Ave,0,4,https://www.gunviolencearchive.org/incident/2170140,2021,11-2021
+60,60,2169494,2021-11-17,New York,Bronx,815 Burke Ave,1,3,https://www.gunviolencearchive.org/incident/2169494,2021,11-2021
+61,61,2168989,2021-11-17,Illinois,Chicago,1240 W Randolph St,0,4,https://www.gunviolencearchive.org/incident/2168989,2021,11-2021
+62,62,2167778,2021-11-15,New York,New York (Manhattan),101 W 141st St,0,4,https://www.gunviolencearchive.org/incident/2167778,2021,11-2021
+63,63,2167297,2021-11-15,Colorado,Aurora,1200 Nome St,0,6,https://www.gunviolencearchive.org/incident/2167297,2021,11-2021
+64,64,2166673,2021-11-14,Pennsylvania,Philadelphia,2700 block of N Howard St,0,6,https://www.gunviolencearchive.org/incident/2166673,2021,11-2021
+65,65,2166768,2021-11-14,Missouri,Columbia,19 N 5th St,1,5,https://www.gunviolencearchive.org/incident/2166768,2021,11-2021
+66,66,2166953,2021-11-14,Oregon,Chiloquin,990 Bronco Lane,2,2,https://www.gunviolencearchive.org/incident/2166953,2021,11-2021
+67,67,2166750,2021-11-14,Arizona,Tucson,1655 W Ajo Way,4,1,https://www.gunviolencearchive.org/incident/2166750,2021,11-2021
+68,68,2166817,2021-11-14,Alabama,Troy,803 US-231 S,1,5,https://www.gunviolencearchive.org/incident/2166817,2021,11-2021
+69,69,2166055,2021-11-13,North Carolina,Winston Salem (Winston-salem),400 block of Gregory St,0,4,https://www.gunviolencearchive.org/incident/2166055,2021,11-2021
+70,70,2167889,2021-11-13,Louisiana,Houma,100 block of Emma St,0,4,https://www.gunviolencearchive.org/incident/2167889,2021,11-2021
+71,71,2165600,2021-11-12,Virginia,Richmond,3050 Nine Mile Rd,2,2,https://www.gunviolencearchive.org/incident/2165600,2021,11-2021
+72,72,2165535,2021-11-12,Alabama,Birmingham,1100 block of 33rd St SW,2,2,https://www.gunviolencearchive.org/incident/2165535,2021,11-2021
+73,73,2163306,2021-11-09,New York,Rochester,Clifton St and Jefferson Ave,0,4,https://www.gunviolencearchive.org/incident/2163306,2021,11-2021
+74,74,2163772,2021-11-09,Louisiana,Hahnville (Killona),160 Killona Dr,1,4,https://www.gunviolencearchive.org/incident/2163772,2021,11-2021
+75,75,2163617,2021-11-09,South Dakota,Scotland,710 2nd St,3,2,https://www.gunviolencearchive.org/incident/2163617,2021,11-2021
+76,76,2162196,2021-11-08,Texas,Victoria,10700 FM 236,3,1,https://www.gunviolencearchive.org/incident/2162196,2021,11-2021
+77,77,2162269,2021-11-08,Pennsylvania,Philadelphia,200 block of E Louden St,0,4,https://www.gunviolencearchive.org/incident/2162269,2021,11-2021
+78,78,2161323,2021-11-07,Wisconsin,Kenosha,625 57th St,1,3,https://www.gunviolencearchive.org/incident/2161323,2021,11-2021
+79,79,2161116,2021-11-06,California,Oakley,33 Malicoat Ave,2,2,https://www.gunviolencearchive.org/incident/2161116,2021,11-2021
+80,80,2160608,2021-11-06,Texas,Marshall,510 S Alamo Blvd,0,6,https://www.gunviolencearchive.org/incident/2160608,2021,11-2021
+81,81,2161078,2021-11-06,California,Highland,26998 3rd St,0,4,https://www.gunviolencearchive.org/incident/2161078,2021,11-2021
+82,82,2160838,2021-11-05,California,Oakland,8400 block of International Blvd,1,3,https://www.gunviolencearchive.org/incident/2160838,2021,11-2021
+83,83,2158524,2021-11-03,Iowa,Des Moines,11300 block of E 15th St,0,4,https://www.gunviolencearchive.org/incident/2158524,2021,11-2021
+84,84,2158417,2021-11-03,Virginia,Norfolk,821 Whitaker Ln,3,2,https://www.gunviolencearchive.org/incident/2158417,2021,11-2021
+85,85,2157991,2021-11-02,Alabama,Mobile,4120 Government Blvd,0,4,https://www.gunviolencearchive.org/incident/2157991,2021,11-2021
+86,86,2156175,2021-11-01,Florida,Orlando,N Orange Ave and Wall St,0,4,https://www.gunviolencearchive.org/incident/2156175,2021,11-2021
+87,87,2157206,2021-11-01,Texas,San Antonio,1900 block of W Laurel St,0,4,https://www.gunviolencearchive.org/incident/2157206,2021,11-2021
+88,88,2155369,2021-10-31,Kentucky,Louisville,6210 Shepherdsville Rd,2,2,https://www.gunviolencearchive.org/incident/2155369,2021,10-2021
+89,89,2155517,2021-10-31,Colorado,Littleton (Lakewood),6200 block of Alameda Ave,2,2,https://www.gunviolencearchive.org/incident/2155517,2021,10-2021
+90,90,2155428,2021-10-31,Illinois,Flossmoor,3800 block of Ballantrae Way,1,3,https://www.gunviolencearchive.org/incident/2155428,2021,10-2021
+91,91,2155282,2021-10-31,Texas,Houston,1909 Schilder Dr,1,3,https://www.gunviolencearchive.org/incident/2155282,2021,10-2021
+92,92,2155329,2021-10-31,Illinois,Joliet,1018 E Jackson St,3,11,https://www.gunviolencearchive.org/incident/2155329,2021,10-2021
+93,93,2156001,2021-10-31,Texas,Fort Worth,3700 block of Lebow St,1,3,https://www.gunviolencearchive.org/incident/2156001,2021,10-2021
+94,94,2154851,2021-10-30,California,Gilroy,400 block of Las Animas Ave,2,2,https://www.gunviolencearchive.org/incident/2154851,2021,10-2021
+95,95,2154422,2021-10-30,Illinois,Decatur,1100 block of N Union St,0,4,https://www.gunviolencearchive.org/incident/2154422,2021,10-2021
+96,96,2154441,2021-10-30,Oklahoma,Oklahoma City,NW 122nd St and N Council Rd,0,4,https://www.gunviolencearchive.org/incident/2154441,2021,10-2021
+97,97,2154873,2021-10-30,California,Sacramento,5560 Palm Ave,2,5,https://www.gunviolencearchive.org/incident/2154873,2021,10-2021
+98,98,2155172,2021-10-30,Florida,Saint Petersburg,1079 62nd Ave S,1,4,https://www.gunviolencearchive.org/incident/2155172,2021,10-2021
+99,99,2155001,2021-10-30,Texas,Texarkana,2315 Texas Blvd,1,9,https://www.gunviolencearchive.org/incident/2155001,2021,10-2021
+100,100,2154283,2021-10-29,New York,Poughkeepsie,32 Cannon St,0,5,https://www.gunviolencearchive.org/incident/2154283,2021,10-2021
+101,101,2155826,2021-10-29,Michigan,Kalamazoo,3082 S 9th St,0,4,https://www.gunviolencearchive.org/incident/2155826,2021,10-2021
+102,102,2153285,2021-10-28,Nevada,Las Vegas,3900 block of E Cheyenne Ave,0,4,https://www.gunviolencearchive.org/incident/2153285,2021,10-2021
+103,103,2153779,2021-10-28,Tennessee,Nashville,210 N 9th St,1,3,https://www.gunviolencearchive.org/incident/2153779,2021,10-2021
+104,104,2150274,2021-10-25,Idaho,Boise,350 N Milwaukee St,3,3,https://www.gunviolencearchive.org/incident/2150274,2021,10-2021
+105,105,2154085,2021-10-24,California,Gonzales,Foletta Rd,2,2,https://www.gunviolencearchive.org/incident/2154085,2021,10-2021
+106,106,2150037,2021-10-24,Mississippi,Crenshaw,413 Jones St,2,3,https://www.gunviolencearchive.org/incident/2150037,2021,10-2021
+107,107,2148921,2021-10-23,South Carolina,Florence,811 S Irby St,0,6,https://www.gunviolencearchive.org/incident/2148921,2021,10-2021
+108,108,2148891,2021-10-23,California,Ontario,700 block of E Bonnie Brae Ct,1,4,https://www.gunviolencearchive.org/incident/2148891,2021,10-2021
+109,109,2148633,2021-10-23,Georgia,Fort Valley,603 Carver Dr,1,7,https://www.gunviolencearchive.org/incident/2148633,2021,10-2021
+110,110,2148282,2021-10-22,Illinois,Chicago,7901 S Cottage Grove Ave,0,5,https://www.gunviolencearchive.org/incident/2148282,2021,10-2021
+111,111,2148946,2021-10-22,Washington,Renton,16420 SE 128th St,0,4,https://www.gunviolencearchive.org/incident/2148946,2021,10-2021
+112,112,2148401,2021-10-22,Maryland,Baltimore,3100 block of W North Ave,0,7,https://www.gunviolencearchive.org/incident/2148401,2021,10-2021
+113,113,2147114,2021-10-21,New York,Brooklyn,3008 Glenwood Rd,0,4,https://www.gunviolencearchive.org/incident/2147114,2021,10-2021
+114,114,2147301,2021-10-21,Washington,Tacoma,4258 Everett St,4,0,https://www.gunviolencearchive.org/incident/2147301,2021,10-2021
+115,115,2147042,2021-10-20,Michigan,Farwell,9539 S Harrison Ave,4,0,https://www.gunviolencearchive.org/incident/2147042,2021,10-2021
+116,116,2145931,2021-10-19,Wisconsin,Kenosha,610 40th Pl,3,2,https://www.gunviolencearchive.org/incident/2145931,2021,10-2021
+117,117,2143277,2021-10-17,Louisiana,Grambling,403 Main St,1,7,https://www.gunviolencearchive.org/incident/2143277,2021,10-2021
+118,118,2143113,2021-10-17,Missouri,Saint Louis,8600 block of Goodfellow Blvd,1,3,https://www.gunviolencearchive.org/incident/2143113,2021,10-2021
+119,119,2143765,2021-10-17,Texas,Houston,1900 block of Dolly Wright St,0,7,https://www.gunviolencearchive.org/incident/2143765,2021,10-2021
+120,120,2143889,2021-10-17,Colorado,Colorado Springs,1865 N Academy Blvd,0,5,https://www.gunviolencearchive.org/incident/2143889,2021,10-2021
+121,121,2144160,2021-10-17,Wisconsin,Racine,Yout St and Carter St,0,6,https://www.gunviolencearchive.org/incident/2144160,2021,10-2021
+122,122,2143479,2021-10-17,Arkansas,Pine Bluff,820 S Main St,1,9,https://www.gunviolencearchive.org/incident/2143479,2021,10-2021
+123,123,2143499,2021-10-17,Arkansas,Pine Bluff,University Dr and Pullen Ave,1,3,https://www.gunviolencearchive.org/incident/2143499,2021,10-2021
+124,124,2143605,2021-10-17,Mississippi,Jackson,3243 Medgar Evers Blvd,3,3,https://www.gunviolencearchive.org/incident/2143605,2021,10-2021
+125,125,2142402,2021-10-16,Texas,Killeen,308 S Second St,1,3,https://www.gunviolencearchive.org/incident/2142402,2021,10-2021
+126,126,2142296,2021-10-15,Alabama,Mobile,1621 Virginia St,0,5,https://www.gunviolencearchive.org/incident/2142296,2021,10-2021
+127,127,2142092,2021-10-14,Minnesota,Minneapolis,814 E Franklin Ave,1,4,https://www.gunviolencearchive.org/incident/2142092,2021,10-2021
+128,128,2155043,2021-10-14,Mississippi,Mccomb,1300 14th St,0,6,https://www.gunviolencearchive.org/incident/2155043,2021,10-2021
+129,129,2139048,2021-10-12,Florida,Naples,700 block of 99th Ave,1,5,https://www.gunviolencearchive.org/incident/2139048,2021,10-2021
+130,130,2139674,2021-10-12,Mississippi,Meridian,2000 block of 17th St,3,1,https://www.gunviolencearchive.org/incident/2139674,2021,10-2021
+131,131,2139198,2021-10-11,Georgia,Atlanta,4900 Delano Rd,0,6,https://www.gunviolencearchive.org/incident/2139198,2021,10-2021
+132,132,2137321,2021-10-10,South Carolina,Mc Coll (Mccoll),4181 Hwy 15-401,2,3,https://www.gunviolencearchive.org/incident/2137321,2021,10-2021
+133,133,2137561,2021-10-10,Iowa,Sioux City,427 Pierce St,0,4,https://www.gunviolencearchive.org/incident/2137561,2021,10-2021
+134,134,2137198,2021-10-10,Minnesota,Saint Paul,214 7th St W,1,15,https://www.gunviolencearchive.org/incident/2137198,2021,10-2021
+135,135,2137179,2021-10-10,Illinois,Chicago,1565 N Milwaukee Ave,1,4,https://www.gunviolencearchive.org/incident/2137179,2021,10-2021
+136,136,2137555,2021-10-10,Delaware,Dover,1500 block of Nathaniel Mitchell Rd,1,4,https://www.gunviolencearchive.org/incident/2137555,2021,10-2021
+137,137,2136907,2021-10-09,Louisiana,Livingston,17000 block of LA-444,2,4,https://www.gunviolencearchive.org/incident/2136907,2021,10-2021
+138,138,2137291,2021-10-09,Texas,Dallas,3000 block of South Blvd,0,4,https://www.gunviolencearchive.org/incident/2137291,2021,10-2021
+139,139,2137575,2021-10-09,New York,Albany,100 block of North Lake Ave,1,6,https://www.gunviolencearchive.org/incident/2137575,2021,10-2021
+140,140,2137464,2021-10-09,Colorado,Denver,7300 block of E 22nd Ave,1,3,https://www.gunviolencearchive.org/incident/2137464,2021,10-2021
+141,141,2136230,2021-10-08,Maryland,Baltimore,2600 block of Jefferson St,0,4,https://www.gunviolencearchive.org/incident/2136230,2021,10-2021
+142,142,2136270,2021-10-08,District of Columbia,Washington,1700 block of Independence Ave SE,1,3,https://www.gunviolencearchive.org/incident/2136270,2021,10-2021
+143,143,2135536,2021-10-08,Alabama,Montgomery,1800 block of Cotton Ct,1,3,https://www.gunviolencearchive.org/incident/2135536,2021,10-2021
+144,144,2135508,2021-10-07,Wisconsin,Milwaukee,W Cherry St and N 8th St,3,1,https://www.gunviolencearchive.org/incident/2135508,2021,10-2021
+145,145,2134657,2021-10-07,Illinois,Chicago,900 block of N Orleans St,0,4,https://www.gunviolencearchive.org/incident/2134657,2021,10-2021
+146,146,2135498,2021-10-07,Wisconsin,Milwaukee,2400 block of N 37th St,0,5,https://www.gunviolencearchive.org/incident/2135498,2021,10-2021
+147,147,2135666,2021-10-07,Louisiana,New Orleans,S Robertson St and Martin Luther King Jr Blvd,1,4,https://www.gunviolencearchive.org/incident/2135666,2021,10-2021
+148,148,2134217,2021-10-06,Maryland,Baltimore,1243 Patterson Park Ave,1,5,https://www.gunviolencearchive.org/incident/2134217,2021,10-2021
+149,149,2134359,2021-10-06,Louisiana,New Orleans,603 General Taylor,2,2,https://www.gunviolencearchive.org/incident/2134359,2021,10-2021
+150,150,2136132,2021-10-06,Ohio,Cleveland,9200 block of Marshall Ave,0,4,https://www.gunviolencearchive.org/incident/2136132,2021,10-2021
+151,151,2135659,2021-10-06,Ohio,Cleveland,Marshall Ave and E 93rd St,0,4,https://www.gunviolencearchive.org/incident/2135659,2021,10-2021
+152,152,2133962,2021-10-05,Illinois,Rockford,400 block of S Independence Ave,1,3,https://www.gunviolencearchive.org/incident/2133962,2021,10-2021
+153,153,2133137,2021-10-05,Minnesota,Saint Paul,922 Thomas Ave W,0,4,https://www.gunviolencearchive.org/incident/2133137,2021,10-2021
+154,154,2132656,2021-10-04,Minnesota,Minneapolis,626 W Broadway Ave,0,4,https://www.gunviolencearchive.org/incident/2132656,2021,10-2021
+155,155,2131471,2021-10-03,South Carolina,Bishopville,1113 Sumter Hwy,1,4,https://www.gunviolencearchive.org/incident/2131471,2021,10-2021
+156,156,2131406,2021-10-02,Texas,San Antonio,6222 S New Braunfels Ave,1,3,https://www.gunviolencearchive.org/incident/2131406,2021,10-2021
+157,157,2130634,2021-10-02,Colorado,Aurora,12230 E Colfax Ave,1,3,https://www.gunviolencearchive.org/incident/2130634,2021,10-2021
+158,158,2130370,2021-10-01,District of Columbia,Washington,Forrester St SW and Galveston Pl SW,1,5,https://www.gunviolencearchive.org/incident/2130370,2021,10-2021
+159,159,2130763,2021-10-01,Iowa,Cedar Rapids,525 33rd Ave SW,0,6,https://www.gunviolencearchive.org/incident/2130763,2021,10-2021
+160,160,2128682,2021-09-29,Illinois,Chicago,800 block of N Milwaukee Ave,0,5,https://www.gunviolencearchive.org/incident/2128682,2021,09-2021
+161,161,2128023,2021-09-28,Minnesota,Minneapolis,2700 block of Bloomington Ave,1,3,https://www.gunviolencearchive.org/incident/2128023,2021,09-2021
+162,162,2127374,2021-09-28,Illinois,Chicago,6500 block of S Calumet Ave,1,3,https://www.gunviolencearchive.org/incident/2127374,2021,09-2021
+163,163,2126747,2021-09-27,New York,New York (Manhattan),3964 10th Ave,0,5,https://www.gunviolencearchive.org/incident/2126747,2021,09-2021
+164,164,2126450,2021-09-27,Illinois,Chicago,826 N Ridgeway Ave,1,3,https://www.gunviolencearchive.org/incident/2126450,2021,09-2021
+165,165,2125790,2021-09-26,Illinois,Chicago,800 block of S Albany Ave,0,6,https://www.gunviolencearchive.org/incident/2125790,2021,09-2021
+166,166,2125953,2021-09-26,California,Oakland,1400 block of 8th Ave,0,4,https://www.gunviolencearchive.org/incident/2125953,2021,09-2021
+167,167,2126261,2021-09-26,Washington,Seattle (Des Moines),22855 Pacific Hwy S,3,3,https://www.gunviolencearchive.org/incident/2126261,2021,09-2021
+168,168,2125613,2021-09-25,New York,Utica,800 block of Mohawk St,0,4,https://www.gunviolencearchive.org/incident/2125613,2021,09-2021
+169,169,2125444,2021-09-25,Tennessee,Athens,Co Rd 60,4,1,https://www.gunviolencearchive.org/incident/2125444,2021,09-2021
+170,170,2126241,2021-09-25,Tennessee,Chattanooga,1124 Grove St,2,5,https://www.gunviolencearchive.org/incident/2126241,2021,09-2021
+171,171,2125227,2021-09-25,California,Riverside,6000 Block of Mariposa Ave,0,6,https://www.gunviolencearchive.org/incident/2125227,2021,09-2021
+172,172,2124396,2021-09-24,South Carolina,Aiken,749 Silver Bluff Rd,4,1,https://www.gunviolencearchive.org/incident/2124396,2021,09-2021
+173,173,2124887,2021-09-24,California,Los Angeles,11600 block of Willowbrook Ave,0,4,https://www.gunviolencearchive.org/incident/2124887,2021,09-2021
+174,174,2123395,2021-09-23,Tennessee,Collierville,240 New Byhalia Rd,2,14,https://www.gunviolencearchive.org/incident/2123395,2021,09-2021
+175,175,2123301,2021-09-23,Pennsylvania,Philadelphia,38th St and Aspen St,0,4,https://www.gunviolencearchive.org/incident/2123301,2021,09-2021
+176,176,2122565,2021-09-22,North Carolina,Fayetteville,1100 block of Charlie Dr,2,2,https://www.gunviolencearchive.org/incident/2122565,2021,09-2021
+177,177,2121381,2021-09-21,District of Columbia,Washington,2200 block of Alabama Ave SE,0,5,https://www.gunviolencearchive.org/incident/2121381,2021,09-2021
+178,178,2120940,2021-09-20,Pennsylvania,Philadelphia,Broad St and Chew Ave,1,5,https://www.gunviolencearchive.org/incident/2120940,2021,09-2021
+179,179,2121031,2021-09-20,Missouri,Saint Louis,2000 block of St Charles St,1,3,https://www.gunviolencearchive.org/incident/2121031,2021,09-2021
+180,180,2119583,2021-09-19,New York,Rochester,300 block of Driving Park Ave,2,2,https://www.gunviolencearchive.org/incident/2119583,2021,09-2021
+181,181,2119701,2021-09-19,Florida,Miami,14900 block of Pierce St,0,4,https://www.gunviolencearchive.org/incident/2119701,2021,09-2021
+182,182,2119736,2021-09-19,California,Oakland,300 block of 17th St,1,3,https://www.gunviolencearchive.org/incident/2119736,2021,09-2021
+183,183,2119745,2021-09-19,Texas,Dallas,100 block of N Malcolm X Blvd,2,4,https://www.gunviolencearchive.org/incident/2119745,2021,09-2021
+184,184,2119609,2021-09-19,Illinois,Chicago,900 block of N Massasoit Ave,0,5,https://www.gunviolencearchive.org/incident/2119609,2021,09-2021
+185,185,2119950,2021-09-19,South Carolina,Yemassee,145 Yemassee Hwy,1,7,https://www.gunviolencearchive.org/incident/2119950,2021,09-2021
+186,186,2119470,2021-09-18,New York,Bronx,Teller Ave and E 172nd St,1,3,https://www.gunviolencearchive.org/incident/2119470,2021,09-2021
+187,187,2119101,2021-09-18,Illinois,Danville,3164 E Main St,2,2,https://www.gunviolencearchive.org/incident/2119101,2021,09-2021
+188,188,2119478,2021-09-18,Louisiana,Opelousas,500 block of Sapphire St,0,5,https://www.gunviolencearchive.org/incident/2119478,2021,09-2021
+189,189,2118451,2021-09-17,Georgia,Augusta,519 Broad St,0,4,https://www.gunviolencearchive.org/incident/2118451,2021,09-2021
+190,190,2116343,2021-09-14,Maryland,Baltimore,1700 block of N Milton Ave,0,4,https://www.gunviolencearchive.org/incident/2116343,2021,09-2021
+191,191,2116205,2021-09-14,Ohio,Cleveland,2747 Cedar Ave,0,6,https://www.gunviolencearchive.org/incident/2116205,2021,09-2021
+192,192,2115522,2021-09-13,Wisconsin,Milwaukee,3073 N Sherman Blvd,0,5,https://www.gunviolencearchive.org/incident/2115522,2021,09-2021
+193,193,2115947,2021-09-12,Minnesota,Saint Paul,7th St W and N Walnut St,4,0,https://www.gunviolencearchive.org/incident/2115947,2021,09-2021
+194,194,2114626,2021-09-12,Texas,Temple,900 block of S 24th St,0,4,https://www.gunviolencearchive.org/incident/2114626,2021,09-2021
+195,195,2122103,2021-09-12,Illinois,Blue Island,12200 block of S Irving Ave,2,2,https://www.gunviolencearchive.org/incident/2122103,2021,09-2021
+196,196,2114481,2021-09-12,Michigan,Detroit,2700 block of Halleck St,2,4,https://www.gunviolencearchive.org/incident/2114481,2021,09-2021
+197,197,2114510,2021-09-11,Alabama,Dothan,2000 Reeves St,0,5,https://www.gunviolencearchive.org/incident/2114510,2021,09-2021
+198,198,2114583,2021-09-11,New York,Utica,700 block of Noyes St,1,3,https://www.gunviolencearchive.org/incident/2114583,2021,09-2021
+199,199,2113623,2021-09-11,Illinois,Chicago,900 block of E 79th St,1,3,https://www.gunviolencearchive.org/incident/2113623,2021,09-2021
+200,200,2113841,2021-09-11,Illinois,Chicago,300 block of E Kensington Ave,2,4,https://www.gunviolencearchive.org/incident/2113841,2021,09-2021
+201,201,2113769,2021-09-11,New Jersey,Paterson,E 18th St and Fulton Pl,0,4,https://www.gunviolencearchive.org/incident/2113769,2021,09-2021
+202,202,2112450,2021-09-10,Florida,Orlando,5526 S Orange Blossom Trl,0,4,https://www.gunviolencearchive.org/incident/2112450,2021,09-2021
+203,203,2111858,2021-09-09,Illinois,East Saint Louis,510 Martin Luther King Dr,0,7,https://www.gunviolencearchive.org/incident/2111858,2021,09-2021
+204,204,2112252,2021-09-09,Alabama,Montgomery,1800 block of Cotton Court,1,3,https://www.gunviolencearchive.org/incident/2112252,2021,09-2021
+205,205,2111895,2021-09-08,Missouri,Saint Louis,4000 block of St Ferdinand Ave,0,4,https://www.gunviolencearchive.org/incident/2111895,2021,09-2021
+206,206,2110346,2021-09-07,Delaware,Wilmington,A St and New Castle Ave,0,4,https://www.gunviolencearchive.org/incident/2110346,2021,09-2021
+207,207,2110077,2021-09-07,Kansas,Wichita,351 N Mosley St,1,5,https://www.gunviolencearchive.org/incident/2110077,2021,09-2021
+208,208,2109075,2021-09-06,Georgia,Atlanta,868 Joseph E Boone Blvd NW,0,5,https://www.gunviolencearchive.org/incident/2109075,2021,09-2021
+209,209,2108892,2021-09-05,Missouri,Independence,116 W Lexington Ave,0,4,https://www.gunviolencearchive.org/incident/2108892,2021,09-2021
+210,210,2108560,2021-09-05,New York,Bronx,4848 White Plains Rd,0,4,https://www.gunviolencearchive.org/incident/2108560,2021,09-2021
+211,211,2108414,2021-09-05,Texas,Houston,7518 Imogene St,4,0,https://www.gunviolencearchive.org/incident/2108414,2021,09-2021
+212,212,2108378,2021-09-05,Georgia,Athens,E Clayton St and N Jackson St,0,6,https://www.gunviolencearchive.org/incident/2108378,2021,09-2021
+213,213,2115336,2021-09-05,Missouri,Wyatt,,0,4,https://www.gunviolencearchive.org/incident/2115336,2021,09-2021
+214,214,2108302,2021-09-05,Florida,Lakeland,N Socrum Loop Rd and Fulton Green Rd,4,2,https://www.gunviolencearchive.org/incident/2108302,2021,09-2021
+215,215,2109384,2021-09-05,Ohio,Cincinnati,6308 Corbly Rd,0,4,https://www.gunviolencearchive.org/incident/2109384,2021,09-2021
+216,216,2107828,2021-09-04,Louisiana,Monroe,1600 block of Winnsboro Rd,1,3,https://www.gunviolencearchive.org/incident/2107828,2021,09-2021
+217,217,2107930,2021-09-04,District of Columbia,Washington,700 block of Longfellow St NW,3,3,https://www.gunviolencearchive.org/incident/2107930,2021,09-2021
+218,218,2107916,2021-09-04,Alabama,Birmingham,9164 Parkway E,2,2,https://www.gunviolencearchive.org/incident/2107916,2021,09-2021
+219,219,2108406,2021-09-04,Georgia,Warner Robins,Mauldon Ct and Dunmurry Pl,1,4,https://www.gunviolencearchive.org/incident/2108406,2021,09-2021
+220,220,2107875,2021-09-04,Pennsylvania,Pittsburgh,7300 block of Hamilton Ave,0,4,https://www.gunviolencearchive.org/incident/2107875,2021,09-2021
+221,221,2107476,2021-09-04,Illinois,Chicago,1400 block of S Tripp Ave,0,5,https://www.gunviolencearchive.org/incident/2107476,2021,09-2021
+222,222,2107621,2021-09-03,Texas,Austin,9345 US-290,1,3,https://www.gunviolencearchive.org/incident/2107621,2021,09-2021
+223,223,2107168,2021-09-03,New York,Syracuse,Nelson St and W Marcellus St,0,4,https://www.gunviolencearchive.org/incident/2107168,2021,09-2021
+224,224,2107467,2021-09-03,Louisiana,New Iberia,927 S Lewis St,1,3,https://www.gunviolencearchive.org/incident/2107467,2021,09-2021
+225,225,2107198,2021-09-02,New York,Niagara Falls,336 19th St,0,4,https://www.gunviolencearchive.org/incident/2107198,2021,09-2021
+226,226,2104725,2021-08-31,North Carolina,Elm City,3500 block of London Church Rd,2,2,https://www.gunviolencearchive.org/incident/2104725,2021,08-2021
+227,227,2104181,2021-08-30,Illinois,Normal,2000 block of Lambert Dr,3,3,https://www.gunviolencearchive.org/incident/2104181,2021,08-2021
+228,228,2103256,2021-08-29,Tennessee,Nashville,2621 Jefferson St,0,5,https://www.gunviolencearchive.org/incident/2103256,2021,08-2021
+229,229,2102991,2021-08-29,Nevada,Las Vegas,1750 S Rainbow Blvd,1,3,https://www.gunviolencearchive.org/incident/2102991,2021,08-2021
+230,230,2103311,2021-08-29,Wisconsin,Milwaukee,N 41st St and W Lloyd St,0,4,https://www.gunviolencearchive.org/incident/2103311,2021,08-2021
+231,231,2103132,2021-08-28,New York,Albany,Sherman St and Henry Johnson Blvd,0,5,https://www.gunviolencearchive.org/incident/2103132,2021,08-2021
+232,232,2103035,2021-08-28,California,San Diego,3100 block of Mission Blvd,0,4,https://www.gunviolencearchive.org/incident/2103035,2021,08-2021
+233,233,2102694,2021-08-28,Illinois,Chicago,2800 block of W 12th Pl,0,4,https://www.gunviolencearchive.org/incident/2102694,2021,08-2021
+234,234,2101199,2021-08-27,California,Los Angeles,8400 block of Fountain Ave,0,4,https://www.gunviolencearchive.org/incident/2101199,2021,08-2021
+235,235,2101774,2021-08-27,West Virginia,Huntington,300 block of Oney Ave,2,2,https://www.gunviolencearchive.org/incident/2101774,2021,08-2021
+236,236,2102082,2021-08-27,Pennsylvania,Sharon Hill,300 Calcon Hook Rd,1,4,https://www.gunviolencearchive.org/incident/2102082,2021,08-2021
+237,237,2100578,2021-08-26,Minnesota,Minneapolis,3006 Lyndale Ave,0,7,https://www.gunviolencearchive.org/incident/2100578,2021,08-2021
+238,238,2098246,2021-08-23,Illinois,Chicago,W Wilson Ave and N Sheridan Rd,0,4,https://www.gunviolencearchive.org/incident/2098246,2021,08-2021
+239,239,2097075,2021-08-22,Illinois,Chicago,3400 block of W Lake St,1,4,https://www.gunviolencearchive.org/incident/2097075,2021,08-2021
+240,240,2098321,2021-08-22,Oregon,Portland,322 NW Everett St,0,5,https://www.gunviolencearchive.org/incident/2098321,2021,08-2021
+241,241,2097481,2021-08-22,Illinois,Carbondale,501 W Cherry St,1,3,https://www.gunviolencearchive.org/incident/2097481,2021,08-2021
+242,242,2097494,2021-08-22,Colorado,Denver,19th St and Blake St,1,5,https://www.gunviolencearchive.org/incident/2097494,2021,08-2021
+243,243,2097271,2021-08-22,Michigan,Grand Rapids,1500 block of Linden Ave SE,1,3,https://www.gunviolencearchive.org/incident/2097271,2021,08-2021
+244,244,2096687,2021-08-21,Illinois,Chicago,3500 block of W Walnut St,0,4,https://www.gunviolencearchive.org/incident/2096687,2021,08-2021
+245,245,2097063,2021-08-21,Illinois,Chicago,1600 block of E 87th Pl,1,5,https://www.gunviolencearchive.org/incident/2097063,2021,08-2021
+246,246,2095800,2021-08-20,Michigan,Flint,2905 Saginaw St,1,3,https://www.gunviolencearchive.org/incident/2095800,2021,08-2021
+247,247,2095116,2021-08-19,Illinois,Chicago,300 block of E 47th St,0,4,https://www.gunviolencearchive.org/incident/2095116,2021,08-2021
+248,248,2095087,2021-08-19,Pennsylvania,Philadelphia,5100 block of Germantown Ave,1,4,https://www.gunviolencearchive.org/incident/2095087,2021,08-2021
+249,249,2095394,2021-08-19,Maryland,Edgewood,1700 block of Crimson Tree Way,1,3,https://www.gunviolencearchive.org/incident/2095394,2021,08-2021
+250,250,2094421,2021-08-18,Maryland,Germantown,19575 Scenery Dr,1,3,https://www.gunviolencearchive.org/incident/2094421,2021,08-2021
+251,251,2094457,2021-08-18,North Carolina,Durham,Ridgeway Ave and Wabash St,1,3,https://www.gunviolencearchive.org/incident/2094457,2021,08-2021
+252,252,2094071,2021-08-18,Ohio,Youngstown,619 Samuel Ave,2,4,https://www.gunviolencearchive.org/incident/2094071,2021,08-2021
+253,253,2094035,2021-08-18,California,Los Angeles,W Jefferson Blvd and Culver Blvd,0,4,https://www.gunviolencearchive.org/incident/2094035,2021,08-2021
+254,254,2093581,2021-08-17,New York,Brooklyn,422 Mother Gaston Blvd,0,5,https://www.gunviolencearchive.org/incident/2093581,2021,08-2021
+255,255,2092469,2021-08-16,New York,Brooklyn,927 DeKalb Ave,0,8,https://www.gunviolencearchive.org/incident/2092469,2021,08-2021
+256,256,2092227,2021-08-16,Michigan,Detroit,4421 Central Ave,1,3,https://www.gunviolencearchive.org/incident/2092227,2021,08-2021
+257,257,2091597,2021-08-15,Texas,San Antonio,1621 S New Braunfels Ave,3,2,https://www.gunviolencearchive.org/incident/2091597,2021,08-2021
+258,258,2091489,2021-08-15,Illinois,Chicago,1300 block of E 75th St,0,4,https://www.gunviolencearchive.org/incident/2091489,2021,08-2021
+259,259,2091531,2021-08-14,Indiana,Indianapolis,Wheeler St and E 28th St,1,3,https://www.gunviolencearchive.org/incident/2091531,2021,08-2021
+260,260,2090949,2021-08-14,New York,Brooklyn,Lexington Ave and Marcy Ave,0,4,https://www.gunviolencearchive.org/incident/2090949,2021,08-2021
+261,261,2090971,2021-08-14,Ohio,Akron,271 Maiden Ln,0,5,https://www.gunviolencearchive.org/incident/2090971,2021,08-2021
+262,262,2090777,2021-08-14,Indiana,Indianapolis,Lafayette Rd and W 38th St,1,4,https://www.gunviolencearchive.org/incident/2090777,2021,08-2021
+263,263,2090924,2021-08-14,New Jersey,Trenton,875 New Willow St,0,4,https://www.gunviolencearchive.org/incident/2090924,2021,08-2021
+264,264,2092110,2021-08-14,Texas,Wichita Falls,2406 Sheppard Access Rd,0,4,https://www.gunviolencearchive.org/incident/2092110,2021,08-2021
+265,265,2089972,2021-08-13,Nevada,Las Vegas,2601 E Sunset Rd,1,6,https://www.gunviolencearchive.org/incident/2089972,2021,08-2021
+266,266,2088659,2021-08-11,Pennsylvania,Philadelphia,5500 Rising Sun Ave,1,4,https://www.gunviolencearchive.org/incident/2088659,2021,08-2021
+267,267,2087433,2021-08-10,Oregon,Portland,NE Milton St,2,4,https://www.gunviolencearchive.org/incident/2087433,2021,08-2021
+268,268,2089557,2021-08-10,Mississippi,Clarksdale,,2,2,https://www.gunviolencearchive.org/incident/2089557,2021,08-2021
+269,269,2086148,2021-08-09,Massachusetts,Boston,27 Irma St,1,5,https://www.gunviolencearchive.org/incident/2086148,2021,08-2021
+270,270,2086236,2021-08-09,Michigan,Flint,3201 Hammerberg Rd,2,4,https://www.gunviolencearchive.org/incident/2086236,2021,08-2021
+271,271,2085396,2021-08-08,New York,Brooklyn,101 Wortman Ave,3,2,https://www.gunviolencearchive.org/incident/2085396,2021,08-2021
+272,272,2085388,2021-08-08,Illinois,Chicago,1800 block of W 87th St,1,6,https://www.gunviolencearchive.org/incident/2085388,2021,08-2021
+273,273,2085401,2021-08-08,Illinois,Chicago,8300 block of S Halsted St,1,4,https://www.gunviolencearchive.org/incident/2085401,2021,08-2021
+274,274,2085489,2021-08-08,Texas,Houston,2504 FM 1960 Rd E,1,5,https://www.gunviolencearchive.org/incident/2085489,2021,08-2021
+275,275,2085438,2021-08-08,District of Columbia,Washington,3600 block of New York Ave NE,0,4,https://www.gunviolencearchive.org/incident/2085438,2021,08-2021
+276,276,2085542,2021-08-08,Louisiana,New Orleans,700 block of Bourbon St,0,5,https://www.gunviolencearchive.org/incident/2085542,2021,08-2021
+277,277,2085256,2021-08-07,Alabama,Montgomery,200 block of John Morris Ave,0,4,https://www.gunviolencearchive.org/incident/2085256,2021,08-2021
+278,278,2085071,2021-08-07,Illinois,Chicago,211 S Maplewood Ave,0,4,https://www.gunviolencearchive.org/incident/2085071,2021,08-2021
+279,279,2084884,2021-08-07,Virginia,Norfolk,700 block of Granby St,0,4,https://www.gunviolencearchive.org/incident/2084884,2021,08-2021
+280,280,2084889,2021-08-06,Tennessee,Nashville,1000 block of 43rd Ave North,0,4,https://www.gunviolencearchive.org/incident/2084889,2021,08-2021
+281,281,2082957,2021-08-04,Pennsylvania,Philadelphia,3653 Germantown Ave,0,4,https://www.gunviolencearchive.org/incident/2082957,2021,08-2021
+282,282,2081884,2021-08-03,Illinois,Urbana,1204 W Church St,1,3,https://www.gunviolencearchive.org/incident/2081884,2021,08-2021
+283,283,2081131,2021-08-02,South Carolina,Greenwood,101 Heddy Rd,3,1,https://www.gunviolencearchive.org/incident/2081131,2021,08-2021
+284,284,2080733,2021-08-02,South Carolina,Columbia,6908 Two Notch Rd,0,9,https://www.gunviolencearchive.org/incident/2080733,2021,08-2021
+285,285,2080390,2021-08-01,Texas,Nacogdoches,1400 block of Dolph St,1,3,https://www.gunviolencearchive.org/incident/2080390,2021,08-2021
+286,286,2080536,2021-08-01,Rhode Island,Providence,77 Reservoir Ave,0,5,https://www.gunviolencearchive.org/incident/2080536,2021,08-2021
+287,287,2079920,2021-08-01,Louisiana,New Orleans,1600 block of Iberville St,1,3,https://www.gunviolencearchive.org/incident/2079920,2021,08-2021
+288,288,2079913,2021-08-01,Louisiana,New Orleans,Bourbon St and Orleans Ave,0,5,https://www.gunviolencearchive.org/incident/2079913,2021,08-2021
+289,289,2079044,2021-07-31,Ohio,Columbus,1662 W Mound St,1,5,https://www.gunviolencearchive.org/incident/2079044,2021,07-2021
+290,290,2078897,2021-07-31,Illinois,Chicago,1600 block of E Hayes Dr,1,3,https://www.gunviolencearchive.org/incident/2078897,2021,07-2021
+291,291,2079271,2021-07-31,Indiana,Indianapolis,1134 W 30th St,0,5,https://www.gunviolencearchive.org/incident/2079271,2021,07-2021
+292,292,2080006,2021-07-31,Michigan,Saginaw,2700 block of Lynnwood Ave,2,2,https://www.gunviolencearchive.org/incident/2080006,2021,07-2021
+293,293,2079516,2021-07-31,New York,Corona (Queens),97-07 37th Ave,0,10,https://www.gunviolencearchive.org/incident/2079516,2021,07-2021
+294,294,2081480,2021-07-31,Ohio,Cleveland,3100 block of W 25th St,0,5,https://www.gunviolencearchive.org/incident/2081480,2021,07-2021
+295,295,2079533,2021-07-31,Kentucky,Lexington,414 East 5th St,0,5,https://www.gunviolencearchive.org/incident/2079533,2021,07-2021
+296,296,2078540,2021-07-29,Iowa,Davenport,Pacific St and West Locust St,0,4,https://www.gunviolencearchive.org/incident/2078540,2021,07-2021
+297,297,2077587,2021-07-29,Pennsylvania,Pittsburgh,239 Gilkeson Rd,3,2,https://www.gunviolencearchive.org/incident/2077587,2021,07-2021
+298,298,2077018,2021-07-28,District of Columbia,Washington,3400 block of 22nd St SE,0,4,https://www.gunviolencearchive.org/incident/2077018,2021,07-2021
+299,299,2077549,2021-07-28,Alabama,Montgomery,1800 block of Rosa Parks Ave,1,3,https://www.gunviolencearchive.org/incident/2077549,2021,07-2021
+300,300,2076889,2021-07-28,South Carolina,Charleston,Hanover St and Johnson St,1,4,https://www.gunviolencearchive.org/incident/2076889,2021,07-2021
+301,301,2074353,2021-07-25,Michigan,Detroit,16342 W McNichols Rd,0,6,https://www.gunviolencearchive.org/incident/2074353,2021,07-2021
+302,302,2074406,2021-07-25,California,Wasco,1718 1st St,5,1,https://www.gunviolencearchive.org/incident/2074406,2021,07-2021
+303,303,2073472,2021-07-25,Illinois,Chicago,4800 block of W Race Ave,0,5,https://www.gunviolencearchive.org/incident/2073472,2021,07-2021
+304,304,2073597,2021-07-25,Washington,Seattle,100 block of Occidental Ave S,2,3,https://www.gunviolencearchive.org/incident/2073597,2021,07-2021
+305,305,2072782,2021-07-24,Ohio,Columbus,N High St and E 4th Ave,0,4,https://www.gunviolencearchive.org/incident/2072782,2021,07-2021
+306,306,2072962,2021-07-24,Texas,Amarillo,1306 NE 3rd Ave,0,6,https://www.gunviolencearchive.org/incident/2072962,2021,07-2021
+307,307,2072761,2021-07-24,Georgia,Macon,Cherry St and Martin Luther King Jr Blvd,2,3,https://www.gunviolencearchive.org/incident/2072761,2021,07-2021
+308,308,2072342,2021-07-23,South Carolina,Spartanburg,151 Palisade St,2,2,https://www.gunviolencearchive.org/incident/2072342,2021,07-2021
+309,309,2071982,2021-07-23,South Carolina,Darlington,505 Oleander Dr,0,4,https://www.gunviolencearchive.org/incident/2071982,2021,07-2021
+310,310,2072896,2021-07-23,California,San Rafael,842 4th St,2,4,https://www.gunviolencearchive.org/incident/2072896,2021,07-2021
+311,311,2071343,2021-07-22,Texas,Houston,9717 N Houston Rosslyn Rd,1,5,https://www.gunviolencearchive.org/incident/2071343,2021,07-2021
+312,312,2070329,2021-07-21,Illinois,Chicago,1400 block of S Ridgeway Ave,0,5,https://www.gunviolencearchive.org/incident/2070329,2021,07-2021
+313,313,2069490,2021-07-21,Maryland,Hyattsville (Adelphi),1836 Metzerott Rd,1,4,https://www.gunviolencearchive.org/incident/2069490,2021,07-2021
+314,314,2070645,2021-07-21,Illinois,Chicago,1647 N La Salle Dr,0,8,https://www.gunviolencearchive.org/incident/2070645,2021,07-2021
+315,315,2070310,2021-07-21,Illinois,Chicago,3300 block of W Douglas Blvd,2,3,https://www.gunviolencearchive.org/incident/2070310,2021,07-2021
+316,316,2068568,2021-07-20,Texas,Jacksonville,16241 TX-110,4,0,https://www.gunviolencearchive.org/incident/2068568,2021,07-2021
+317,317,2067728,2021-07-19,New Jersey,Perth Amboy,417 Fayette St,0,6,https://www.gunviolencearchive.org/incident/2067728,2021,07-2021
+318,318,2068061,2021-07-19,Illinois,Chicago,3308 W Flournoy St,0,4,https://www.gunviolencearchive.org/incident/2068061,2021,07-2021
+319,319,2066335,2021-07-18,Ohio,Toledo,5205 Telegraph Rd,1,3,https://www.gunviolencearchive.org/incident/2066335,2021,07-2021
+320,320,2067135,2021-07-18,Florida,Gainesville,1634 NE 8th Ave,1,4,https://www.gunviolencearchive.org/incident/2067135,2021,07-2021
+321,321,2066680,2021-07-18,North Carolina,Burlington,421 N Church St,0,4,https://www.gunviolencearchive.org/incident/2066680,2021,07-2021
+322,322,2066905,2021-07-18,Arizona,Tucson,1575 E 36th St,4,3,https://www.gunviolencearchive.org/incident/2066905,2021,07-2021
+323,323,2067290,2021-07-18,Texas,Houston,3421 Antoine Dr,3,2,https://www.gunviolencearchive.org/incident/2067290,2021,07-2021
+324,324,2066812,2021-07-18,California,Walnut Creek,SOS Dr and San Luis Rd,1,3,https://www.gunviolencearchive.org/incident/2066812,2021,07-2021
+325,325,2065252,2021-07-17,Oregon,Portland,300 block of SW 3rd Ave,1,6,https://www.gunviolencearchive.org/incident/2065252,2021,07-2021
+326,326,2066189,2021-07-17,Illinois,Chicago,5006 W Ohio St,0,6,https://www.gunviolencearchive.org/incident/2066189,2021,07-2021
+327,327,2065634,2021-07-16,California,Sacramento,L St and Front St,2,4,https://www.gunviolencearchive.org/incident/2065634,2021,07-2021
+328,328,2064260,2021-07-16,New Hampshire,Manchester,I 293 and Brown Ave,0,4,https://www.gunviolencearchive.org/incident/2064260,2021,07-2021
+329,329,2065009,2021-07-16,Pennsylvania,Philadelphia,2700 block of Ruby Terrace,1,4,https://www.gunviolencearchive.org/incident/2065009,2021,07-2021
+330,330,2066249,2021-07-16,South Carolina,Greenville,840 Mauldin Rd,1,3,https://www.gunviolencearchive.org/incident/2066249,2021,07-2021
+331,331,2064992,2021-07-16,District of Columbia,Washington,2900 block of MLK Ave SE,1,5,https://www.gunviolencearchive.org/incident/2064992,2021,07-2021
+332,332,2065118,2021-07-16,Illinois,Chicago,647 N Lockwood Ave,1,4,https://www.gunviolencearchive.org/incident/2065118,2021,07-2021
+333,333,2063495,2021-07-15,Texas,Levelland,1105 10th St,1,5,https://www.gunviolencearchive.org/incident/2063495,2021,07-2021
+334,334,2065533,2021-07-15,Massachusetts,Boston,265 Centre St,0,4,https://www.gunviolencearchive.org/incident/2065533,2021,07-2021
+335,335,2063897,2021-07-15,Missouri,Lake Ozark,1312 Bagnell Dam Blvd,1,3,https://www.gunviolencearchive.org/incident/2063897,2021,07-2021
+336,336,2062097,2021-07-14,Illinois,Chicago,4600 block of W Monroe St,0,5,https://www.gunviolencearchive.org/incident/2062097,2021,07-2021
+337,337,2062359,2021-07-14,Illinois,Chicago,1533 W 79th St,0,5,https://www.gunviolencearchive.org/incident/2062359,2021,07-2021
+338,338,2063394,2021-07-14,Delaware,Claymont,50 block of Balfour Ave,2,2,https://www.gunviolencearchive.org/incident/2063394,2021,07-2021
+339,339,2060865,2021-07-13,Indiana,Indianapolis,4200 block of Arborcrest Dr,0,4,https://www.gunviolencearchive.org/incident/2060865,2021,07-2021
+340,340,2060949,2021-07-13,Michigan,Detroit,9855 Chalmers St,1,6,https://www.gunviolencearchive.org/incident/2060949,2021,07-2021
+341,341,2060293,2021-07-12,New Jersey,Iselin,515 US-1,0,4,https://www.gunviolencearchive.org/incident/2060293,2021,07-2021
+342,342,2060706,2021-07-12,Pennsylvania,Beaver Falls,900 9th St,2,3,https://www.gunviolencearchive.org/incident/2060706,2021,07-2021
+343,343,2060605,2021-07-12,New York,Corona (Queens),180th St and 145th Dr,0,4,https://www.gunviolencearchive.org/incident/2060605,2021,07-2021
+344,344,2059440,2021-07-11,Texas,El Paso (Socorro),1300 Joe Battle Blvd,1,5,https://www.gunviolencearchive.org/incident/2059440,2021,07-2021
+345,345,2059404,2021-07-10,Pennsylvania,Philadelphia,W Butler St and N 9th St,0,6,https://www.gunviolencearchive.org/incident/2059404,2021,07-2021
+346,346,2058950,2021-07-10,Massachusetts,Boston,34 Cameron St,0,4,https://www.gunviolencearchive.org/incident/2058950,2021,07-2021
+347,347,2058837,2021-07-10,Ohio,Springfield,405 S Burnett Rd,1,3,https://www.gunviolencearchive.org/incident/2058837,2021,07-2021
+348,348,2058421,2021-07-09,California,Los Angeles,7114 W Manchester Ave,0,4,https://www.gunviolencearchive.org/incident/2058421,2021,07-2021
+349,349,2057427,2021-07-08,Connecticut,Hartford,Nelson St and Garden St,0,4,https://www.gunviolencearchive.org/incident/2057427,2021,07-2021
+350,350,2053262,2021-07-05,Ohio,Toledo,Lawrence Ave and Wall St,1,11,https://www.gunviolencearchive.org/incident/2053262,2021,07-2021
+351,351,2053500,2021-07-05,California,Santa Rosa,1500 block of Beachwood Dr,1,3,https://www.gunviolencearchive.org/incident/2053500,2021,07-2021
+352,352,2055252,2021-07-05,New York,Buffalo,50 block of Donovan Dr,1,3,https://www.gunviolencearchive.org/incident/2055252,2021,07-2021
+353,353,2053048,2021-07-05,Illinois,Chicago,6108 S Wabash Ave,2,4,https://www.gunviolencearchive.org/incident/2053048,2021,07-2021
+354,354,2052524,2021-07-04,California,Thermal,Jackson St and Airport Blvd,0,4,https://www.gunviolencearchive.org/incident/2052524,2021,07-2021
+355,355,2054233,2021-07-04,Ohio,Cleveland,Kinsman Rd and E 139th St,0,4,https://www.gunviolencearchive.org/incident/2054233,2021,07-2021
+356,356,2054132,2021-07-04,Illinois,Peoria,600 block of Haungs Ave,1,3,https://www.gunviolencearchive.org/incident/2054132,2021,07-2021
+357,357,2053508,2021-07-04,Nevada,North Las Vegas,1200 block of W Helen Ave,2,7,https://www.gunviolencearchive.org/incident/2053508,2021,07-2021
+358,358,2053563,2021-07-04,Illinois,Rantoul,400 block of S Maplewood Dr,0,5,https://www.gunviolencearchive.org/incident/2053563,2021,07-2021
+359,359,2052689,2021-07-04,Illinois,Danville,12 S College St,0,4,https://www.gunviolencearchive.org/incident/2052689,2021,07-2021
+360,360,2053786,2021-07-04,Missouri,Kansas City,E 43rd St and Indiana Ave,0,4,https://www.gunviolencearchive.org/incident/2053786,2021,07-2021
+361,361,2053346,2021-07-04,Texas,Dallas,8200 block of Towns St,3,3,https://www.gunviolencearchive.org/incident/2053346,2021,07-2021
+362,362,2053365,2021-07-04,Texas,Dallas,3700 Dixon Ave,0,5,https://www.gunviolencearchive.org/incident/2053365,2021,07-2021
+363,363,2052353,2021-07-04,Texas,Fort Worth,3400 block of Horne St,0,8,https://www.gunviolencearchive.org/incident/2052353,2021,07-2021
+364,364,2052342,2021-07-04,Nebraska,Omaha,2311 N 24th St,1,4,https://www.gunviolencearchive.org/incident/2052342,2021,07-2021
+365,365,2052058,2021-07-03,North Carolina,Chadbourn,Broadway Rd,3,1,https://www.gunviolencearchive.org/incident/2052058,2021,07-2021
+366,366,2051763,2021-07-03,Pennsylvania,Lancaster,50 block of W Orange St,0,4,https://www.gunviolencearchive.org/incident/2051763,2021,07-2021
+367,367,2052471,2021-07-03,Georgia,Swainsboro,229 S Main St,1,3,https://www.gunviolencearchive.org/incident/2052471,2021,07-2021
+368,368,2052346,2021-07-03,Illinois,Chicago,1000 block of W 89th St,0,4,https://www.gunviolencearchive.org/incident/2052346,2021,07-2021
+369,369,2050836,2021-07-02,Virginia,Norfolk,923 Madison Ave,0,4,https://www.gunviolencearchive.org/incident/2050836,2021,07-2021
+370,370,2051190,2021-07-02,Pennsylvania,Philadelphia,7700 block of Ogontz Ave,1,4,https://www.gunviolencearchive.org/incident/2051190,2021,07-2021
+371,371,2050972,2021-07-02,Illinois,Champaign,704 N Hickory St,1,4,https://www.gunviolencearchive.org/incident/2050972,2021,07-2021
+372,372,2050593,2021-07-01,Illinois,Chicago,6500 block of S Halsted St,0,7,https://www.gunviolencearchive.org/incident/2050593,2021,07-2021
+373,373,2050151,2021-07-01,South Carolina,Spartanburg,225 Amelia St,2,4,https://www.gunviolencearchive.org/incident/2050151,2021,07-2021
+374,374,2050353,2021-07-01,Virginia,Chesapeake,1200 block of Seaboard Ave,2,2,https://www.gunviolencearchive.org/incident/2050353,2021,07-2021
+375,375,2049419,2021-06-30,Illinois,Chicago,2200 block of S Millard Ave,0,4,https://www.gunviolencearchive.org/incident/2049419,2021,06-2021
+376,376,2049845,2021-06-30,Texas,Houston,12101 Fondren Rd,3,1,https://www.gunviolencearchive.org/incident/2049845,2021,06-2021
+377,377,2049907,2021-06-30,Louisiana,Marrero,6500 block of Lapalco Blvd,0,4,https://www.gunviolencearchive.org/incident/2049907,2021,06-2021
+378,378,2050167,2021-06-30,Delaware,Dover,100 block of S New St,1,3,https://www.gunviolencearchive.org/incident/2050167,2021,06-2021
+379,379,2046714,2021-06-27,Illinois,Chicago,2000 block of E 71st St,1,5,https://www.gunviolencearchive.org/incident/2046714,2021,06-2021
+380,380,2046574,2021-06-27,Illinois,Saint Charles,2051 Lincoln Hwy,1,3,https://www.gunviolencearchive.org/incident/2046574,2021,06-2021
+381,381,2046897,2021-06-27,Illinois,Chicago,6300 block of South Artesian Ave,1,10,https://www.gunviolencearchive.org/incident/2046897,2021,06-2021
+382,382,2047170,2021-06-27,Tennessee,Memphis,2500 block of Dunn Ave,3,1,https://www.gunviolencearchive.org/incident/2047170,2021,06-2021
+383,383,2047726,2021-06-27,North Carolina,Greensboro,801 Province Spring Cir,0,4,https://www.gunviolencearchive.org/incident/2047726,2021,06-2021
+384,384,2046781,2021-06-26,Texas,Houston,4902 Laura Koppe Rd,1,3,https://www.gunviolencearchive.org/incident/2046781,2021,06-2021
+385,385,2045579,2021-06-26,Illinois,Chicago,6100 block of N McCormick Blvd,1,3,https://www.gunviolencearchive.org/incident/2045579,2021,06-2021
+386,386,2047787,2021-06-26,Alabama,Fort Deposit,Forest Dr,1,3,https://www.gunviolencearchive.org/incident/2047787,2021,06-2021
+387,387,2045043,2021-06-25,Ohio,Columbus,I-670 and Neil Ave,0,4,https://www.gunviolencearchive.org/incident/2045043,2021,06-2021
+388,388,2045564,2021-06-25,Illinois,Chicago,7000 block of S Indiana Ave,0,4,https://www.gunviolencearchive.org/incident/2045564,2021,06-2021
+389,389,2044701,2021-06-25,New York,Bronx,Zerega Ave and Watson Ave,0,5,https://www.gunviolencearchive.org/incident/2044701,2021,06-2021
+390,390,2044733,2021-06-24,Florida,Gainesville,4701 NW 6th St,1,4,https://www.gunviolencearchive.org/incident/2044733,2021,06-2021
+391,391,2043834,2021-06-23,Alabama,Montgomery,100 block of Rotary St,2,2,https://www.gunviolencearchive.org/incident/2043834,2021,06-2021
+392,392,2043465,2021-06-23,New York,Buffalo,114 Hickory St,0,4,https://www.gunviolencearchive.org/incident/2043465,2021,06-2021
+393,393,2043898,2021-06-23,Illinois,Chicago,4900 block of W Hubbard St,0,4,https://www.gunviolencearchive.org/incident/2043898,2021,06-2021
+394,394,2043715,2021-06-23,Illinois,Chicago,7000 block of S Vincennes Ave,0,4,https://www.gunviolencearchive.org/incident/2043715,2021,06-2021
+395,395,2041726,2021-06-21,Missouri,Saint Louis,4002 Sullivan Ave,3,4,https://www.gunviolencearchive.org/incident/2041726,2021,06-2021
+396,396,2041555,2021-06-21,District of Columbia,Washington,300 block of 50th St NE,0,4,https://www.gunviolencearchive.org/incident/2041555,2021,06-2021
+397,397,2040643,2021-06-20,Virginia,Richmond,200 block of Crane St,1,3,https://www.gunviolencearchive.org/incident/2040643,2021,06-2021
+398,398,2041297,2021-06-20,California,Richmond,2108 Dunn Ave,3,5,https://www.gunviolencearchive.org/incident/2041297,2021,06-2021
+399,399,2040265,2021-06-20,Colorado,Aurora,12455 E Mississippi Ave,1,4,https://www.gunviolencearchive.org/incident/2040265,2021,06-2021
+400,400,2041363,2021-06-20,Florida,Wildwood,9605 Co Rd 235,1,10,https://www.gunviolencearchive.org/incident/2041363,2021,06-2021
+401,401,2040374,2021-06-20,Texas,Dallas,4619 E. R L Thornton Freeway,0,8,https://www.gunviolencearchive.org/incident/2040374,2021,06-2021
+402,402,2040243,2021-06-20,Indiana,Granger,7321 Heritage Square Dr,1,4,https://www.gunviolencearchive.org/incident/2040243,2021,06-2021
+403,403,2040991,2021-06-20,New Jersey,Atlantic City,1700 block of Atlantic Ave,1,3,https://www.gunviolencearchive.org/incident/2040991,2021,06-2021
+404,404,2040732,2021-06-20,Ohio,Cincinnati,3000 block of Borden St,1,3,https://www.gunviolencearchive.org/incident/2040732,2021,06-2021
+405,405,2039457,2021-06-19,Alaska,Anchorage,E 3rd Ave and Gambell St,1,4,https://www.gunviolencearchive.org/incident/2039457,2021,06-2021
+406,406,2039346,2021-06-19,Louisiana,Baton Rouge,7132 Florida Blvd,2,4,https://www.gunviolencearchive.org/incident/2039346,2021,06-2021
+407,407,2040013,2021-06-19,New Jersey,Newark,525 Elizabeth Ave,0,4,https://www.gunviolencearchive.org/incident/2040013,2021,06-2021
+408,408,2039964,2021-06-19,California,Oakland,2200 block of Lakeshore Ave,1,7,https://www.gunviolencearchive.org/incident/2039964,2021,06-2021
+409,409,2039441,2021-06-18,Minnesota,Minneapolis,400 block of 14th Ave SE,0,5,https://www.gunviolencearchive.org/incident/2039441,2021,06-2021
+410,410,2037813,2021-06-17,Virginia,Petersburg,Virginia Ave and Melville St,0,4,https://www.gunviolencearchive.org/incident/2037813,2021,06-2021
+411,411,2037887,2021-06-17,North Carolina,Durham,1600 block of Holloway St,2,2,https://www.gunviolencearchive.org/incident/2037887,2021,06-2021
+412,412,2038622,2021-06-17,Ohio,Cincinnati,3056 Mathers St,1,3,https://www.gunviolencearchive.org/incident/2038622,2021,06-2021
+413,413,2038152,2021-06-17,New Jersey,Paterson,Rosa Parks Blvd and Hamilton Ave,0,4,https://www.gunviolencearchive.org/incident/2038152,2021,06-2021
+414,414,2036635,2021-06-16,Maryland,Baltimore,2100 block of West Lexington St,1,5,https://www.gunviolencearchive.org/incident/2036635,2021,06-2021
+415,415,2036121,2021-06-15,Illinois,Chicago,3800 block of W Monroe,0,5,https://www.gunviolencearchive.org/incident/2036121,2021,06-2021
+416,416,2035452,2021-06-15,Illinois,Chicago,6221 S Morgan St,5,3,https://www.gunviolencearchive.org/incident/2035452,2021,06-2021
+417,417,2035313,2021-06-15,Alabama,Albertville,956 Industrial Blvd,3,2,https://www.gunviolencearchive.org/incident/2035313,2021,06-2021
+418,418,2035733,2021-06-14,Georgia,Columbus,3400 8th Ave,2,2,https://www.gunviolencearchive.org/incident/2035733,2021,06-2021
+419,419,2034408,2021-06-14,Michigan,Lansing,300 block of N Cedar St,2,2,https://www.gunviolencearchive.org/incident/2034408,2021,06-2021
+420,420,2034470,2021-06-14,Florida,Boynton Beach,I-95,1,3,https://www.gunviolencearchive.org/incident/2034470,2021,06-2021
+421,421,2033905,2021-06-13,Ohio,West Salem,9161 Rainbow Hwy,1,6,https://www.gunviolencearchive.org/incident/2033905,2021,06-2021
+422,422,2033605,2021-06-13,Kentucky,Louisville,5200 block of Robinwood Rd,1,3,https://www.gunviolencearchive.org/incident/2033605,2021,06-2021
+423,423,2032220,2021-06-12,Texas,Austin,400 block of E 6th St,1,14,https://www.gunviolencearchive.org/incident/2032220,2021,06-2021
+424,424,2032486,2021-06-12,Ohio,Cleveland,8805 Buckeye Rd,3,4,https://www.gunviolencearchive.org/incident/2032486,2021,06-2021
+425,425,2032203,2021-06-12,Illinois,Chicago,7500 block of S Prairie Ave,1,9,https://www.gunviolencearchive.org/incident/2032203,2021,06-2021
+426,426,2031801,2021-06-11,Washington,Seattle (White Center),9808 16th Ave SW,2,2,https://www.gunviolencearchive.org/incident/2031801,2021,06-2021
+427,427,2031976,2021-06-11,Georgia,Savannah,200 block of Avery St,2,6,https://www.gunviolencearchive.org/incident/2031976,2021,06-2021
+428,428,2032580,2021-06-11,North Carolina,Winston Salem (Winston-salem),844 E. Devonshire St,1,3,https://www.gunviolencearchive.org/incident/2032580,2021,06-2021
+429,429,2032282,2021-06-11,Texas,Dallas,378 N Jim Miller Rd,0,5,https://www.gunviolencearchive.org/incident/2032282,2021,06-2021
+430,430,2030720,2021-06-10,Michigan,Detroit,1600 block Calvert Ave,1,3,https://www.gunviolencearchive.org/incident/2030720,2021,06-2021
+431,431,2030639,2021-06-10,New York,Yonkers,150 Elm St,0,4,https://www.gunviolencearchive.org/incident/2030639,2021,06-2021
+432,432,2030708,2021-06-10,Illinois,Chicago,6530 S Claremont Ave,1,4,https://www.gunviolencearchive.org/incident/2030708,2021,06-2021
+433,433,2029078,2021-06-08,Tennessee,Nashville,Clarksville Pike and Buena Vista Pike,1,3,https://www.gunviolencearchive.org/incident/2029078,2021,06-2021
+434,434,2028745,2021-06-08,Tennessee,Memphis,2246 Eldridge Ave,1,4,https://www.gunviolencearchive.org/incident/2028745,2021,06-2021
+435,435,2028928,2021-06-08,Texas,Houston,4115 Washington Ave,0,5,https://www.gunviolencearchive.org/incident/2028928,2021,06-2021
+436,436,2027736,2021-06-07,Ohio,Cleveland,4100 block of E 81st St,0,6,https://www.gunviolencearchive.org/incident/2027736,2021,06-2021
+437,437,2027046,2021-06-07,Florida,Homestead,12550 SW 282nd St,3,3,https://www.gunviolencearchive.org/incident/2027046,2021,06-2021
+438,438,2026802,2021-06-06,Missouri,Saint Louis,100 N 7th St,0,4,https://www.gunviolencearchive.org/incident/2026802,2021,06-2021
+439,439,2026651,2021-06-06,North Carolina,Snow Hill,50 block of Katie Ct,0,4,https://www.gunviolencearchive.org/incident/2026651,2021,06-2021
+440,440,2027725,2021-06-06,Ohio,Cleveland,3700 block of Woodbridge Ave,0,8,https://www.gunviolencearchive.org/incident/2027725,2021,06-2021
+441,441,2026713,2021-06-06,Utah,Salt Lake City,1354 N General Dr,1,4,https://www.gunviolencearchive.org/incident/2026713,2021,06-2021
+442,442,2026123,2021-06-06,Florida,Miami (Kendall),10549 SW 109th Ct,3,6,https://www.gunviolencearchive.org/incident/2026123,2021,06-2021
+443,443,2027375,2021-06-06,California,Oakland,5100 block of Ygnacio Ave,0,5,https://www.gunviolencearchive.org/incident/2027375,2021,06-2021
+444,444,2026112,2021-06-06,Illinois,Chicago,8900 block of S Cottage Grove Ave,0,8,https://www.gunviolencearchive.org/incident/2026112,2021,06-2021
+445,445,2026257,2021-06-05,Louisiana,New Orleans,10150 I-10 Service Rd,0,9,https://www.gunviolencearchive.org/incident/2026257,2021,06-2021
+446,446,2025260,2021-06-05,Indiana,Indianapolis,7500 N Shadeland Ave,2,2,https://www.gunviolencearchive.org/incident/2025260,2021,06-2021
+447,447,2025891,2021-06-04,Michigan,Muskegon,1675 E. Sherman Blvd,1,3,https://www.gunviolencearchive.org/incident/2025891,2021,06-2021
+448,448,2022821,2021-06-02,Ohio,Toledo,1830 W Bancroft St,0,4,https://www.gunviolencearchive.org/incident/2022821,2021,06-2021
+449,449,2025254,2021-06-02,Arkansas,Magnolia,Calhoun Rd,0,4,https://www.gunviolencearchive.org/incident/2025254,2021,06-2021
+450,450,2022391,2021-06-02,Ohio,Springfield,1935 S Yellow Springs St,0,6,https://www.gunviolencearchive.org/incident/2022391,2021,06-2021
+451,451,2021130,2021-05-31,New York,Brooklyn,Knickerbocker Ave,0,4,https://www.gunviolencearchive.org/incident/2021130,2021,05-2021
+452,452,2021398,2021-05-31,Missouri,Saint Louis,8800 block of N Broadway,0,4,https://www.gunviolencearchive.org/incident/2021398,2021,05-2021
+453,453,2022129,2021-05-31,Ohio,Cleveland (Garfield Heights),13000 block of Alvin Ave,1,5,https://www.gunviolencearchive.org/incident/2022129,2021,05-2021
+454,454,2019751,2021-05-30,Alabama,Aliceville,7th Street NE,1,4,https://www.gunviolencearchive.org/incident/2019751,2021,05-2021
+455,455,2019622,2021-05-30,Florida,Hialeah,7630 NW 186th St,3,20,https://www.gunviolencearchive.org/incident/2019622,2021,05-2021
+456,456,2020535,2021-05-30,Illinois,Chicago,6718 S Stony Island Ave,0,4,https://www.gunviolencearchive.org/incident/2020535,2021,05-2021
+457,457,2019155,2021-05-29,Texas,San Antonio,3300 block of Fallen Leaf Ln,2,2,https://www.gunviolencearchive.org/incident/2019155,2021,05-2021
+458,458,2019384,2021-05-29,Missouri,Saint Louis,10466 W Florissant Ave,1,3,https://www.gunviolencearchive.org/incident/2019384,2021,05-2021
+459,459,2018931,2021-05-28,Florida,Miami,2022 NW 1st Ct,1,6,https://www.gunviolencearchive.org/incident/2018931,2021,05-2021
+460,460,2018495,2021-05-27,North Carolina,Durham,1200 block of Fayetteville St,0,5,https://www.gunviolencearchive.org/incident/2018495,2021,05-2021
+461,461,2015849,2021-05-26,Illinois,Chicago,7200 block of S Princeton Ave,1,3,https://www.gunviolencearchive.org/incident/2015849,2021,05-2021
+462,462,2015730,2021-05-26,California,San Jose,101 W Younger Ave,10,0,https://www.gunviolencearchive.org/incident/2015730,2021,05-2021
+463,463,2014343,2021-05-24,Michigan,Inkster,27000 block of Rosewood St,2,2,https://www.gunviolencearchive.org/incident/2014343,2021,05-2021
+464,464,2014381,2021-05-24,Ohio,West Jefferson,127 Jackson St,4,0,https://www.gunviolencearchive.org/incident/2014381,2021,05-2021
+465,465,2012971,2021-05-23,Illinois,Chicago,3344 W Ohio St,0,4,https://www.gunviolencearchive.org/incident/2012971,2021,05-2021
+466,466,2013595,2021-05-23,New York,Bay Shore,135 S Clinton Ave,0,4,https://www.gunviolencearchive.org/incident/2013595,2021,05-2021
+467,467,2013059,2021-05-23,New Jersey,Paterson,Hillman St and E Main St,0,5,https://www.gunviolencearchive.org/incident/2013059,2021,05-2021
+468,468,2013096,2021-05-23,Virginia,Norfolk,3100 block of Westminster Ave,0,4,https://www.gunviolencearchive.org/incident/2013096,2021,05-2021
+469,469,2012765,2021-05-22,South Carolina,North Charleston,Piggly Wiggly Dr and W Jimtown Dr,1,14,https://www.gunviolencearchive.org/incident/2012765,2021,05-2021
+470,470,2012345,2021-05-22,Delaware,Wilmington,800 block of N Pine St,0,4,https://www.gunviolencearchive.org/incident/2012345,2021,05-2021
+471,471,2011569,2021-05-22,Minnesota,Minneapolis,322 N 1st Ave,2,7,https://www.gunviolencearchive.org/incident/2011569,2021,05-2021
+472,472,2013043,2021-05-22,Ohio,Columbus,233 S Civic Center Dr,1,5,https://www.gunviolencearchive.org/incident/2013043,2021,05-2021
+473,473,2011610,2021-05-22,Indiana,Fort Wayne,2177 Eden St,1,4,https://www.gunviolencearchive.org/incident/2011610,2021,05-2021
+474,474,2012633,2021-05-22,New Jersey,Bridgeton,1029 E Commerce St,3,11,https://www.gunviolencearchive.org/incident/2012633,2021,05-2021
+475,475,2011077,2021-05-21,New York,Albany,1st St and Quail St,1,5,https://www.gunviolencearchive.org/incident/2011077,2021,05-2021
+476,476,2011482,2021-05-21,New Jersey,Jersey City,16 Brinkerhoff St,2,4,https://www.gunviolencearchive.org/incident/2011482,2021,05-2021
+477,477,2010083,2021-05-20,Indiana,Evansville,800 block of Shadewood Ave,1,3,https://www.gunviolencearchive.org/incident/2010083,2021,05-2021
+478,478,2007722,2021-05-18,California,Oakland,I-580 and Seminary Ave,2,5,https://www.gunviolencearchive.org/incident/2007722,2021,05-2021
+479,479,2008415,2021-05-18,California,Hemet,1200 block of Valencia Ave,1,4,https://www.gunviolencearchive.org/incident/2008415,2021,05-2021
+480,480,2005991,2021-05-16,Ohio,Cincinnati,7751 Reading Rd,1,3,https://www.gunviolencearchive.org/incident/2005991,2021,05-2021
+481,481,2005776,2021-05-16,Georgia,Atlanta,630 Travis St NW,0,4,https://www.gunviolencearchive.org/incident/2005776,2021,05-2021
+482,482,2005671,2021-05-16,Michigan,East Lansing,6170 Abbot Rd,0,5,https://www.gunviolencearchive.org/incident/2005671,2021,05-2021
+483,483,2006621,2021-05-16,Georgia,Columbus,2727 Manchester Expy,0,4,https://www.gunviolencearchive.org/incident/2006621,2021,05-2021
+484,484,2006204,2021-05-16,Georgia,Stone Mountain,4766 Redan Rd,1,5,https://www.gunviolencearchive.org/incident/2006204,2021,05-2021
+485,485,2005813,2021-05-16,Alabama,Birmingham,1010 18th St S,1,4,https://www.gunviolencearchive.org/incident/2005813,2021,05-2021
+486,486,2005238,2021-05-15,District of Columbia,Washington,3900 block of Minnesota Ave NE,1,3,https://www.gunviolencearchive.org/incident/2005238,2021,05-2021
+487,487,2005196,2021-05-15,New York,Bronx,1625 Webster Ave,1,4,https://www.gunviolencearchive.org/incident/2005196,2021,05-2021
+488,488,2004666,2021-05-15,Illinois,Chicago,7800 block of S Loomis St,2,3,https://www.gunviolencearchive.org/incident/2004666,2021,05-2021
+489,489,2004413,2021-05-14,Pennsylvania,Philadelphia,5600 block of Market St,0,4,https://www.gunviolencearchive.org/incident/2004413,2021,05-2021
+490,490,2003383,2021-05-13,Georgia,Augusta,201 E Telfair St,2,2,https://www.gunviolencearchive.org/incident/2003383,2021,05-2021
+491,491,2003167,2021-05-13,District of Columbia,Washington,200 block of 37th Pl SE,1,3,https://www.gunviolencearchive.org/incident/2003167,2021,05-2021
+492,492,2003334,2021-05-13,Rhode Island,Providence,87 Carolina Ave,0,8,https://www.gunviolencearchive.org/incident/2003334,2021,05-2021
+493,493,2002269,2021-05-12,Pennsylvania,Philadelphia,5500 block of Kingsessing Ave,1,3,https://www.gunviolencearchive.org/incident/2002269,2021,05-2021
+494,494,2002286,2021-05-12,Georgia,Buford,2910 Buford Dr NE,2,2,https://www.gunviolencearchive.org/incident/2002286,2021,05-2021
+495,495,2001137,2021-05-11,Maryland,Baltimore,800 block of W Lexington St,0,4,https://www.gunviolencearchive.org/incident/2001137,2021,05-2021
+496,496,2001362,2021-05-10,Alabama,Montgomery,3804 S Court St,0,7,https://www.gunviolencearchive.org/incident/2001362,2021,05-2021
+497,497,1999417,2021-05-09,Pennsylvania,Philadelphia,100 block of E Albanus St,2,3,https://www.gunviolencearchive.org/incident/1999417,2021,05-2021
+498,498,1999125,2021-05-09,Colorado,Colorado Springs,2828 Preakness Way,7,0,https://www.gunviolencearchive.org/incident/1999125,2021,05-2021
+499,499,1999193,2021-05-09,Arizona,Phoenix,122 N 2nd St,1,7,https://www.gunviolencearchive.org/incident/1999193,2021,05-2021
+500,500,1999909,2021-05-09,California,Los Angeles,6112 W Afton Pl,1,3,https://www.gunviolencearchive.org/incident/1999909,2021,05-2021
+501,501,2000132,2021-05-09,South Carolina,Charleston,500 Block of King St,0,5,https://www.gunviolencearchive.org/incident/2000132,2021,05-2021
+502,502,1999423,2021-05-09,New Jersey,Newark,378 Chancellor Ave,0,4,https://www.gunviolencearchive.org/incident/1999423,2021,05-2021
+503,503,1998865,2021-05-08,California,Citrus Heights,7440 Auburn Blvd,0,4,https://www.gunviolencearchive.org/incident/1998865,2021,05-2021
+504,504,1998693,2021-05-08,California,Oakland,1440 block of Lakeshore Ave,0,4,https://www.gunviolencearchive.org/incident/1998693,2021,05-2021
+505,505,1998476,2021-05-08,Maryland,Gwynn Oak (Woodlawn),7300 block of Maury Rd,4,1,https://www.gunviolencearchive.org/incident/1998476,2021,05-2021
+506,506,1998537,2021-05-08,Michigan,Detroit,15700 block of Plymouth Rd,0,4,https://www.gunviolencearchive.org/incident/1998537,2021,05-2021
+507,507,1999307,2021-05-08,California,Compton,15100 block of S Lime Ave,2,2,https://www.gunviolencearchive.org/incident/1999307,2021,05-2021
+508,508,1998602,2021-05-08,Wisconsin,Milwaukee,900 block of S 10th St,0,4,https://www.gunviolencearchive.org/incident/1998602,2021,05-2021
+509,509,1998067,2021-05-07,Missouri,Saint Louis (Kinloch),5541 Mable Ave,2,4,https://www.gunviolencearchive.org/incident/1998067,2021,05-2021
+510,510,1999434,2021-05-06,New Jersey,Paterson,22nd Ave and E 30th St,0,5,https://www.gunviolencearchive.org/incident/1999434,2021,05-2021
+511,511,1996236,2021-05-05,Illinois,Chicago,6900 block of S Cornell Ave,0,4,https://www.gunviolencearchive.org/incident/1996236,2021,05-2021
+512,512,1993551,2021-05-03,Michigan,Saginaw,1315 Randolph St,1,4,https://www.gunviolencearchive.org/incident/1993551,2021,05-2021
+513,513,1993090,2021-05-02,Ohio,Columbus,491 Park St,0,4,https://www.gunviolencearchive.org/incident/1993090,2021,05-2021
+514,514,1993664,2021-05-02,Pennsylvania,Philadelphia,5200 block of Burton St,1,3,https://www.gunviolencearchive.org/incident/1993664,2021,05-2021
+515,515,1993221,2021-05-02,Maryland,Baltimore,1500 block of Washington Blvd,1,3,https://www.gunviolencearchive.org/incident/1993221,2021,05-2021
+516,516,1993280,2021-05-02,Illinois,Chicago,2100 block of W Adams St,0,5,https://www.gunviolencearchive.org/incident/1993280,2021,05-2021
+517,517,1992570,2021-05-02,Minnesota,Saint Paul,843 Selby Ave,0,4,https://www.gunviolencearchive.org/incident/1992570,2021,05-2021
+518,518,1992127,2021-05-01,Delaware,Wilmington,800 block of N Pine St,0,4,https://www.gunviolencearchive.org/incident/1992127,2021,05-2021
+519,519,1992534,2021-05-01,Louisiana,New Orleans,St Bernard Ave and N Claiborne Ave,2,4,https://www.gunviolencearchive.org/incident/1992534,2021,05-2021
+520,520,1992410,2021-05-01,New York,New Rochelle,Horton Ave and Brook St,1,4,https://www.gunviolencearchive.org/incident/1992410,2021,05-2021
+521,521,1992490,2021-05-01,Massachusetts,Holyoke,209 South St,0,5,https://www.gunviolencearchive.org/incident/1992490,2021,05-2021
+522,522,1992469,2021-05-01,Florida,Clewiston,1117 Harlem Academy Ave,1,3,https://www.gunviolencearchive.org/incident/1992469,2021,05-2021
+523,523,1990821,2021-04-29,Georgia,Atlanta,2300 block of Polar Rock Terrace SW,1,5,https://www.gunviolencearchive.org/incident/1990821,2021,04-2021
+524,524,1990600,2021-04-28,Florida,Miami,2100 block of NW 85th St,0,5,https://www.gunviolencearchive.org/incident/1990600,2021,04-2021
+525,525,1989840,2021-04-28,North Carolina,Boone,553 Hardaman Cir,5,0,https://www.gunviolencearchive.org/incident/1989840,2021,04-2021
+526,526,1988688,2021-04-27,Virginia,Richmond,4000 Midlothian Turnpike,2,3,https://www.gunviolencearchive.org/incident/1988688,2021,04-2021
+527,527,1989023,2021-04-27,Alabama,Fairfield,200 block of Glen Crest Dr,1,4,https://www.gunviolencearchive.org/incident/1989023,2021,04-2021
+528,528,1987241,2021-04-26,Louisiana,Houma,656 Corporate Dr,0,5,https://www.gunviolencearchive.org/incident/1987241,2021,04-2021
+529,529,1988326,2021-04-26,Oregon,Gresham,SE Stark St and SE 174th Ave,0,7,https://www.gunviolencearchive.org/incident/1988326,2021,04-2021
+530,530,1991347,2021-04-25,Texas,Palestine,1101 W Palestine Ave,0,4,https://www.gunviolencearchive.org/incident/1991347,2021,04-2021
+531,531,1986770,2021-04-25,Missouri,Kansas City,E 18th St and Vine St,1,4,https://www.gunviolencearchive.org/incident/1986770,2021,04-2021
+532,532,1987235,2021-04-25,Alabama,Phenix City,1700 Highway 280 Bypass,0,4,https://www.gunviolencearchive.org/incident/1987235,2021,04-2021
+533,533,1986593,2021-04-25,Arkansas,Little Rock,1900 E 6th St,1,3,https://www.gunviolencearchive.org/incident/1986593,2021,04-2021
+534,534,1985432,2021-04-24,Louisiana,New Orleans,100 block of Bourbon St,0,5,https://www.gunviolencearchive.org/incident/1985432,2021,04-2021
+535,535,1984807,2021-04-22,California,San Diego,500 block of J St,1,4,https://www.gunviolencearchive.org/incident/1984807,2021,04-2021
+536,536,1981805,2021-04-19,Texas,Houston,700 E Whitney St,2,4,https://www.gunviolencearchive.org/incident/1981805,2021,04-2021
+537,537,1982260,2021-04-19,Georgia,Atlanta,1191 Oakland Ln SW,0,5,https://www.gunviolencearchive.org/incident/1982260,2021,04-2021
+538,538,1980689,2021-04-18,Wisconsin,Kenosha,1548 Sheridan Rd,3,3,https://www.gunviolencearchive.org/incident/1980689,2021,04-2021
+539,539,1981521,2021-04-18,Michigan,Detroit,Ward Ave and W McNichols Rd,1,5,https://www.gunviolencearchive.org/incident/1981521,2021,04-2021
+540,540,1981353,2021-04-18,Louisiana,Shreveport,3701 Hearne Ave,0,6,https://www.gunviolencearchive.org/incident/1981353,2021,04-2021
+541,541,1982020,2021-04-18,Alabama,Montgomery,2300 block of Day St,1,4,https://www.gunviolencearchive.org/incident/1982020,2021,04-2021
+542,542,1980492,2021-04-17,Ohio,Columbus,5001 Chatterton Rd,1,5,https://www.gunviolencearchive.org/incident/1980492,2021,04-2021
+543,543,1980971,2021-04-17,Louisiana,La Place (Laplace),624 Golfview Dr,0,9,https://www.gunviolencearchive.org/incident/1980971,2021,04-2021
+544,544,1979684,2021-04-16,Michigan,Detroit,Conant St and Minnesota St,0,4,https://www.gunviolencearchive.org/incident/1979684,2021,04-2021
+545,545,1978635,2021-04-15,Indiana,Indianapolis,8951 Mirabel Rd,9,7,https://www.gunviolencearchive.org/incident/1978635,2021,04-2021
+546,546,1978561,2021-04-15,District of Columbia,Washington,1800 block of West Virginia Ave NE,0,4,https://www.gunviolencearchive.org/incident/1978561,2021,04-2021
+547,547,1979869,2021-04-15,Louisiana,Lake Charles,4101 5th Ave,1,3,https://www.gunviolencearchive.org/incident/1979869,2021,04-2021
+548,548,1978616,2021-04-15,Florida,Pensacola,700 Truman Ave,0,6,https://www.gunviolencearchive.org/incident/1978616,2021,04-2021
+549,549,1978652,2021-04-15,Illinois,Chicago,600 block of N Sawyer Ave,0,4,https://www.gunviolencearchive.org/incident/1978652,2021,04-2021
+550,550,1976538,2021-04-13,Maryland,Baltimore,2300 block of Hoffman St,0,4,https://www.gunviolencearchive.org/incident/1976538,2021,04-2021
+551,551,1974943,2021-04-11,Kansas,Wichita,200 block of N Battin St,1,3,https://www.gunviolencearchive.org/incident/1974943,2021,04-2021
+552,552,1975004,2021-04-11,Washington,Seattle,306 23rd Ave S,0,4,https://www.gunviolencearchive.org/incident/1975004,2021,04-2021
+553,553,1974088,2021-04-10,Tennessee,Memphis,385 Western Park Dr,1,3,https://www.gunviolencearchive.org/incident/1974088,2021,04-2021
+554,554,1973809,2021-04-10,Michigan,Allendale,4926 Becker Dr,0,4,https://www.gunviolencearchive.org/incident/1973809,2021,04-2021
+555,555,1973692,2021-04-10,Missouri,Koshkonong,US-63 and MO-F,1,3,https://www.gunviolencearchive.org/incident/1973692,2021,04-2021
+556,556,1975405,2021-04-10,Connecticut,Waterbury,36 Gasparri Ln,0,4,https://www.gunviolencearchive.org/incident/1975405,2021,04-2021
+557,557,1973844,2021-04-09,Texas,Fort Worth,2000 block of SW Loop 820,1,5,https://www.gunviolencearchive.org/incident/1973844,2021,04-2021
+558,558,1972187,2021-04-08,Texas,Bryan,350 Stone City Dr,1,5,https://www.gunviolencearchive.org/incident/1972187,2021,04-2021
+559,559,1971410,2021-04-07,South Carolina,Rock Hill,4456 Marshall Rd,7,0,https://www.gunviolencearchive.org/incident/1971410,2021,04-2021
+560,560,1970937,2021-04-07,Wisconsin,Milwaukee,2627 W Capitol Dr,2,3,https://www.gunviolencearchive.org/incident/1970937,2021,04-2021
+561,561,1973435,2021-04-07,Ohio,Dayton,Hoover Ave and Summit Square,0,4,https://www.gunviolencearchive.org/incident/1973435,2021,04-2021
+562,562,1969899,2021-04-06,District of Columbia,Washington,4100 block of Ames St NE,0,4,https://www.gunviolencearchive.org/incident/1969899,2021,04-2021
+563,563,1970245,2021-04-06,Michigan,Detroit,6100 block of Lodewyck St,1,3,https://www.gunviolencearchive.org/incident/1970245,2021,04-2021
+564,564,1970378,2021-04-05,Illinois,Chicago,6800 block of S Justine Ave,0,7,https://www.gunviolencearchive.org/incident/1970378,2021,04-2021
+565,565,1969065,2021-04-05,Maryland,Baltimore,300 block of N Eutaw St,0,5,https://www.gunviolencearchive.org/incident/1969065,2021,04-2021
+566,566,1968887,2021-04-04,Alabama,Birmingham,3969 14th Ave N,1,5,https://www.gunviolencearchive.org/incident/1968887,2021,04-2021
+567,567,1969505,2021-04-04,Louisiana,Monroe,207 Sterlington Rd,0,6,https://www.gunviolencearchive.org/incident/1969505,2021,04-2021
+568,568,1969633,2021-04-04,Texas,Beaumont,6035 S M L King Jr Pkwy,0,4,https://www.gunviolencearchive.org/incident/1969633,2021,04-2021
+569,569,1967914,2021-04-03,North Carolina,Wilmington,718 Kidder St,3,4,https://www.gunviolencearchive.org/incident/1967914,2021,04-2021
+570,570,1967893,2021-04-03,Alabama,Tuscaloosa,2314 4th St,0,5,https://www.gunviolencearchive.org/incident/1967893,2021,04-2021
+571,571,1969221,2021-04-03,Texas,Allen,1517 Pine Bluff Dr,6,0,https://www.gunviolencearchive.org/incident/1969221,2021,04-2021
+572,572,1968553,2021-04-03,Florida,Quincy,2114 Pat Thomas Parkway,0,7,https://www.gunviolencearchive.org/incident/1968553,2021,04-2021
+573,573,1966181,2021-03-31,California,Orange,202 West Lincoln Ave,4,2,https://www.gunviolencearchive.org/incident/1966181,2021,03-2021
+574,574,1965890,2021-03-31,District of Columbia,Washington,1300 block of Congress St SE,2,3,https://www.gunviolencearchive.org/incident/1965890,2021,03-2021
+575,575,1963556,2021-03-28,Ohio,Cleveland,5100 Pearl Rd,0,7,https://www.gunviolencearchive.org/incident/1963556,2021,03-2021
+576,576,1963598,2021-03-28,Maryland,Essex,1601 Middleborough Rd,5,1,https://www.gunviolencearchive.org/incident/1963598,2021,03-2021
+577,577,1964030,2021-03-28,Texas,San Antonio,2011 Dollarhide Ave,0,4,https://www.gunviolencearchive.org/incident/1964030,2021,03-2021
+578,578,1964085,2021-03-28,Illinois,Chicago,I-57 and W 127th St,0,4,https://www.gunviolencearchive.org/incident/1964085,2021,03-2021
+579,579,1963052,2021-03-27,Illinois,Chicago,500 block of N Leamington Ave,0,4,https://www.gunviolencearchive.org/incident/1963052,2021,03-2021
+580,580,1962934,2021-03-27,Mississippi,Yazoo City,Dr Martin Luther King Jr Dr and Shady Dr,0,6,https://www.gunviolencearchive.org/incident/1962934,2021,03-2021
+581,581,1962686,2021-03-27,Illinois,River Grove,Belmont Ave,1,3,https://www.gunviolencearchive.org/incident/1962686,2021,03-2021
+582,582,1962562,2021-03-26,Virginia,Virginia Beach,2000 block of Atlantic Ave,0,9,https://www.gunviolencearchive.org/incident/1962562,2021,03-2021
+583,583,1964271,2021-03-26,Virginia,Norfolk,100 block of W Balview Ave,0,4,https://www.gunviolencearchive.org/incident/1964271,2021,03-2021
+584,584,1962890,2021-03-26,Tennessee,Memphis,500 block of Arrington Ave,3,2,https://www.gunviolencearchive.org/incident/1962890,2021,03-2021
+585,585,1961753,2021-03-26,Illinois,Chicago,2515 W 79th St,1,7,https://www.gunviolencearchive.org/incident/1961753,2021,03-2021
+586,586,1962507,2021-03-26,Pennsylvania,Philadelphia,1080 N Delaware Ave,0,7,https://www.gunviolencearchive.org/incident/1962507,2021,03-2021
+587,587,1960283,2021-03-23,Alabama,Aliceville,1st Ave SW and 15th St,2,2,https://www.gunviolencearchive.org/incident/1960283,2021,03-2021
+588,588,1958652,2021-03-22,Colorado,Boulder,3600 Table Mesa Dr,10,1,https://www.gunviolencearchive.org/incident/1958652,2021,03-2021
+589,589,1959549,2021-03-22,Michigan,Detroit,13300 block of Davidson St,1,3,https://www.gunviolencearchive.org/incident/1959549,2021,03-2021
+590,590,1957188,2021-03-20,Texas,Houston,10266 North Fwy,0,5,https://www.gunviolencearchive.org/incident/1957188,2021,03-2021
+591,591,1957226,2021-03-20,Texas,Dallas,10333 Technology Blvd,1,7,https://www.gunviolencearchive.org/incident/1957226,2021,03-2021
+592,592,1957252,2021-03-20,Pennsylvania,Philadelphia,4234 Germantown Ave,1,5,https://www.gunviolencearchive.org/incident/1957252,2021,03-2021
+593,593,1956081,2021-03-18,Oregon,Gresham,750 E Powell Blvd,0,4,https://www.gunviolencearchive.org/incident/1956081,2021,03-2021
+594,594,1955948,2021-03-18,Louisiana,New Orleans,2400 Annette St,0,4,https://www.gunviolencearchive.org/incident/1955948,2021,03-2021
+595,595,1956001,2021-03-17,California,Stockton,Oro Ave and E Main St,0,5,https://www.gunviolencearchive.org/incident/1956001,2021,03-2021
+596,596,1954379,2021-03-16,Georgia,Acworth,6468 Hwy 92,8,1,https://www.gunviolencearchive.org/incident/1954379,2021,03-2021
+597,597,1954950,2021-03-16,Arizona,Phoenix,6215 W Elm St,4,1,https://www.gunviolencearchive.org/incident/1954950,2021,03-2021
+598,598,1953309,2021-03-15,Indiana,Indianapolis,2300 block of N Harding St,1,4,https://www.gunviolencearchive.org/incident/1953309,2021,03-2021
+599,599,1952662,2021-03-14,Illinois,Chicago,2600 block of E 77th St,0,4,https://www.gunviolencearchive.org/incident/1952662,2021,03-2021
+600,600,1953202,2021-03-14,Florida,Tampa,10101 US-92,0,4,https://www.gunviolencearchive.org/incident/1953202,2021,03-2021
+601,601,1952281,2021-03-14,Illinois,Chicago,6798 block of S South Chicago Ave,2,13,https://www.gunviolencearchive.org/incident/1952281,2021,03-2021
+602,602,1952151,2021-03-13,New York,Brooklyn,917 Flushing Ave,0,5,https://www.gunviolencearchive.org/incident/1952151,2021,03-2021
+603,603,1951738,2021-03-13,Virginia,Richmond,5100 block of Richmond Henrico Tpke,2,4,https://www.gunviolencearchive.org/incident/1951738,2021,03-2021
+604,604,1951681,2021-03-13,Florida,Orlando,200 block of Ring Rd,1,3,https://www.gunviolencearchive.org/incident/1951681,2021,03-2021
+605,605,1952161,2021-03-13,Indiana,Indianapolis,300 block of N Randolph St,4,1,https://www.gunviolencearchive.org/incident/1952161,2021,03-2021
+606,606,1951476,2021-03-12,North Carolina,Greensboro,100 block of Huffman St,1,3,https://www.gunviolencearchive.org/incident/1951476,2021,03-2021
+607,607,1951383,2021-03-12,Texas,Austin,7408 Cameron Rd,0,4,https://www.gunviolencearchive.org/incident/1951383,2021,03-2021
+608,608,1950346,2021-03-11,New Mexico,Ohkay Owingeh,89 Co Rd 56,1,3,https://www.gunviolencearchive.org/incident/1950346,2021,03-2021
+609,609,1950471,2021-03-11,Pennsylvania,Philadelphia,1400 block of N 76th St,2,2,https://www.gunviolencearchive.org/incident/1950471,2021,03-2021
+610,610,1949977,2021-03-10,Texas,Houston,6300 Ranchester Dr,3,1,https://www.gunviolencearchive.org/incident/1949977,2021,03-2021
+611,611,1948233,2021-03-08,Florida,Clearwater,US-19 ALT and Drew St,1,3,https://www.gunviolencearchive.org/incident/1948233,2021,03-2021
+612,612,1948470,2021-03-07,Mississippi,Edwards,607 Wallace Dr,0,4,https://www.gunviolencearchive.org/incident/1948470,2021,03-2021
+613,613,1947241,2021-03-06,California,Yuba City,Countryside Dr and Littlejohn Dr,2,3,https://www.gunviolencearchive.org/incident/1947241,2021,03-2021
+614,614,1945999,2021-03-06,North Carolina,Fayetteville,200 block of Shads Ford Blvd,1,4,https://www.gunviolencearchive.org/incident/1945999,2021,03-2021
+615,615,1946991,2021-03-05,California,Compton,609 N Long Beach Blvd,1,4,https://www.gunviolencearchive.org/incident/1946991,2021,03-2021
+616,616,1944507,2021-03-04,District of Columbia,Washington,3900 Martin Luther King Jr Ave SW,0,5,https://www.gunviolencearchive.org/incident/1944507,2021,03-2021
+617,617,1943986,2021-03-03,Pennsylvania,Erie,2105 Buffalo Rd,2,3,https://www.gunviolencearchive.org/incident/1943986,2021,03-2021
+618,618,1941382,2021-02-28,Ohio,Cincinnati,3600 block of Idlewild Ave,3,3,https://www.gunviolencearchive.org/incident/1941382,2021,02-2021
+619,619,1941669,2021-02-28,Indiana,East Chicago,1205 W Chicago Ave,0,4,https://www.gunviolencearchive.org/incident/1941669,2021,02-2021
+620,620,1940791,2021-02-28,Delaware,Dover,21 S Little Creek Rd,0,4,https://www.gunviolencearchive.org/incident/1940791,2021,02-2021
+621,621,1941647,2021-02-28,South Carolina,Mccormick,437 Talbert Rd,0,4,https://www.gunviolencearchive.org/incident/1941647,2021,02-2021
+622,622,1941444,2021-02-28,Louisiana,Shreveport,4914 Mansfield Rd,0,5,https://www.gunviolencearchive.org/incident/1941444,2021,02-2021
+623,623,1941210,2021-02-28,Texas,Houston,13484 Northwest Fwy,0,4,https://www.gunviolencearchive.org/incident/1941210,2021,02-2021
+624,624,1943271,2021-02-27,Mississippi,Columbus,1200 block of 7th St S,0,4,https://www.gunviolencearchive.org/incident/1943271,2021,02-2021
+625,625,1940190,2021-02-27,Mississippi,Pattison,Pattison-Tillman Rd,2,3,https://www.gunviolencearchive.org/incident/1940190,2021,02-2021
+626,626,1939789,2021-02-26,Louisiana,Baton Rouge,4700 block of Paige St,0,4,https://www.gunviolencearchive.org/incident/1939789,2021,02-2021
+627,627,1940069,2021-02-26,Texas,Houston,8708 Beechnut St,1,5,https://www.gunviolencearchive.org/incident/1940069,2021,02-2021
+628,628,1939958,2021-02-26,California,San Diego,841 S 45th St,1,3,https://www.gunviolencearchive.org/incident/1939958,2021,02-2021
+629,629,1934704,2021-02-21,Missouri,Kennett,1615 1st St,1,4,https://www.gunviolencearchive.org/incident/1934704,2021,02-2021
+630,630,1935235,2021-02-21,North Carolina,Teachey,Thomas Smith Ln and Bay Rd,0,4,https://www.gunviolencearchive.org/incident/1935235,2021,02-2021
+631,631,1934225,2021-02-20,Pennsylvania,Norristown (East Norriton),2912 Swede Rd,1,4,https://www.gunviolencearchive.org/incident/1934225,2021,02-2021
+632,632,1934077,2021-02-20,Louisiana,Metairie,6719 Airline Dr,3,2,https://www.gunviolencearchive.org/incident/1934077,2021,02-2021
+633,633,1933975,2021-02-20,Colorado,Grand Junction,1000 block of Teller Ave,1,3,https://www.gunviolencearchive.org/incident/1933975,2021,02-2021
+634,634,1934181,2021-02-20,Illinois,Springfield,1100 block of S Grand Ave W,1,4,https://www.gunviolencearchive.org/incident/1934181,2021,02-2021
+635,635,1932479,2021-02-18,Louisiana,Baton Rouge,2047 N Foster Dr,1,3,https://www.gunviolencearchive.org/incident/1932479,2021,02-2021
+636,636,1931288,2021-02-17,Pennsylvania,Philadelphia,5597 Old York Rd,0,8,https://www.gunviolencearchive.org/incident/1931288,2021,02-2021
+637,637,1930463,2021-02-16,Florida,Saint Petersburg,2968 Emerson Ave S,3,1,https://www.gunviolencearchive.org/incident/1930463,2021,02-2021
+638,638,1928557,2021-02-13,California,San Francisco,3rd St and Quesada Ave,0,6,https://www.gunviolencearchive.org/incident/1928557,2021,02-2021
+639,639,1928594,2021-02-13,Indiana,Indianapolis,3800 block of N Sherman Dr,0,4,https://www.gunviolencearchive.org/incident/1928594,2021,02-2021
+640,640,1928149,2021-02-13,California,Oakland,1000 block of Washington St,0,6,https://www.gunviolencearchive.org/incident/1928149,2021,02-2021
+641,641,1928205,2021-02-13,North Carolina,Cary,101 Reed St,1,3,https://www.gunviolencearchive.org/incident/1928205,2021,02-2021
+642,642,1926742,2021-02-11,Georgia,Columbus,2001 South Lumpkin Rd,1,4,https://www.gunviolencearchive.org/incident/1926742,2021,02-2021
+643,643,1926701,2021-02-10,Georgia,Atlanta,62 Harwell Rd NW,0,4,https://www.gunviolencearchive.org/incident/1926701,2021,02-2021
+644,644,1924338,2021-02-09,Minnesota,Buffalo,755 Crossroads Campus Dr,1,4,https://www.gunviolencearchive.org/incident/1924338,2021,02-2021
+645,645,1924892,2021-02-09,Texas,Houston,945 W Little York Rd,0,4,https://www.gunviolencearchive.org/incident/1924892,2021,02-2021
+646,646,1921939,2021-02-06,Tennessee,Murfreesboro,Ewing Blvd and West St,1,4,https://www.gunviolencearchive.org/incident/1921939,2021,02-2021
+647,647,1923786,2021-02-06,Louisiana,Thibodaux,1100 block of Tiger Dr,0,4,https://www.gunviolencearchive.org/incident/1923786,2021,02-2021
+648,648,1921768,2021-02-06,Illinois,Bloomingdale,250 W Schick Rd,1,5,https://www.gunviolencearchive.org/incident/1921768,2021,02-2021
+649,649,1922354,2021-02-06,Washington,Tacoma,3634 E McKinley Ave,1,3,https://www.gunviolencearchive.org/incident/1922354,2021,02-2021
+650,650,1921641,2021-02-05,Pennsylvania,Mohnton,360 E Wyomissing Ave,1,3,https://www.gunviolencearchive.org/incident/1921641,2021,02-2021
+651,651,1924951,2021-02-05,Mississippi,Benoit,1017 Lake Bolivar Rd,3,1,https://www.gunviolencearchive.org/incident/1924951,2021,02-2021
+652,652,1920771,2021-02-04,North Carolina,High Point,2912 W English Rd,2,3,https://www.gunviolencearchive.org/incident/1920771,2021,02-2021
+653,653,1919696,2021-02-03,Colorado,Oak Creek,200 block of Wild Hogg Dr,3,2,https://www.gunviolencearchive.org/incident/1919696,2021,02-2021
+654,654,1919399,2021-02-03,Tennessee,Memphis,800 block of Olympic St,1,3,https://www.gunviolencearchive.org/incident/1919399,2021,02-2021
+655,655,1917918,2021-02-02,Florida,Fort Lauderdale (Sunrise),10100 Reflections Blvd W,3,3,https://www.gunviolencearchive.org/incident/1917918,2021,02-2021
+656,656,1917909,2021-02-02,Oklahoma,Muskogee,903 Indiana St,6,1,https://www.gunviolencearchive.org/incident/1917909,2021,02-2021
+657,657,1917661,2021-02-01,New York,Rochester,400 block of Lyell Avenue,1,3,https://www.gunviolencearchive.org/incident/1917661,2021,02-2021
+658,658,1916374,2021-01-30,New York,Albany,200 block of Central Ave,1,4,https://www.gunviolencearchive.org/incident/1916374,2021,01-2021
+659,659,1914798,2021-01-29,Pennsylvania,Mc Kees Rocks (Mckees Rocks),824 Island Ave,2,3,https://www.gunviolencearchive.org/incident/1914798,2021,01-2021
+660,660,1914942,2021-01-28,Michigan,Flint,1900 block of Tebo St,1,4,https://www.gunviolencearchive.org/incident/1914942,2021,01-2021
+661,661,1913708,2021-01-27,California,Santa Ana,1614 S Standard Ave,0,4,https://www.gunviolencearchive.org/incident/1913708,2021,01-2021
+662,662,1911026,2021-01-25,District of Columbia,Washington,1406 Good Hope Rd SE,1,4,https://www.gunviolencearchive.org/incident/1911026,2021,01-2021
+663,663,1910136,2021-01-24,Indiana,Indianapolis,3540 Adams St,5,1,https://www.gunviolencearchive.org/incident/1910136,2021,01-2021
+664,664,1910619,2021-01-24,Nevada,Las Vegas,W Wilson Ave and H St,0,5,https://www.gunviolencearchive.org/incident/1910619,2021,01-2021
+665,665,1909849,2021-01-22,Kentucky,Covington,217 E Martin Luther King Jr Blvd,0,5,https://www.gunviolencearchive.org/incident/1909849,2021,01-2021
+666,666,1905423,2021-01-18,Pennsylvania,Tobyhanna,960 PA-196,0,4,https://www.gunviolencearchive.org/incident/1905423,2021,01-2021
+667,667,1904063,2021-01-17,Arizona,Phoenix,2340 W Northern Ave,0,5,https://www.gunviolencearchive.org/incident/1904063,2021,01-2021
+668,668,1904036,2021-01-17,Arizona,Phoenix,2236 E University Dr,1,6,https://www.gunviolencearchive.org/incident/1904036,2021,01-2021
+669,669,1905360,2021-01-16,Illinois,Kankakee,600 block of N Evergreen Ave,0,5,https://www.gunviolencearchive.org/incident/1905360,2021,01-2021
+670,670,1903058,2021-01-15,Pennsylvania,Philadelphia,5000 block of N 10th St,0,4,https://www.gunviolencearchive.org/incident/1903058,2021,01-2021
+671,671,1899819,2021-01-11,Florida,Miami,2491 NE 58th St,0,4,https://www.gunviolencearchive.org/incident/1899819,2021,01-2021
+672,672,1898261,2021-01-09,Illinois,Evanston,100 Asbury Ave,6,2,https://www.gunviolencearchive.org/incident/1898261,2021,01-2021
+673,673,1897878,2021-01-09,Texas,Houston,5828 Martin Luther King Blvd,1,3,https://www.gunviolencearchive.org/incident/1897878,2021,01-2021
+674,674,1896774,2021-01-07,District of Columbia,Washington,1300 block of Columbia Rd NW,0,5,https://www.gunviolencearchive.org/incident/1896774,2021,01-2021
+675,675,1896384,2021-01-06,Texas,Livingston,201 Maple Ln,2,2,https://www.gunviolencearchive.org/incident/1896384,2021,01-2021
+676,676,1896252,2021-01-06,Virginia,Manassas,10010 Ellis Rd,3,3,https://www.gunviolencearchive.org/incident/1896252,2021,01-2021
+677,677,1894822,2021-01-04,Louisiana,New Orleans,1600 block of N Galvez St,0,4,https://www.gunviolencearchive.org/incident/1894822,2021,01-2021
+678,678,1894979,2021-01-04,Florida,Tampa,1225 S 78th St,0,5,https://www.gunviolencearchive.org/incident/1894979,2021,01-2021
+679,679,1894941,2021-01-04,Florida,Fort Lauderdale (Lauderhill),1828 NW 38th Ave,0,7,https://www.gunviolencearchive.org/incident/1894941,2021,01-2021
+680,680,1893953,2021-01-03,Oregon,Gresham,NE 181st Ave and NE San Rafael St,0,4,https://www.gunviolencearchive.org/incident/1893953,2021,01-2021
+681,681,1893327,2021-01-03,Texas,Houston,2900 Travis St,1,4,https://www.gunviolencearchive.org/incident/1893327,2021,01-2021
+682,682,1893754,2021-01-03,Florida,Miami,3632 NW 25th Ave,0,6,https://www.gunviolencearchive.org/incident/1893754,2021,01-2021
+683,683,1893601,2021-01-03,Louisiana,Shreveport,6900 block of Jewella Ave,2,3,https://www.gunviolencearchive.org/incident/1893601,2021,01-2021
+684,684,1893877,2021-01-03,California,Santa Barbara,1200 block of Liberty St,2,2,https://www.gunviolencearchive.org/incident/1893877,2021,01-2021
+685,685,1893744,2021-01-03,Florida,Miami,10525 NW 24th Ave,0,8,https://www.gunviolencearchive.org/incident/1893744,2021,01-2021
+686,686,1892034,2021-01-01,Arkansas,Fort Smith,3211 Towson Ave,0,7,https://www.gunviolencearchive.org/incident/1892034,2021,01-2021
+687,687,1892704,2021-01-01,Texas,Amarillo,2650 Dumas Dr,1,3,https://www.gunviolencearchive.org/incident/1892704,2021,01-2021
+688,688,1892114,2021-01-01,Iowa,Sioux City,2637 S Walker St,1,4,https://www.gunviolencearchive.org/incident/1892114,2021,01-2021
+689,689,1891720,2021-01-01,Illinois,Galesburg,1000 block of Monroe St,0,4,https://www.gunviolencearchive.org/incident/1891720,2021,01-2021

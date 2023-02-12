@@ -1,4 +1,4 @@
-level_0,index,incident_id,incident_date,state,city_or_country,address,killed,injured,incident_url,year,month-year
+level_0,index,incident_id,incident_date,state,city_or_county,address,killed,injured,incident_url,year,month-year
 0,0,2201535,2021-12-31,Maryland,Capitol Heights,Cindy Ln,0,4,https://www.gunviolencearchive.org/incident/2201535,2021,12-2021
 1,1,2201716,2021-12-31,Mississippi,Gulfport,1200 block of Lewis Ave,4,3,https://www.gunviolencearchive.org/incident/2201716,2021,12-2021
 2,2,2201216,2021-12-31,California,Los Angeles,10211 S. Avalon Blvd,0,6,https://www.gunviolencearchive.org/incident/2201216,2021,12-2021

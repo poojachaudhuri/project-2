@@ -1,4 +1,4 @@
-level_0,index,incident_id,incident_date,state,city_or_country,address,killed,injured,incident_url,year,month-year
+level_0,index,incident_id,incident_date,state,city_or_county,address,killed,injured,incident_url,year,month-year
 0,0,476321,2015-12-31,Louisiana,New Orleans,1900 block of Amelia Street,0,6,https://www.gunviolencearchive.org/incident/476321,2015,12-2015
 1,1,473882,2015-12-27,Tennessee,Jackson,North Parkway,0,4,https://www.gunviolencearchive.org/incident/473882,2015,12-2015
 2,2,472268,2015-12-26,Pennsylvania,Philadelphia,4210 Macalester St,0,4,https://www.gunviolencearchive.org/incident/472268,2015,12-2015

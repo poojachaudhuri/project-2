@@ -1,4 +1,4 @@
-level_0,index,incident_id,incident_date,state,city_or_country,address,killed,injured,incident_url,year,month-year
+level_0,index,incident_id,incident_date,state,city_or_county,address,killed,injured,incident_url,year,month-year
 0,0,271363,2014-12-29,Louisiana,New Orleans,Poydras and Bolivar,0,4,https://www.gunviolencearchive.org/incident/271363,2014,12-2014
 1,1,269679,2014-12-27,California,Los Angeles,8800 block of South Figueroa Street,1,3,https://www.gunviolencearchive.org/incident/269679,2014,12-2014
 2,2,270036,2014-12-27,California,Sacramento,4000 block of May Street,0,4,https://www.gunviolencearchive.org/incident/270036,2014,12-2014

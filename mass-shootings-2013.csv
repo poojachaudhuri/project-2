@@ -1,72 +1,72 @@
 incident_id,incident_date,state,city_or_county,address,killed,injured,incident_url,year
-461105,2013-01-01,Pennsylvania,Mckeesport,1506 Versailles Avenue and Coursin Street,0,4,https://www.gunviolencearchive.org/incident/461105,2013
-460726,2013-01-01,California,Hawthorne,13500 block of Cerise Avenue,1,3,https://www.gunviolencearchive.org/incident/460726,2013
-478948,2013-01-07,Oklahoma,Tulsa,6000 block of South Owasso,4,0,https://www.gunviolencearchive.org/incident/478948,2013
-479363,2013-01-19,New Mexico,Albuquerque,2806 Long Lane,5,0,https://www.gunviolencearchive.org/incident/479363,2013
-479374,2013-01-21,Louisiana,New Orleans,LaSalle Street and Martin Luther King Jr. Boulevard,0,5,https://www.gunviolencearchive.org/incident/479374,2013
-479389,2013-01-21,California,Brentwood,1100 block of Breton Drive,0,4,https://www.gunviolencearchive.org/incident/479389,2013
-492151,2013-01-23,Maryland,Baltimore,1500 block of W. Fayette St.,1,6,https://www.gunviolencearchive.org/incident/492151,2013
-491674,2013-01-23,Tennessee,Chattanooga,1501 Dodds Ave,1,3,https://www.gunviolencearchive.org/incident/491674,2013
-479413,2013-01-25,Missouri,Saint Louis,W Florissant Ave and Riverview Blvd,1,3,https://www.gunviolencearchive.org/incident/479413,2013
-479561,2013-01-26,Louisiana,Charenton,1000 block of Flat Town Road,2,3,https://www.gunviolencearchive.org/incident/479561,2013
-479554,2013-01-26,District of Columbia,Washington,2403 Benning Road Northeast,0,5,https://www.gunviolencearchive.org/incident/479554,2013
-479460,2013-01-26,Ohio,Springfield,601 West Main Street,1,3,https://www.gunviolencearchive.org/incident/479460,2013
-479573,2013-02-02,Tennessee,Memphis,2514 Mount Moriah,0,5,https://www.gunviolencearchive.org/incident/479573,2013
-479580,2013-02-03,California,Marysville (Linda),5800 block of Poplar Avenue,1,3,https://www.gunviolencearchive.org/incident/479580,2013
-479592,2013-02-07,Illinois,Chicago,2500 block of East 75th Street,0,4,https://www.gunviolencearchive.org/incident/479592,2013
-479603,2013-02-09,Louisiana,New Orleans,400 block of Bourbon Street,0,4,https://www.gunviolencearchive.org/incident/479603,2013
-480311,2013-02-11,California,Vallejo,800 block of Humboldt Street,1,4,https://www.gunviolencearchive.org/incident/480311,2013
-480327,2013-02-11,Delaware,Wilmington,500 North King St,3,2,https://www.gunviolencearchive.org/incident/480327,2013
-480344,2013-02-12,Utah,Midvale,8286 Adams Street and 450 West Street,4,1,https://www.gunviolencearchive.org/incident/480344,2013
-480358,2013-02-19,California,Orange,Katella Avenue,4,3,https://www.gunviolencearchive.org/incident/480358,2013
-480383,2013-02-21,Oklahoma,Tulsa,1200 block of North 89th East Avenue,1,3,https://www.gunviolencearchive.org/incident/480383,2013
-480401,2013-02-22,Michigan,Grand Rapids,1447 Grandville Ave. SW,0,4,https://www.gunviolencearchive.org/incident/480401,2013
-480407,2013-02-23,California,Lancaster,43145 Business Center Parkway,0,4,https://www.gunviolencearchive.org/incident/480407,2013
-480443,2013-02-24,Georgia,Macon,2800 block of Mercer University Drive,0,8,https://www.gunviolencearchive.org/incident/480443,2013
-481186,2013-03-02,Louisiana,Shreveport,7000 block of Burlingame Boulevard,1,3,https://www.gunviolencearchive.org/incident/481186,2013
-481198,2013-03-03,Georgia,Moultrie,224 Second Street Northwest,2,2,https://www.gunviolencearchive.org/incident/481198,2013
-481208,2013-03-03,Michigan,Saginaw,4030 Dixie Hwy,0,4,https://www.gunviolencearchive.org/incident/481208,2013
-481213,2013-03-04,California,Los Banos,800 block of La Mesa Lane,1,3,https://www.gunviolencearchive.org/incident/481213,2013
-481220,2013-03-05,Indiana,Indianapolis,1800 block of Edinburge Square,1,3,https://www.gunviolencearchive.org/incident/481220,2013
-481229,2013-03-07,Mississippi,Jackson,2900 block of Greenwood Avenue,2,2,https://www.gunviolencearchive.org/incident/481229,2013
-481237,2013-03-10,Missouri,Kansas City,9331 Hillcrest Rd,0,5,https://www.gunviolencearchive.org/incident/481237,2013
-482771,2013-03-11,District of Columbia,Washington,1200 North Capitol St NW,0,13,https://www.gunviolencearchive.org/incident/482771,2013
-482801,2013-03-13,California,Oceanside,504 Calle Montecito,2,2,https://www.gunviolencearchive.org/incident/482801,2013
-482856,2013-03-13,New York,Mohawk,17 W Main St,5,2,https://www.gunviolencearchive.org/incident/482856,2013
-482838,2013-03-14,California,Modesto,1400 block of Western Way,0,4,https://www.gunviolencearchive.org/incident/482838,2013
-482926,2013-03-16,California,Galt,Dover Drive,0,7,https://www.gunviolencearchive.org/incident/482926,2013
-482934,2013-03-17,California,Stockton,1800 block of East Sonora Street,2,3,https://www.gunviolencearchive.org/incident/482934,2013
-482942,2013-03-17,Florida,Belle Glade,Northwest 16th Street and Northwest Avenue L,0,5,https://www.gunviolencearchive.org/incident/482942,2013
-483737,2013-03-21,Illinois,Chicago,West 87th Street and Ashland Avenue,0,7,https://www.gunviolencearchive.org/incident/483737,2013
-483765,2013-03-21,Missouri,Kansas City,4900 block of Brookside Blvd,1,3,https://www.gunviolencearchive.org/incident/483765,2013
-483788,2013-03-22,New York,Brooklyn,2703 W. 33rd Street,1,3,https://www.gunviolencearchive.org/incident/483788,2013
-483835,2013-03-30,California,Atwater,9200 block of Westside Boulevard,3,2,https://www.gunviolencearchive.org/incident/483835,2013
-483817,2013-03-31,Washington,Auburn,2802 Auburn Way North,3,2,https://www.gunviolencearchive.org/incident/483817,2013
-483861,2013-04-06,South Carolina,Greenwood,Tabor Street,1,4,https://www.gunviolencearchive.org/incident/483861,2013
-483872,2013-04-07,New York,New York (Manhattan),900 Garden Way,1,3,https://www.gunviolencearchive.org/incident/483872,2013
-483878,2013-04-07,California,Long Beach,300 block of East Home Street,1,3,https://www.gunviolencearchive.org/incident/483878,2013
-480691,2013-09-24,West Virginia,Huntington,300 W 7th Ave,0,6,https://www.gunviolencearchive.org/incident/480691,2013
-480700,2013-09-25,North Carolina,Haw River,1003 W. Main St,0,4,https://www.gunviolencearchive.org/incident/480700,2013
-480720,2013-09-27,Ohio,Zanesville,753 Putnam Ave,0,4,https://www.gunviolencearchive.org/incident/480720,2013
-480730,2013-09-29,Illinois,Chicago,6000 block of South Indiana Avenue,0,4,https://www.gunviolencearchive.org/incident/480730,2013
-480747,2013-10-02,Nebraska,Omaha,North 42nd and Browne streets,0,4,https://www.gunviolencearchive.org/incident/480747,2013
-480765,2013-10-05,California,Fresno,3883 E. Calwa #114,1,12,https://www.gunviolencearchive.org/incident/480765,2013
-480882,2013-10-05,New York,Buffalo,102 Zelmer Street,0,4,https://www.gunviolencearchive.org/incident/480882,2013
-480961,2013-10-06,Pennsylvania,Philadelphia,54th St. and Florence Ave,1,5,https://www.gunviolencearchive.org/incident/480961,2013
-480897,2013-10-06,Arizona,Avondale,11120 W Van Buren St,0,4,https://www.gunviolencearchive.org/incident/480897,2013
-480981,2013-10-09,Texas,Paris,400 block of NE 6th Street,4,0,https://www.gunviolencearchive.org/incident/480981,2013
-481029,2013-10-12,Oklahoma,Tulsa,12000 E 31st St,0,5,https://www.gunviolencearchive.org/incident/481029,2013
-481043,2013-10-13,Pennsylvania,Harrisburg,1524 Walnut St,0,8,https://www.gunviolencearchive.org/incident/481043,2013
-481254,2013-10-20,Florida,Margate,7400 block of Santa Monica Drive,0,4,https://www.gunviolencearchive.org/incident/481254,2013
-481263,2013-10-20,Florida,Miami,19600 block of Southwest 168th Street,2,2,https://www.gunviolencearchive.org/incident/481263,2013
-481268,2013-10-21,Pennsylvania,Pittsburgh (Homewood),7200 block of Kelly Street,2,5,https://www.gunviolencearchive.org/incident/481268,2013
-481419,2013-10-26,Florida,Miami Gardens,NW 187 Street and 30 Avenue,0,4,https://www.gunviolencearchive.org/incident/481419,2013
-492366,2013-10-26,Connecticut,New Haven,85 Saint John St,1,5,https://www.gunviolencearchive.org/incident/492366,2013
-492427,2013-10-27,Texas,Beaumont,500 block of Edgemore Drive,0,4,https://www.gunviolencearchive.org/incident/492427,2013
-492699,2013-10-27,California,Roseville,6th Street and Hampton,0,4,https://www.gunviolencearchive.org/incident/492699,2013
-492393,2013-10-27,North Carolina,Southern Pines,115 Turner St,1,4,https://www.gunviolencearchive.org/incident/492393,2013
-492570,2013-10-27,California,Vallejo,200 block of Princeton Avenue,1,6,https://www.gunviolencearchive.org/incident/492570,2013
-492914,2013-10-29,South Carolina,Bradley (Callison),Callison Highway,5,0,https://www.gunviolencearchive.org/incident/492914,2013
-492933,2013-11-02,Kentucky,Radcliff,355 Shelby Avenue,1,3,https://www.gunviolencearchive.org/incident/492933,2013
-492985,2013-11-03,California,Perris,2900 block of Perris Boulevard,0,5,https://www.gunviolencearchive.org/incident/492985,2013
-492950,2013-11-03,California,Los Angeles,1 World Way,1,3,https://www.gunviolencearchive.org/incident/492950,2013
+461105,1/1/13,Pennsylvania,Mckeesport,1506 Versailles Avenue and Coursin Street,0,4,https://www.gunviolencearchive.org/incident/461105,2013
+460726,1/1/13,California,Hawthorne,13500 block of Cerise Avenue,1,3,https://www.gunviolencearchive.org/incident/460726,2013
+478948,1/7/13,Oklahoma,Tulsa,6000 block of South Owasso,4,0,https://www.gunviolencearchive.org/incident/478948,2013
+479363,1/19/13,New Mexico,Albuquerque,2806 Long Lane,5,0,https://www.gunviolencearchive.org/incident/479363,2013
+479374,1/21/13,Louisiana,New Orleans,LaSalle Street and Martin Luther King Jr. Boulevard,0,5,https://www.gunviolencearchive.org/incident/479374,2013
+479389,1/21/13,California,Brentwood,1100 block of Breton Drive,0,4,https://www.gunviolencearchive.org/incident/479389,2013
+492151,1/23/13,Maryland,Baltimore,1500 block of W. Fayette St.,1,6,https://www.gunviolencearchive.org/incident/492151,2013
+491674,1/23/13,Tennessee,Chattanooga,1501 Dodds Ave,1,3,https://www.gunviolencearchive.org/incident/491674,2013
+479413,1/25/13,Missouri,Saint Louis,W Florissant Ave and Riverview Blvd,1,3,https://www.gunviolencearchive.org/incident/479413,2013
+479561,1/26/13,Louisiana,Charenton,1000 block of Flat Town Road,2,3,https://www.gunviolencearchive.org/incident/479561,2013
+479554,1/26/13,District of Columbia,Washington,2403 Benning Road Northeast,0,5,https://www.gunviolencearchive.org/incident/479554,2013
+479460,1/26/13,Ohio,Springfield,601 West Main Street,1,3,https://www.gunviolencearchive.org/incident/479460,2013
+479573,2/2/13,Tennessee,Memphis,2514 Mount Moriah,0,5,https://www.gunviolencearchive.org/incident/479573,2013
+479580,2/3/13,California,Marysville (Linda),5800 block of Poplar Avenue,1,3,https://www.gunviolencearchive.org/incident/479580,2013
+479592,2/7/13,Illinois,Chicago,2500 block of East 75th Street,0,4,https://www.gunviolencearchive.org/incident/479592,2013
+479603,2/9/13,Louisiana,New Orleans,400 block of Bourbon Street,0,4,https://www.gunviolencearchive.org/incident/479603,2013
+480311,2/11/13,California,Vallejo,800 block of Humboldt Street,1,4,https://www.gunviolencearchive.org/incident/480311,2013
+480327,2/11/13,Delaware,Wilmington,500 North King St,3,2,https://www.gunviolencearchive.org/incident/480327,2013
+480344,2/12/13,Utah,Midvale,8286 Adams Street and 450 West Street,4,1,https://www.gunviolencearchive.org/incident/480344,2013
+480358,2/19/13,California,Orange,Katella Avenue,4,3,https://www.gunviolencearchive.org/incident/480358,2013
+480383,2/21/13,Oklahoma,Tulsa,1200 block of North 89th East Avenue,1,3,https://www.gunviolencearchive.org/incident/480383,2013
+480401,2/22/13,Michigan,Grand Rapids,1447 Grandville Ave. SW,0,4,https://www.gunviolencearchive.org/incident/480401,2013
+480407,2/23/13,California,Lancaster,43145 Business Center Parkway,0,4,https://www.gunviolencearchive.org/incident/480407,2013
+480443,2/24/13,Georgia,Macon,2800 block of Mercer University Drive,0,8,https://www.gunviolencearchive.org/incident/480443,2013
+481186,3/2/13,Louisiana,Shreveport,7000 block of Burlingame Boulevard,1,3,https://www.gunviolencearchive.org/incident/481186,2013
+481198,3/3/13,Georgia,Moultrie,224 Second Street Northwest,2,2,https://www.gunviolencearchive.org/incident/481198,2013
+481208,3/3/13,Michigan,Saginaw,4030 Dixie Hwy,0,4,https://www.gunviolencearchive.org/incident/481208,2013
+481213,3/4/13,California,Los Banos,800 block of La Mesa Lane,1,3,https://www.gunviolencearchive.org/incident/481213,2013
+481220,3/5/13,Indiana,Indianapolis,1800 block of Edinburge Square,1,3,https://www.gunviolencearchive.org/incident/481220,2013
+481229,3/7/13,Mississippi,Jackson,2900 block of Greenwood Avenue,2,2,https://www.gunviolencearchive.org/incident/481229,2013
+481237,3/10/13,Missouri,Kansas City,9331 Hillcrest Rd,0,5,https://www.gunviolencearchive.org/incident/481237,2013
+482771,3/11/13,District of Columbia,Washington,1200 North Capitol St NW,0,13,https://www.gunviolencearchive.org/incident/482771,2013
+482801,3/13/13,California,Oceanside,504 Calle Montecito,2,2,https://www.gunviolencearchive.org/incident/482801,2013
+482856,3/13/13,New York,Mohawk,17 W Main St,5,2,https://www.gunviolencearchive.org/incident/482856,2013
+482838,3/14/13,California,Modesto,1400 block of Western Way,0,4,https://www.gunviolencearchive.org/incident/482838,2013
+482926,3/16/13,California,Galt,Dover Drive,0,7,https://www.gunviolencearchive.org/incident/482926,2013
+482934,3/17/13,California,Stockton,1800 block of East Sonora Street,2,3,https://www.gunviolencearchive.org/incident/482934,2013
+482942,3/17/13,Florida,Belle Glade,Northwest 16th Street and Northwest Avenue L,0,5,https://www.gunviolencearchive.org/incident/482942,2013
+483737,3/21/13,Illinois,Chicago,West 87th Street and Ashland Avenue,0,7,https://www.gunviolencearchive.org/incident/483737,2013
+483765,3/21/13,Missouri,Kansas City,4900 block of Brookside Blvd,1,3,https://www.gunviolencearchive.org/incident/483765,2013
+483788,3/22/13,New York,Brooklyn,2703 W. 33rd Street,1,3,https://www.gunviolencearchive.org/incident/483788,2013
+483835,3/30/13,California,Atwater,9200 block of Westside Boulevard,3,2,https://www.gunviolencearchive.org/incident/483835,2013
+483817,3/31/13,Washington,Auburn,2802 Auburn Way North,3,2,https://www.gunviolencearchive.org/incident/483817,2013
+483861,4/6/13,South Carolina,Greenwood,Tabor Street,1,4,https://www.gunviolencearchive.org/incident/483861,2013
+483872,4/7/13,New York,New York (Manhattan),900 Garden Way,1,3,https://www.gunviolencearchive.org/incident/483872,2013
+483878,4/7/13,California,Long Beach,300 block of East Home Street,1,3,https://www.gunviolencearchive.org/incident/483878,2013
+480691,9/24/13,West Virginia,Huntington,300 W 7th Ave,0,6,https://www.gunviolencearchive.org/incident/480691,2013
+480700,9/25/13,North Carolina,Haw River,1003 W. Main St,0,4,https://www.gunviolencearchive.org/incident/480700,2013
+480720,9/27/13,Ohio,Zanesville,753 Putnam Ave,0,4,https://www.gunviolencearchive.org/incident/480720,2013
+480730,9/29/13,Illinois,Chicago,6000 block of South Indiana Avenue,0,4,https://www.gunviolencearchive.org/incident/480730,2013
+480747,10/2/13,Nebraska,Omaha,North 42nd and Browne streets,0,4,https://www.gunviolencearchive.org/incident/480747,2013
+480765,10/5/13,California,Fresno,3883 E. Calwa #114,1,12,https://www.gunviolencearchive.org/incident/480765,2013
+480882,10/5/13,New York,Buffalo,102 Zelmer Street,0,4,https://www.gunviolencearchive.org/incident/480882,2013
+480961,10/6/13,Pennsylvania,Philadelphia,54th St. and Florence Ave,1,5,https://www.gunviolencearchive.org/incident/480961,2013
+480897,10/6/13,Arizona,Avondale,11120 W Van Buren St,0,4,https://www.gunviolencearchive.org/incident/480897,2013
+480981,10/9/13,Texas,Paris,400 block of NE 6th Street,4,0,https://www.gunviolencearchive.org/incident/480981,2013
+481029,10/12/13,Oklahoma,Tulsa,12000 E 31st St,0,5,https://www.gunviolencearchive.org/incident/481029,2013
+481043,10/13/13,Pennsylvania,Harrisburg,1524 Walnut St,0,8,https://www.gunviolencearchive.org/incident/481043,2013
+481254,10/20/13,Florida,Margate,7400 block of Santa Monica Drive,0,4,https://www.gunviolencearchive.org/incident/481254,2013
+481263,10/20/13,Florida,Miami,19600 block of Southwest 168th Street,2,2,https://www.gunviolencearchive.org/incident/481263,2013
+481268,10/21/13,Pennsylvania,Pittsburgh (Homewood),7200 block of Kelly Street,2,5,https://www.gunviolencearchive.org/incident/481268,2013
+481419,10/26/13,Florida,Miami Gardens,NW 187 Street and 30 Avenue,0,4,https://www.gunviolencearchive.org/incident/481419,2013
+492366,10/26/13,Connecticut,New Haven,85 Saint John St,1,5,https://www.gunviolencearchive.org/incident/492366,2013
+492427,10/27/13,Texas,Beaumont,500 block of Edgemore Drive,0,4,https://www.gunviolencearchive.org/incident/492427,2013
+492699,10/27/13,California,Roseville,6th Street and Hampton,0,4,https://www.gunviolencearchive.org/incident/492699,2013
+492393,10/27/13,North Carolina,Southern Pines,115 Turner St,1,4,https://www.gunviolencearchive.org/incident/492393,2013
+492570,10/27/13,California,Vallejo,200 block of Princeton Avenue,1,6,https://www.gunviolencearchive.org/incident/492570,2013
+492914,10/29/13,South Carolina,Bradley (Callison),Callison Highway,5,0,https://www.gunviolencearchive.org/incident/492914,2013
+492933,11/2/13,Kentucky,Radcliff,355 Shelby Avenue,1,3,https://www.gunviolencearchive.org/incident/492933,2013
+492985,11/3/13,California,Perris,2900 block of Perris Boulevard,0,5,https://www.gunviolencearchive.org/incident/492985,2013
+492950,11/3/13,California,Los Angeles,1 World Way,1,3,https://www.gunviolencearchive.org/incident/492950,2013

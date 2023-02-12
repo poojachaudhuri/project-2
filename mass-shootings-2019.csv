@@ -1,4 +1,4 @@
-level_0,index,incident_id,incident_date,state,city_or_country,address,killed,injured,incident_url,year,month-year
+level_0,index,incident_id,incident_date,state,city_or_county,address,killed,injured,incident_url,year,month-year
 0,0,1582816,2019-12-29,Illinois,Danville,1803 block of Westview Ave,0,5,https://www.gunviolencearchive.org/incident/1582816,2019,12-2019
 1,1,1582197,2019-12-29,New York,Buffalo,50 block of Henrietta Ave,1,3,https://www.gunviolencearchive.org/incident/1582197,2019,12-2019
 2,2,1583444,2019-12-29,California,Ceres,800 block of Allacante Dr,0,5,https://www.gunviolencearchive.org/incident/1583444,2019,12-2019

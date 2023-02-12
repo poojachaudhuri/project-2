@@ -1,4 +1,4 @@
-level_0,index,incident_id,incident_date,state,city_or_country,address,killed,injured,incident_url,year,month-year
+level_0,index,incident_id,incident_date,state,city_or_county,address,killed,injured,incident_url,year,month-year
 0,0,1017372,2017-12-31,Colorado,Littleton (Highlands Ranch),3404 E County Line Rd,2,6,https://www.gunviolencearchive.org/incident/1017372,2017,12-2017
 1,1,1017422,2017-12-31,Illinois,Chicago,2335 Howard St,0,4,https://www.gunviolencearchive.org/incident/1017422,2017,12-2017
 2,2,1018118,2017-12-31,New Jersey,Long Branch,635 Wall St,4,0,https://www.gunviolencearchive.org/incident/1018118,2017,12-2017

@@ -1,34 +1,34 @@
-state,2014,2020,change,perc_change,suicide_2014,suicide_2020
-Maryland,1,18,17,1700,4.6,4.4
-Connecticut,1,7,6,600,3.5,3.1
+state,shootings_2014,shootings_2020,change,perc_change,suicide_2014,suicide_2020
+Maryland,1,18,17,1700.0,4.6,4.4
+Connecticut,1,7,6,600.0,3.5,3.1
 North Carolina,3,20,17,566.67,7.6,8.3
-Arkansas,2,13,11,550,10.9,12
-Minnesota,1,6,5,500,5.6,6.3
-Alabama,2,11,9,450,9.9,11
-Colorado,2,11,9,450,10.1,11.3
-Wisconsin,2,10,8,400,6.1,7.6
-Arizona,1,4,3,300,10.1,11.2
+Arkansas,2,13,11,550.0,10.9,12.0
+Minnesota,1,6,5,500.0,5.6,6.3
+Alabama,2,11,9,450.0,9.9,11.0
+Colorado,2,11,9,450.0,10.1,11.3
+Wisconsin,2,10,8,400.0,6.1,7.6
+Arizona,1,4,3,300.0,10.1,11.2
 Ohio,7,25,18,257.14,6.4,7.7
-Mississippi,5,17,12,240,8.4,9.4
-Pennsylvania,10,34,24,240,7,7.2
+Mississippi,5,17,12,240.0,8.4,9.4
+Pennsylvania,10,34,24,240.0,7.0,7.2
 South Carolina,7,22,15,214.29,9.9,10.8
-New Mexico,1,3,2,200,11.7,14.4
-Missouri,8,22,14,175,9.7,11.4
+New Mexico,1,3,2,200.0,11.7,14.4
+Missouri,8,22,14,175.0,9.7,11.4
 New York,14,38,24,171.43,2.4,2.4
 Illinois,26,68,42,161.54,4.1,4.3
-Kentucky,4,10,6,150,10.6,11.6
+Kentucky,4,10,6,150.0,10.6,11.6
 Louisiana,11,27,16,145.45,9.5,8.7
-Texas,17,34,17,100,6.6,7.8
-Massachusetts,4,8,4,100,1.9,1.9
-New Jersey,6,12,6,100,2.2,2
-Florida,17,34,17,100,7.7,8
+Texas,17,34,17,100.0,6.6,7.8
+Massachusetts,4,8,4,100.0,1.9,1.9
+New Jersey,6,12,6,100.0,2.2,2.0
+Florida,17,34,17,100.0,7.7,8.0
 Michigan,11,21,10,90.91,6.8,7.6
-Washington,3,5,2,66.67,7.8,8
+Washington,3,5,2,66.67,7.8,8.0
 Tennessee,13,19,6,46.15,9.8,11.1
 Virginia,8,11,3,37.5,7.5,8.1
-Nevada,4,4,0,0,10.9,11.9
-Oklahoma,2,2,0,0,11.2,13.5
-Oregon,2,2,0,0,10.6,10.7
-Georgia,17,17,0,0,8.3,8.8
+Nevada,4,4,0,0.0,10.9,11.9
+Oklahoma,2,2,0,0.0,11.2,13.5
+Oregon,2,2,0,0.0,10.6,10.7
+Georgia,17,17,0,0.0,8.3,8.8
 California,41,39,-2,-4.88,4.1,3.9
-Indiana,8,7,-1,-12.5,8,9
+Indiana,8,7,-1,-12.5,8.0,9.0

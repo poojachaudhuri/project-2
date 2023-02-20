@@ -10,10 +10,15 @@ have been killed or injured.
 
 ## Findings
 
-The number of mass shootings have almost doubled since 2014 and the incident has become deadlier. 
+The number of mass shootings have almost doubled since 2014 and the incidents have become deadlier. 
 
 ## Limitations
 
 Mass shootings can depend on a number of factors such as state demographics (population, age, race, ethnicity, income), state-wise gun laws 
-and gun ownership, and several other variables. 
+and gun ownership, and several other variables. The analysis does not take these into account because it is difficult to make a methodological choice and 
+ajust for one variable (or a few) and leave out others. The analysis has on absolute national and state-wise numbers. And in one case, percentage change. 
+
+## Further 
+
+Data analysis can only achieve so much and the project needs traditional reporting - talking to experts - that makes sense of the trends.
 
